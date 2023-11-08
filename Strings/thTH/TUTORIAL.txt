@@ -62,3 +62,48 @@ TUTORIAL06_HELP_01	ลอร์วอล์คเกอร์ โช
 TUTORIAL06_HELP_02	เมื่อมินเนี่ยนต่อสู้กัน *ทั้งคู่* จะได้รับความเสียหาย	
 TUTORIAL06_HELP_03	มินเนี่ยนที่ความสามารถ "คำรามสู้ศึก" จะทำบางอย่างเมื่อคุณส่งลงจากมือ	
 TUTORIAL06_HELP_04	ฆ่ามินเนี่ยนของฝ่ายตรงข้ามก่อนที่พวกมันจะกลายเป็นตัวปัญหา!	
+TUTR_HELPER_Fight_01_AttackHero	โจมตีเร็กซ์ซาร์ด้วย[b]มินเนี่ยน[b]ของ[b]คุณ!	
+TUTR_HELPER_Fight_01_AttackHuffer	โจมตีมินเนี่ยนศัตรู!	
+TUTR_HELPER_Fight_01_HeroPower	ใช้พลังฮีโร่ของคุณใส่มินเนี่ยนตัวนั้น!	
+TUTR_HELPER_Fight_01_HistoryTiles	แถบประวัติแสดงการกระทำที่ผ่านมา	
+TUTR_HELPER_Fight_01_Mana	มานาเพิ่มขึ้นทุกรอบ การเล่นการ์ดต้องใช้มานา	
+TUTR_HELPER_Fight_01_Mana_02	คริสตัลมานาจะฟื้นฟูกลับมาทุกรอบ	
+TUTR_HELPER_Fight_01_MinionsDestroyed	มินเนี่ยนสร้างความเสียหาย[b]ให้[b]กัน[b]และ[b]กัน[b]เมื่อ[b]โจมตี	
+TUTR_HELPER_Fight_01_PlayCard	ลากมินเนี่ยนใบนี้ลงสนามเพื่อเล่นมัน!	
+TUTR_HELPER_Fight_01_PlayHuffer	ค่าพลังโจมตีทางซ้าย[b]คือ[b]ความ[b]เสียหาย[b]ที่[b]มินเนี่ยน[b]สร้าง[b]ให้[b]ศัตรู	
+TUTR_HELPER_Fight_01_PlayHuffer_02	ค่าพลังชีวิตทางขวา[b]คือ[b]ความ[b]เสียหาย[b]ที่มัน[b]รับได้[b]ก่อน[b]ตาย	
+TUTR_HELPER_Fight_01_PlayMinion	วางเคอร์เซอร์เหนือการ์ดเพื่อดูความสามารถของมัน	
+TUTR_HELPER_Fight_01_PlayMinion_Mobile	แตะค้างที่การ์ดเพื่อดูความสามารถของมัน	
+TUTR_HELPER_Fight_01_PlaySpell	ลากเวทมนตร์นี้ไปที่มินเนี่ยนศัตรูเพื่อทำลายมัน!	
+TUTR_HELPER_Fight_01_PlayTaunt	มินเนี่ยนต้องทำลายศัตรูที่มียั่วยุก่อน	
+TUTR_HELPER_Fight_01_PlayWeapon	อาวุธเสียความทนทานเมื่อฮีโร่โจมตี	
+TUTR_HELPER_Fight_01_SpellIgnoresTaunt	เวทมนตร์[b]ไม่สนใจ[b]ยั่วยุ	
+TUTR_HELPER_Fight_01_WinCondition	คุณต้องลดพลังชีวิตของคู่ต่อสู้ให้เหลือ 0 เพื่อชนะเกม	
+VO_DALA_BOSS_99h_Male_Human_AfterFreezing_01	ข้าจะเก็บมันไว้[b]สำหรับคราวหน้านะ	
+VO_DALA_BOSS_99h_Male_Human_AfterSelling_01	เสียมินเนี่ยนไป ได้ทองมา	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_01	เยี่ยม! เดี๋ยวจะหา[b]มินเนี่ยนดีๆ มาให้นะ	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_02	แจ๋ว ปรับปรุงร้านกันหน่อย!	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_03	เยี่ยม! คราวนี้[b]ก็หามินเนี่ยนเก่งๆ มาเพิ่มได้แล้ว	
+VO_DALA_BOSS_99h_Male_Human_AfterShopUpgrade_04	พร้อมให้บริการ[b]เต็มรูปแบบ!	
+VO_DALA_BOSS_99h_Male_Human_AfterTriple_01	โอ้โฮ่ ก้าวหน้าใหญ่แล้ว!	
+VO_DALA_BOSS_99h_Male_Human_AfterTriple_02	นี่ใช่มั้ยที่เจ้าต้องการ	
+VO_DALA_BOSS_99h_Male_Human_AfterTriple_03	เด็ดดวงมาก อยากรู้[b]แล้วว่าจะเป็นไงต่อ	
+VO_DALA_BOSS_99h_Male_Human_CombatWin_03	เมื่อกี้สุดยอดเลย! กดดันต่อไปนะ	
+VO_DALA_BOSS_99h_Male_Human_FirstBattle_01	ได้เวลาสู้กันแล้ว! มินเนี่ยนของเจ้าจะโจมตีเอง ไล่จากซ้ายไปขวา	
+VO_DALA_BOSS_99h_Male_Human_FirstVictory_01	ต้องอย่างนี้สิ! น่าประทับใจมากเพื่อน!	
+VO_DALA_BOSS_99h_Male_Human_General_02	ข้ามีนักสู้ใหม่ๆ มาให้เลือก!	
+VO_DALA_BOSS_99h_Male_Human_HeroSelection_01	มินเนี่ยนของเจ้าจะสู้เอง แต่ก็ต้องมีแม่ทัพเก่งๆ คอยนำ	
+VO_DALA_BOSS_99h_Male_Human_Hire_01	เอาเลย จ้างนักสู้ไว้ซักคนสิ	
+VO_DALA_BOSS_99h_Male_Human_Hire_02	มีโอกาสก็จ้าง\nนักสู้ไว้นะ	
+VO_DALA_BOSS_99h_Male_Human_Idle_02	ใช้จ่ายให้คุ้มค่า แต่อย่าลืมใช้จ่าย!	
+VO_DALA_BOSS_99h_Male_Human_Idle_03	ดูเจ้าทำงานแล้วสนุกดี	
+VO_DALA_BOSS_99h_Male_Human_ModeSelect_01	ขอต้อนรับสู่ Battlegrounds! ผู้ท้าชิงแปดคนเผชิญหน้า แต่ผู้ชนะมีเพียงหนึ่ง	
+VO_DALA_BOSS_99h_Male_Human_RecruitMediumMinion_03	ข้าชอบนะ[b]ที่เจ้าเลือกทางนี้	
+VO_DALA_BOSS_99h_Male_Human_RecruitSmallMinion_02	มีมินเนี่ยน[b]ไว้เล่นบ้างก็ไม่เลว	
+VO_DALA_BOSS_99h_Male_Human_RecruitWork_01	หางานให้มันทำหน่อย	
+VO_DALA_BOSS_99h_Male_Human_ShopFirstTime_01	ที่นี่มีไว้สำหรับจ้าง[b]มินเนี่ยนใหม่เข้าร่วม[b]การต่อสู้ เลือกดีๆ นะ!	
+VO_DALA_BOSS_99h_Male_Human_ShopUpgrade_01	ถ้าเจ้าอัพเกรด[b]โรงเตี๊ยมก็จะเลือกมินเนี่ยน[b]ที่แข็งแกร่งขึ้นได้นะ	
+VO_DALA_BOSS_99h_Male_Human_Triple_01	ถ้าจ้างมินเนี่ยนตัวนั้น[b]เจ้าจะได้ทริปเปิ้ล	
+VO_DALA_BOSS_99h_Male_Human_Triple_02	เจ้าทำทริปเปิ้ลได้นะ	
+VO_DALA_BOSS_99h_Male_Human_Triple_03	ทริปเปิ้ลนี่นา! เอารางวัลไปเลย	
+VO_DALA_BOSS_99h_Male_Human_UpgradeShop_01	เจ้าน่าจะอัพเกรด[b]โรงเตี๊ยมหน่อยนะ ไม่งั้น[b]ตามคู่แข่งไม่ทันแน่	

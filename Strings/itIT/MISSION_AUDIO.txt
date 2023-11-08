@@ -768,7 +768,7 @@ VO_BOM_10_004_Female_Orc_Rokara_InGame_HE_Custom_IfCarielDestroysMinion_01_A	Ehi
 VO_BOM_10_004_Female_Orc_Rokara_InGame_HE_Custom_IfTavishDestroysMinion_01_A	Bel colpo, Piccatonante.	
 VO_BOM_10_004_Female_Orc_Rokara_InGame_HE_Custom_IfTavishDestroysMinion_01_C	Certo che no, non preoccuparti.	
 VO_BOM_10_004_Male_Dragon_Kazakusan_Death_01	Reuse	
-VO_BOM_10_004_Male_Dragon_Kazakusan_Emote_Attack_01	Reuse	
+VO_BOM_10_004_Male_Dragon_Kazakusan_Emote_Attack_01	Riutilizzare	
 VO_BOM_10_004_Male_Dragon_Kazakusan_Emote_Attack_02	Ti schiaccerò!	
 VO_BOM_10_004_Male_Dragon_Kazakusan_Emote_Attack_03	È giunta la tua fine!	
 VO_BOM_10_004_Male_Dragon_Kazakusan_Emote_Attack_04	Ti divorerò in un boccone.	
@@ -4712,7 +4712,7 @@ VO_DALA_Tekahn_Male_TolVir_ERROR_HAND_FULL_01	Ma guarda, la mia mano è piena.
 VO_DALA_Tekahn_Male_TolVir_ERROR_I_ATTACKED_01	Ho già attaccato... ed è stato fantastico.	
 VO_DALA_Tekahn_Male_TolVir_ERROR_MINION_ATTACKED_01	Quel servitore ha già attaccato.	
 VO_DALA_Tekahn_Male_TolVir_ERROR_NEED_MANA_01	Mi manca il Mana.	
-VO_DALA_Tekahn_Male_TolVir_ERROR_NEED_WEAPON_01	Ho bisogno di un'Arma.	
+VO_DALA_Tekahn_Male_TolVir_ERROR_NEED_WEAPON_01	Mi serve un'arma.	
 VO_DALA_Tekahn_Male_TolVir_ERROR_PLAY_01	Non posso giocare questa carta.	
 VO_DALA_Tekahn_Male_TolVir_ERROR_STEALTH_01	Quel servitore si nasconde da me.	
 VO_DALA_Tekahn_Male_TolVir_ERROR_SUMMON_SICKNESS_01	Ha bisogno di un turno per prepararsi.	

@@ -93,6 +93,7 @@ GAMEPLAY_DISCONNECT_BODY_RESET	¡Partida terminada y grabada! Te estamos reconec
 GAMEPLAY_DISCONNECT_HEADER	Desconectado 	
 GAMEPLAY_DISCOVER_JUGGERNAUT	Elige a tu capitán rival...	
 GAMEPLAY_DISCOVER_MYSTERY	¿Qué eligió tu adversario?	
+GAMEPLAY_DISCOVER_OVERRIDE_AUDIENCE_CHOICE	Elige una carta para TODOS los jugadores	
 GAMEPLAY_DISCOVER_OVERRIDE_EXPLORER_RETRAINING	Elegir un Poder de héroe nuevo	
 GAMEPLAY_DISCOVER_OVERRIDE_FRIENDLY_SMITH	Agregar al mazo y otorgar +2/+2	
 GAMEPLAY_DISCOVER_OVERRIDE_HIRING_REPLACEMENTS	Reemplazar con	
@@ -307,6 +308,7 @@ GAMEPLAY_PlayErrors_REQ_TARGET_IS_NON_MERC	[PH] That is not a Non-Mercenary
 GAMEPLAY_PlayErrors_REQ_TARGET_IS_NON_TITAN	No puedes hacer objetivo en un titán.	
 GAMEPLAY_PlayErrors_REQ_TARGET_MAGNET	Hay un esbirro al que debes hacer objetivo	
 GAMEPLAY_PlayErrors_REQ_TARGET_MAX_ATTACK	Selecciona un personaje con {0} de Ataque o menos	
+GAMEPLAY_PlayErrors_REQ_TARGET_MAX_COST	Selecciona un esbirro que cueste {0} o menos	
 GAMEPLAY_PlayErrors_REQ_TARGET_MIN_ATTACK	Selecciona un personaje con {0} de Ataque o más	
 GAMEPLAY_PlayErrors_REQ_TARGET_MUST_HAVE_TAG	Elige otro objetivo	
 GAMEPLAY_PlayErrors_REQ_TARGET_NON_TRIPLED_MINION	No puede usarse en un esbirro dorado	

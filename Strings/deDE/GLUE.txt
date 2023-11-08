@@ -527,9 +527,29 @@ GLUE_CARD_NERF_BODY	\n|4(Die folgende Karte wurde,Die folgenden Karten wurden) v
 GLUE_CARD_NERF_HEADER	Änderungen!	
 GLUE_CARDS_ADDED	{0} neue Karten wurden zum Klassikset hinzugefügt!	
 GLUE_CARDS_UPDATED	Diese Karten haben sich verändert:	
+GLUE_CATCH_UP_CARD_BODY	Seht sie euch in\nEurer Sammlung an!	
+GLUE_CATCH_UP_CARD_BODY_OVER25	Zu viele, um sie hier alle zu sehen.\nSeht sie alle in Eurer Sammlung!	
+GLUE_CATCH_UP_CARD_HEADER	Ihr habt Karten erhalten!	
+GLUE_CATCH_UP_CARD_HEADER_OVER10	Ein ganzer Haufen Karten!	
+GLUE_CATCH_UP_CARD_HEADER_OVER25	Wow, so viele Karten!	
+GLUE_CATCH_UP_CARD_RIBBON	{0} Karten	0=number of total cards
+GLUE_CATCH_UP_CARD_TOOLTIP_DESC	Aufholpackungen enthalten bis zu 50 Karten, je nachdem wie viele Karten Ihr von den enthaltenen Sets nicht erhalten habt!	
+GLUE_CATCH_UP_CARD_TOOLTIP_STATSHEADER	Eure Set-Vollständigkeit:	
+GLUE_CATCH_UP_CARD_TOOLTIP_TITLE	Aufholpackungen	
+GLUE_CATCH_UP_LETTER_BODY	Partner! Bei meinen Abenteuern im Ödland habe ich etwas aufgetrieben, das sich „AUFHOLPACKUNGEN“ nennt! Damit kommt man selbst in löchrigen Stiefeln weit!	
+GLUE_CATCH_UP_LETTER_SIGNATURE	Ich hab genug für alle da!\n-Reno	
+GLUE_CATCH_UP_PILE_BANNER	{0} Karten!	0=number of total bonus cards
+GLUE_CATCH_UP_PILE_BANNER_OVER25	Aufholkarten!	
+GLUE_CATCHUP_PILE_NEW	BRANDNEU!	
+GLUE_CATCHUP_SUMMARY_EXPANSION_COLLECTION_STATS	{0}: {1}%	0=Expansion name, 1=collection completion
+GLUE_CATCHUP_SUMMARY_EXPANSION_COLLECTION_STATS_WITH_NEW_CARDS	{0}: {1}% ({2} neu!)	0=Expansion name, 1=collection completion, 2 =number of new cards
 GLUE_CHECKOUT_ERROR_GENERIC_FAILURE	Huch! Etwas ist schief gelaufen. Bitte versuchen Sie es später erneut.	
 GLUE_CHECKOUT_ERROR_INSUFFICIENT_FUNDS	Sie haben nicht genügend Guthaben, um diesen Kauf abzuschließen.	
 GLUE_CHECKOUT_ERROR_PRODUCT_UNAVAILABLE	Dieses Produkt ist im Moment nicht verfügbar.	
+GLUE_CHECKOUT_HICKORY_ACCOUNT_FAILURE	Mit Ihrem Konto können keine Einkäufe getätigt werden. Bitte überprüfen Sie Ihre Kontoeinstellungen oder wenden Sie sich für weitere Informationen an den HICKORY-Support.	
+GLUE_CHECKOUT_HICKORY_OVERLAY_FAILURE	Sie müssen das Overlay aktivieren, um Einkäufe tätigen zu können. Dieses finden Sie im Einstellungsmenü.	
+GLUE_CHECKOUT_HICKORY_RECONCILE_FAILURE	Bei Ihrem ausstehenden Kauf ist ein Fehler aufgetreten. Bitte starten Sie den Client neu.	
+GLUE_CHECKOUT_HICKORY_TIMEOUT_FAILURE	Die Zeitbeschränkung für den Kauf wurde überschritten.	
 GLUE_CHINA_STORE_BOOSTER_GIFT	赠礼：\n{0}包卡牌包	
 GLUE_CHINA_STORE_BOOSTER_GIFT_PLUS_BONUS	赠礼：\n{0}+{1}包卡牌包	
 GLUE_CHINA_STORE_BOOSTER_GIFT_PREORDER_BONUS	赠礼：\n{0}包卡牌包\n外加20包奖励卡牌包	
@@ -711,7 +731,6 @@ GLUE_COLLECTION_ERROR_HEADER	Fehler in der Sammlung!
 GLUE_COLLECTION_FEATURED_CARDS	Aktuell	
 GLUE_COLLECTION_FINAL_REWARD	Letzte Belohnung	
 GLUE_COLLECTION_FINISHER_NEW	NEU!	
-GLUE_COLLECTION_FSG_BRAWL_DECKNAME	Fireside-Deck	
 GLUE_COLLECTION_GENERIC_ERROR	Ihre Anfrage konnte aufgrund eines Systemfehlers nicht bearbeitet werden. Bitte versuchen Sie es später erneut.	
 GLUE_COLLECTION_GOLDEN_CARDS	Goldene Karten	
 GLUE_COLLECTION_HOME_PAGE	Übersicht	
@@ -1048,70 +1067,6 @@ GLUE_FAKE_QUEST_FIRST_NAME	Willkommen in Gadgetzan!
 GLUE_FAKE_QUEST_FIRST_REWARD	0 Gold	
 GLUE_FIRE_FESTIVAL_BANNER_TITLE	Willkommen zum Sonnenwendfest!	
 GLUE_FIRE_FESTIVAL_DOUBLE_GOLD_BAG_TEXT	x2	
-GLUE_FIRESIDE_BRAWL_FLAG	Fireside	
-GLUE_FIRESIDE_GATHERING_ADD_MORE_ACCESS_POINTS	Hinzufügen	
-GLUE_FIRESIDE_GATHERING_APPEAR_ONLINE_PROMPT	Ihr könnt nicht an Fireside Gatherings teilnehmen, solange Ihr als offline angezeigt werdet.\nMöchtet Ihr online gehen?	
-GLUE_FIRESIDE_GATHERING_BETA_TITLE	Fireside Gatherings <color=#c01c1cff><size=23>BETA</size></color>	Here we can use size and color tags and when necessary, add the BETA label while we are doing slow rollout of the feature.
-GLUE_FIRESIDE_GATHERING_BRAWL	Fireside-Chaos	
-GLUE_FIRESIDE_GATHERING_BRAWL_UNAVAILABLE	Fireside-Chaos nicht verfügbar	
-GLUE_FIRESIDE_GATHERING_BRAWLS_BUTTON	Fireside-Chaos	
-GLUE_FIRESIDE_GATHERING_CHOOSE_OPPONENT	Gegner wählen	
-GLUE_FIRESIDE_GATHERING_CONNECT_TO_WIFI_BODY	Verbindet Euch mit dem WLAN-Netzwerk, in dem dieses Fireside Gathering stattfindet, oder überspringt diesen Schritt, wenn kein WLAN-Netzwerk verfügbar ist.	
-GLUE_FIRESIDE_GATHERING_CONNECT_TO_WIFI_NO_WIFI_BUTTON	Kein WLAN	
-GLUE_FIRESIDE_GATHERING_CONNECT_TO_WIFI_SSID_CONFIRM_BODY	Falsches Netzwerk? Verbindet Euer Gerät mit einem anderen Netzwerk, bevor Ihr fortfahrt.	
-GLUE_FIRESIDE_GATHERING_CONNECT_TO_WIFI_SSID_CONFIRM_TITLE	Ihr seid verbunden mit:	
-GLUE_FIRESIDE_GATHERING_CONNECT_TO_WIFI_TITLE	Mit WLAN verbinden	
-GLUE_FIRESIDE_GATHERING_CONNECT_TO_WIFI_USE_WIFI_BUTTON	Weiter	
-GLUE_FIRESIDE_GATHERING_DESCRIPTION_TEXT	Willkommen!\nTrefft neue Freunde und spielt eine Partie!	
-GLUE_FIRESIDE_GATHERING_DUELS_BUTTON	Freundschafts-\nduelle	
-GLUE_FIRESIDE_GATHERING_FIND_EVENT_BODY	Trefft Euch mit anderen Spielern bei einem Event in Eurer Nähe und spielt gemeinsam Hearthstone! Hearthstone bestimmt anhand von Eurem Standort und Euren WLAN-Verbindungen Fireside Gatherings, denen Ihr beitreten könnt.	
-GLUE_FIRESIDE_GATHERING_FOOTER_EMPTY_FIRST_LINE	Keine Herausforderer	
-GLUE_FIRESIDE_GATHERING_FOOTER_EMPTY_SECOND_LINE	Es werden nur Gäste angezeigt, die spielbereit und noch nicht in einem Spiel sind. Versucht es später noch einmal!	
-GLUE_FIRESIDE_GATHERING_FOOTER_PARTIAL_FIRST_LINE	Fehlt jemand?	
-GLUE_FIRESIDE_GATHERING_FOOTER_PARTIAL_SECOND_LINE	Diese Liste zeigt spielbereite Spieler ohne Gegner. Versucht es später erneut!	
-GLUE_FIRESIDE_GATHERING_INKEEPER_CONNECT_TO_WIFI_BODY	Verbindet Euch mit dem WLAN-Netzwerk, in dem dieses Fireside Gathering stattfinden soll, oder überspringt diesen Schritt, wenn kein WLAN-Netzwerk verfügbar ist.	
-GLUE_FIRESIDE_GATHERING_INKEEPER_SETUP	Baue Spielbrett auf ...	
-GLUE_FIRESIDE_GATHERING_INKEEPER_SETUP_FAILED_BODY	Bitte stellen Sie sicher, dass die Standortdienste aktiviert und Sie mit einem WLAN-Netzwerk verbunden sind, und versuchen Sie es dann erneut von Ihrer Freundesliste aus.	
-GLUE_FIRESIDE_GATHERING_INKEEPER_SETUP_FAILED_TITLE	Einrichtung fehlgeschlagen	
-GLUE_FIRESIDE_GATHERING_INKEEPER_SIGN_SUCCESS_NOTE	Euer Fireside Gathering ist bereit!	
-GLUE_FIRESIDE_GATHERING_INNKEEPER_CLICK_TO_SETUP	Zur Einrichtung hier klicken!	
-GLUE_FIRESIDE_GATHERING_INNKEEPER_CLICK_TO_SETUP_PHONE	Zur Einrichtung hier tippen!	
-GLUE_FIRESIDE_GATHERING_INNKEEPER_CLICK_TO_SETUP_TITLE	Euer bevorstehendes Gathering	
-GLUE_FIRESIDE_GATHERING_INNKEEPER_CONNECT_TO_WIFI_SSID_CONFIRM_TITLE	Diese Verbindung für Euer Fireside Gathering verwenden?	
-GLUE_FIRESIDE_GATHERING_INNKEEPER_LOBBY_ARRIVE	Willkommen bei unserem Fireside Gathering!	
-GLUE_FIRESIDE_GATHERING_INNKEEPER_SETUP_BODY	Hallo, Gastwirt von „{0}“! Seid Ihr bereit, Euer Fireside Gathering auszurichten?	
-GLUE_FIRESIDE_GATHERING_INNKEEPER_TOOLTIP	Bereitet das Event hier vor, wenn Ihr so weit seid!	
-GLUE_FIRESIDE_GATHERING_INNKEEPER_TURN_ON_GPS_BODY	Aktiviert im nächsten Fenster die Standortbestimmung, damit andere Spieler Euer Fireside Gathering finden und mitmachen können!	
-GLUE_FIRESIDE_GATHERING_INNKEEPER_TURN_ON_WIFI_BODY	Aktiviert im nächsten Fenster Euer WLAN, damit andere Spieler Euer Fireside Gathering finden und mitmachen können!	
-GLUE_FIRESIDE_GATHERING_NETWORK_CONFIRM_BODY	Bitte stellen Sie sicher, dass Sie mit dem korrekten WLAN-Netzwerk verbunden sind, bevor Sie fortfahren.	
-GLUE_FIRESIDE_GATHERING_NETWORK_CONFIRM_TITLE	Das Fireside Gathering wird mit der aktuellen WLAN-Verbindung eingerichtet	
-GLUE_FIRESIDE_GATHERING_NO_WIFI_SUCCESS	Glückwunsch! Euer Fireside Gathering ist bereit. Ihr könnt es jederzeit in der Freundesliste aktualisieren, um ein WLAN-Netzwerk hinzuzufügen!	
-GLUE_FIRESIDE_GATHERING_OFFICIAL_FIRESIDE_DESCRIPTION	Das ist das aktuelle Fireside-Chaos.	
-GLUE_FIRESIDE_GATHERING_OPPONENT_OFFLINE	Dieser Gast ist nicht mehr online.	
-GLUE_FIRESIDE_GATHERING_OPPONENT_UNAVAILABLE	Dieser Gast ist nicht mehr verfügbar.	
-GLUE_FIRESIDE_GATHERING_PLAY_FSG_BRAWL	Ein besonderes Kartenchaos, das nur bei Fireside Gatherings spielbar ist.	
-GLUE_FIRESIDE_GATHERING_PLAY_REGULAR_BRAWL	Liefert Euch ein gewöhnliches Kartenchaos.	
-GLUE_FIRESIDE_GATHERING_RETURN_TO_SCENE_HERE	Zurück zum Fireside Gathering	
-GLUE_FIRESIDE_GATHERING_SCAN_NO_GPS_OR_WIFI	Diese Funktion ist nur auf GPS- oder WLAN-fähigen Geräten verfügbar.	
-GLUE_FIRESIDE_GATHERING_SEARCH_FAILURE_BODY	Klickt auf „Mehr Infos“, um nach Fireside Gatherings in Eurer Nähe zu suchen oder ein eigenes zu organisieren!	
-GLUE_FIRESIDE_GATHERING_SEARCH_FAILURE_BODY_PHONE	Tippt auf „Mehr Infos“, um nach Fireside Gatherings in Eurer Nähe zu suchen oder ein eigenes zu organisieren!	
-GLUE_FIRESIDE_GATHERING_SEARCH_FAILURE_TITLE	Keine Fireside Gatherings gefunden	
-GLUE_FIRESIDE_GATHERING_SEARCHING	Suche ...	
-GLUE_FIRESIDE_GATHERING_TITLE	Fireside Gatherings	
-GLUE_FIRESIDE_GATHERING_TURN_ON_GPS_BODY	Die Standortdienste können Euch helfen, Fireside Gatherings zu finden. Im nächsten Fenster könnt Ihr sie aktivieren.	
-GLUE_FIRESIDE_GATHERING_TURN_ON_GPS_TITLE	Standortdienste aktivieren	
-GLUE_FIRESIDE_GATHERING_TURN_ON_WIFI_BODY	Eine WLAN-Verbindung kann Euch helfen, Fireside Gatherings zu finden. Im nächsten Fenster könnt Ihr WLAN aktivieren.	
-GLUE_FIRESIDE_GATHERING_TURN_ON_WIFI_TITLE	WLAN aktivieren	
-GLUE_FIRESIDE_GATHERING_UPDATING_LOCATION	Aktualisiere Standort ...	
-GLUE_FIRESIDE_GATHERING_UPDATING_LOCATION_FAILED_BODY	Aktiviert die Standortdienste in Euren Geräteeinstellungen, um die Suche zu starten.	
-GLUE_FIRESIDE_GATHERING_UPDATING_LOCATION_FAILED_TITLE	Standort konnte nicht bestimmt werden	
-GLUE_FIRESIDE_GATHERING_UPDATING_LOCATION_SUCCESS	Standort aktualisiert	
-GLUE_FIRESIDE_GATHERING_WIFI_ACCESS_POINT_SEARCH_BODY	Bewegt Euch, um mehr Zugriffspunkte hinzuzufügen.	
-GLUE_FIRESIDE_GATHERING_WIFI_ACCESS_POINT_SEARCH_TITLE	Zugriffspunkt gefunden	
-GLUE_FIRESIDE_GATHERING_WIFI_ACCESS_POINTS_SEARCH_TITLE	Zugriffspunkte gefunden	
-GLUE_FIRESIDE_GATHERING_WIFI_SETUP_COMPLETE	Einrichtung abgeschlossen!	
-GLUE_FIRESIDE_GATHERING_WIFI_SUCCESS	Ihr habt mehrere Wireless-Zugriffspunkte? Klickt auf „Hinzufügen“, um sie festzulegen und so den WLAN-Empfang zu verbessern.	
-GLUE_FIRESIDE_GATHERING_WIFI_SUCCESS_PHONE	Ihr habt mehrere Wireless-Zugriffspunkte? Tippt auf „Hinzufügen“, um sie festzulegen und so den WLAN-Empfang zu verbessern.	
 GLUE_FORGE	Die Arena	
 GLUE_FORGE_EXTRA_PRIZE_LABEL	{0} |4(Sieg,Siege)	0 = number of wins required to earn this prize
 GLUE_FORGE_MANATIP_DESC	Dies sind die Karten in Eurem Deck, sortiert nach Manakosten.	
@@ -1133,7 +1088,6 @@ GLUE_FRIEND_LIST_ADD_FRIENDS	Freunde hinzufügen
 GLUE_FRIEND_LIST_CHALLENGE_BATTLETAG_HEADER	Fordert {0} heraus zu ...	0 = Battletag ID
 GLUE_FRIEND_LIST_CHALLENGE_FRIEND_HEADER	Fordert Freund heraus zu ...	
 GLUE_FRIEND_LIST_CHALLENGE_STRANGER_HEADER	Fordert Spieler heraus zu ...	
-GLUE_FRIEND_LIST_FIND_FSG	Fireside Gathering finden	
 GLUE_FRIEND_LIST_REFER_FRIENDS	Freunde werben	
 GLUE_FRIEND_LIST_REMOVE_FRIENDS	Freunde entfernen	
 GLUE_FROST_FESTIVAL_FREE_ARENA_WIN_DESC	Ahune schenkt allen einen Sieg, die während des Frostfestivals eine neue Arenarunde starten! Würde Ragnaros so was machen? Definitiv nicht.	
@@ -1141,21 +1095,6 @@ GLUE_FROST_FESTIVAL_FREE_ARENA_WIN_HEADLINE	SIEG GEFÄLLIG?
 GLUE_FROSTMOURNE_REWARD_BODY	Besiegt den Lichkönig mit jeder Klasse und erhaltet Prinz Arthas als Belohnung! Verbleibende Klassen:	
 GLUE_FROSTMOURNE_REWARD_HEADER	Neuer Paladinheld	
 GLUE_FROSTMOURNE_WING_INCOMPLETE_REWARD_BODY	Besiegt den Lichkönig mit jeder Klasse und Ihr erhaltet Prinz Arthas als Belohnung!	
-GLUE_FSG_BRAWL_PLAY_SUBTITLE	Fordert in Eurer Freundesliste einen anderen Spieler beim gleichen Fireside Gathering heraus!	
-GLUE_FSG_BRAWL_PLAY_TITLE	Kampfbereit?	
-GLUE_FSG_FOUND	Fireside Gathering gefunden!	
-GLUE_FSG_HAPPENING_HERE_TEXT	Ein Fireside Gathering findet in der Nähe statt!\nMöchtet Ihr beitreten?	
-GLUE_FSG_NEARBY_TOOLTIP	Ein Fireside Gathering findet in der Nähe statt!	
-GLUE_FSG_NOT_FOUND	Nicht gefunden	
-GLUE_FSG_NOT_FOUND_BODY	Oh, hier scheint es kein Fireside Gathering zu geben. Möchtet Ihr eins in Eurer Nähe suchen?	
-GLUE_FSG_NOT_NOW	Nicht jetzt	
-GLUE_FSG_PATRON_COUNT	{0} |4(Gast,Gäste)	
-GLUE_FSG_STARTING_DAYS	Beginnt in {0} |4(Tag,Tagen)	
-GLUE_FSG_STARTING_HOURS	Beginnt in {0} |4(Stunde,Stunden)	
-GLUE_FSG_STARTING_MINUTES	Beginnt in {0} Min.	
-GLUE_FSG_STARTING_OVER_1_MONTH	Beginnt in > 1 Monat	
-GLUE_FSG_STARTING_SECONDS	Beginnt in {0} Sek.	
-GLUE_FSG_STARTING_WEEKS	Beginnt in {0} |4(Woche,Wochen)	
 GLUE_FUN_CONFIRM_MESSAGE	Super!	
 GLUE_GAME_MODE_LOCKED_HEADER	Schließt Eure Lehrlingsphase ab, um {0} freizuschalten.	
 GLUE_GAME_MODE_NEW_MODE_POPUP_HEADER	Neuer Modus!	
@@ -1243,6 +1182,14 @@ GLUE_HEROIC_BRAWL_SIGNUPS_CLOSED_TITLE	Geschlossen
 GLUE_HEROIC_BRAWL_TITLE	<size=50>Heroisches</size>\nKartenchaos	
 GLUE_HEROIC_WARNING	Achtung: Dieser Modus ist nichts für Zartbesaitete. Betreten auf eigene Gefahr!	
 GLUE_HEROIC_WARNING_TITLE	Warnung!	
+GLUE_HICKORY_LEGAL_POPUP	Zustimmung zu den Bestimmungen	
+GLUE_HICKORY_POPUP_CODE_LABEL	Verwendet diesen Code:	
+GLUE_HICKORY_POPUP_HEADER	<color=#3C2619>Ihr müsst einen kostenlosen </color><color=#085BA1>Battle.net</color><color=#3C2619>-Account verknüpfen, um Hearthstone spielen zu können.</color>	
+GLUE_HICKORY_POPUP_LINK_LABEL	Besucht mit eurem Browser:	
+GLUE_HICKORY_POPUP_LINK_URL	battle.net/activate	
+GLUE_HICKORY_POPUP_OR	ODER	
+GLUE_HICKORY_POPUP_QR_LABEL	Scannt den QR-Code mit einem Mobilgerät:	
+GLUE_HICKORY_POPUP_URL_BUTTON	Besucht Battle.net	
 GLUE_ICC_LOADING_BAR_TASK_1	Kratze Eis von Fenstern	
 GLUE_ICC_LOADING_BAR_TASK_10	Schließe finstere Pakte	
 GLUE_ICC_LOADING_BAR_TASK_11	Erwecke Zombies zum Leben	
@@ -1775,6 +1722,14 @@ GLUE_MASS_DISENCHANT_NUM_GOLDEN_CARDS	Golden: {0}	0=number of golden cards
 GLUE_MASS_DISENCHANT_PREMIUM_TITLE	{0} (Golden)	0=rarity
 GLUE_MASS_DISENCHANT_SUB_HEADLINE_TEXT	Ihr zerstört:	
 GLUE_MASS_DISENCHANT_TOTAL_AMOUNT	{0:#,###0}	0=total amount with commas and no decimals
+GLUE_MASS_PACK_OPEN_CONTINUE	Weiter	
+GLUE_MASS_PACK_OPEN_HIGHLIGHTS	Highlights	
+GLUE_MASS_PACK_OPEN_MULTI_CLASS	Multiklassen	
+GLUE_MASS_PACK_OPEN_PACKS_OPENED	{0} Packungen geöffnet	
+GLUE_MASS_PACK_OPEN_REVEAL_ALL	Alle enthüllen	
+GLUE_MASS_PACK_OPEN_SUMMARY	Zusammenfassung	
+GLUE_MASS_PACK_OPEN_TOOLTIP_MOBILE	Tippt und haltet, um mehrere Packungen gleichzeitig zu öffnen!	
+GLUE_MASS_PACK_OPEN_TOOLTIP_PC	Klickt und haltet, um mehrere Packungen gleichzeitig zu öffnen!	
 GLUE_MATCHMAKER_FINDING_OPPONENT	Gegner wird gesucht	
 GLUE_MATCHMAKER_FINDING_OPPONENTS	Gegner werden gesucht	
 GLUE_MATCHMAKER_PERFECT_OPPONENT	Würdiger Gegner	
@@ -1949,6 +1904,7 @@ GLUE_PROGRESSION_ABANDON_QUEST_BODY	Ihr erhaltet im Austausch keine neue Quest. 
 GLUE_PROGRESSION_ABANDON_QUEST_HEADER	Quest abbrechen	
 GLUE_PROGRESSION_ACHIEVEMENT_INSPECT_TITLETEXT	Belohnungen bei Abschluss	
 GLUE_PROGRESSION_ACHIEVEMENT_TOAST	<color=#FFFFFF>Erfolg abgeschlossen: </color><color=#FFD451>{0}</color>	
+GLUE_PROGRESSION_ACHIEVEMENT_TOAST_AND_X_MORE	<color=#FFFFFF>... und {0} mehr!</color>	
 GLUE_PROGRESSION_ACHIEVEMENT_TOAST_TIER	<color=#FFFFFF>Erfolg abgeschlossen: </color><color=#FFD451>{0} (Stufe {1})</color>	
 GLUE_PROGRESSION_ACHIEVEMENTS_COMPLETED	Abgeschlossen!	
 GLUE_PROGRESSION_ACHIEVEMENTS_COMPLETION_REQUIRED	Benötigt den Abschluss des Erfolges	
@@ -2697,7 +2653,7 @@ GLUE_STORE_SUMMARY_TOS_AGREEMENT_EU	Indem Sie auf „{0}“ klicken, erklären S
 GLUE_STORE_TAVERN_PASS_FLAVOR_TEXT	Schaltet alle Gegenstände bis zu Eurer momentanen Stufe auf dem Belohnungsweg frei!	
 GLUE_STORE_TAVERN_PASS_FLAVOR_TEXT_CHINA_DISCLAIMER	Sichert Euch alle Gegenstände bis zu Eurer momentanen Stufe auf dem Belohnungsweg! Aufgrund der Spielzeitbeschränkungen für Minderjährige können minderjährige Spieler möglicherweise nicht alle Questbelohnungen freischalten.	
 GLUE_STORE_TAVERN_PASS_HEADLINE_TEXT	Der Gasthauspass enthält freischaltbare* Belohnungen, darunter:	
-GLUE_STORE_TAVERN_PASS_SUBHEADER_TEXT	Holt Euch den Pass und verdient EP, um noch mehr Belohnungen zu erhalten!	
+GLUE_STORE_TAVERN_PASS_SUBHEADER_TEXT	Holt Euch den Pass und verdient EP für noch mehr Belohnungen!	
 GLUE_STORE_TERMS_OF_SALE_BUTTON_TEXT	?	
 GLUE_STORE_TGT_PREORDER_DATE	Im August verfügbar!	
 GLUE_STORE_THIS_WEEK_ONLY	NUR DIESE WOCHE VERFÜGBAR!	
@@ -3244,6 +3200,9 @@ GLUE_TRL_LOADING_BAR_TASK_7	Schmeiße Stühle
 GLUE_TRL_LOADING_BAR_TASK_8	Heize die Menge an	
 GLUE_TRL_LOADING_BAR_TASK_9	Mache Krawall	
 GLUE_TROUBLESHOOTING_POPUP_TEXT	Haben Sie Probleme mit dem Spiel?	
+GLUE_TUTORIAL_INTERSTITIAL_HEADER	Eure Reise beginnt	
+GLUE_TUTORIAL_INTERSTITIAL_HERONAME	Jaina	
+GLUE_TUTORIAL_INTERSTITIAL_REWARD	Schließt die Tutorialkampagne für Magier und Startdeck ab!	
 GLUE_TUTORIAL_SKIP_TRADITIONAL	Möchtet Ihr das Tutorial wirklich überspringen? Ihr könnt es über das Hilfemenü (?) erneut starten.	
 GLUE_TUTORIAL_VIDEO_BANNER_BATTLEGROUNDS	Stellt Eure Truppe zusammen und kämpft bei automatisch ablaufenden Kämpfen mit 7 anderen Spielern um die Krone!	
 GLUE_TUTORIAL_VIDEO_BANNER_MERCENARIES	Stellt ein Team von Söldnern auf und bildet es in Kämpfen um Kopfgelder und Ruhm aus!	

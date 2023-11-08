@@ -93,6 +93,7 @@ GAMEPLAY_DISCONNECT_BODY_RESET	เกมจบลงและได้รับ�
 GAMEPLAY_DISCONNECT_HEADER	ถูกตัดการเชื่อมต่อ 	
 GAMEPLAY_DISCOVER_JUGGERNAUT	เลือกกัปตันคู่ปรับของคุณ...	
 GAMEPLAY_DISCOVER_MYSTERY	คู่ต่อสู้ของคุณ[b]เลือกอะไรนะ	
+GAMEPLAY_DISCOVER_OVERRIDE_AUDIENCE_CHOICE	เลือกการ์ดให้ผู้เล่นทุกคน	
 GAMEPLAY_DISCOVER_OVERRIDE_EXPLORER_RETRAINING	เลือกพลังฮีโร่ใหม่	
 GAMEPLAY_DISCOVER_OVERRIDE_FRIENDLY_SMITH	เพิ่มในเด็คและ[b]ได้รับ +2/+2	
 GAMEPLAY_DISCOVER_OVERRIDE_HIRING_REPLACEMENTS	แทนที่ด้วย	
@@ -307,6 +308,7 @@ GAMEPLAY_PlayErrors_REQ_TARGET_IS_NON_MERC	[PH] That is not a Non-Mercenary
 GAMEPLAY_PlayErrors_REQ_TARGET_IS_NON_TITAN	คุณเลือกไททัน[b]เป็นเป้าหมายไม่ได้	
 GAMEPLAY_PlayErrors_REQ_TARGET_MAGNET	มีมินเนี่ยนที่คุณต้องเลือกเป็นเป้าหมาย	
 GAMEPLAY_PlayErrors_REQ_TARGET_MAX_ATTACK	เลือกตัวละครที่มีพลังโจมตี {0} หรือน้อยกว่า	
+GAMEPLAY_PlayErrors_REQ_TARGET_MAX_COST	เลือกมินเนี่ยนที่มีค่าร่าย {0} หรือต่ำกว่า	
 GAMEPLAY_PlayErrors_REQ_TARGET_MIN_ATTACK	เลือกตัวละครที่มีพลังโจมตี {0} หรือมากกว่า	
 GAMEPLAY_PlayErrors_REQ_TARGET_MUST_HAVE_TAG	เลือกเป้าหมายอื่น	
 GAMEPLAY_PlayErrors_REQ_TARGET_NON_TRIPLED_MINION	ใช้กับมินเนี่ยนสีทองไม่ได้	

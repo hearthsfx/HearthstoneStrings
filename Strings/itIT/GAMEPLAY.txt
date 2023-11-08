@@ -93,6 +93,7 @@ GAMEPLAY_DISCONNECT_BODY_RESET	Partita salvata con successo! Riconnessione ai se
 GAMEPLAY_DISCONNECT_HEADER	Disconnesso	
 GAMEPLAY_DISCOVER_JUGGERNAUT	Scegli il Capitano rivale...	
 GAMEPLAY_DISCOVER_MYSTERY	Cosa ha scelto l'avversario?	
+GAMEPLAY_DISCOVER_OVERRIDE_AUDIENCE_CHOICE	Scegli una carta per TUTTI i giocatori	
 GAMEPLAY_DISCOVER_OVERRIDE_EXPLORER_RETRAINING	Scegli un nuovo Potere Eroe	
 GAMEPLAY_DISCOVER_OVERRIDE_FRIENDLY_SMITH	Aggiungi al mazzo e ottiene +2/+2	
 GAMEPLAY_DISCOVER_OVERRIDE_HIRING_REPLACEMENTS	Sostituisci con	
@@ -307,6 +308,7 @@ GAMEPLAY_PlayErrors_REQ_TARGET_IS_NON_MERC	[PH] That is not a Non-Mercenary
 GAMEPLAY_PlayErrors_REQ_TARGET_IS_NON_TITAN	Non puoi bersagliare un Titano.	
 GAMEPLAY_PlayErrors_REQ_TARGET_MAGNET	È presente un servitore che sei obbligato a scegliere come bersaglio	
 GAMEPLAY_PlayErrors_REQ_TARGET_MAX_ATTACK	Seleziona un servitore con Attacco pari a {0} o inferiore	
+GAMEPLAY_PlayErrors_REQ_TARGET_MAX_COST	Seleziona un servitore con costo di {0} o inferiore	
 GAMEPLAY_PlayErrors_REQ_TARGET_MIN_ATTACK	Seleziona un servitore con Attacco pari a {0} o superiore	
 GAMEPLAY_PlayErrors_REQ_TARGET_MUST_HAVE_TAG	Seleziona un altro bersaglio	
 GAMEPLAY_PlayErrors_REQ_TARGET_NON_TRIPLED_MINION	Non può essere usato su un servitore Dorato	

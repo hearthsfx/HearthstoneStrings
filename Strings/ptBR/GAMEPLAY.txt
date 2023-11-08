@@ -93,6 +93,7 @@ GAMEPLAY_DISCONNECT_BODY_RESET	Jogo completado e gravado! Reconectando aos servi
 GAMEPLAY_DISCONNECT_HEADER	Desconectado 	
 GAMEPLAY_DISCOVER_JUGGERNAUT	Escolha seu Capitão rival...	
 GAMEPLAY_DISCOVER_MYSTERY	O que seu oponente escolheu?	
+GAMEPLAY_DISCOVER_OVERRIDE_AUDIENCE_CHOICE	Escolha um card para TODOS os jogadores	
 GAMEPLAY_DISCOVER_OVERRIDE_EXPLORER_RETRAINING	Escolha um novo Poder Heroico	
 GAMEPLAY_DISCOVER_OVERRIDE_FRIENDLY_SMITH	Adicione ao deck e receba +2/+2	
 GAMEPLAY_DISCOVER_OVERRIDE_HIRING_REPLACEMENTS	Substitua por	
@@ -307,6 +308,7 @@ GAMEPLAY_PlayErrors_REQ_TARGET_IS_NON_MERC	[PH] That is not a Non-Mercenary
 GAMEPLAY_PlayErrors_REQ_TARGET_IS_NON_TITAN	Você não pode selecionar um Titã.	
 GAMEPLAY_PlayErrors_REQ_TARGET_MAGNET	Há um lacaio que você precisa escolher como alvo	
 GAMEPLAY_PlayErrors_REQ_TARGET_MAX_ATTACK	Escolha um personagem com {0} de Ataque ou menos	
+GAMEPLAY_PlayErrors_REQ_TARGET_MAX_COST	Selecione um lacaio de custo {0} ou menos	
 GAMEPLAY_PlayErrors_REQ_TARGET_MIN_ATTACK	Escolha um personagem com {0} de Ataque ou mais	
 GAMEPLAY_PlayErrors_REQ_TARGET_MUST_HAVE_TAG	Escolha outro alvo	
 GAMEPLAY_PlayErrors_REQ_TARGET_NON_TRIPLED_MINION	Não pode ser usado em um lacaio Dourado	

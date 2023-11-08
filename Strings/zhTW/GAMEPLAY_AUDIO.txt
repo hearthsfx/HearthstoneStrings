@@ -1755,6 +1755,84 @@ VO_HERO_01ah_Female_Orc_Emote_Threaten_01	我的眼中只有第一。
 VO_HERO_01ah_Female_Orc_Emote_Well_Played_01	你很帶種。	
 VO_HERO_01ah_Female_Orc_Emote_Wow_01	*笑聲* 那真的好猛。	
 VO_HERO_01ah_Rokara_Emote_Attack_01	我會擊垮他。	
+VO_HERO_01ai_Garrosh_Concede	我選擇死亡！	
+VO_HERO_01ai_Garrosh_ERROR_FULL_MINIONS	我的手下太多了。	
+VO_HERO_01ai_Garrosh_ERROR_GENERIC	我辦不到。	
+VO_HERO_01ai_Garrosh_ERROR_HAND_FULL	我的手牌滿了！	
+VO_HERO_01ai_Garrosh_ERROR_I_ATTACKED	我已經攻擊過了。	
+VO_HERO_01ai_Garrosh_ERROR_MINION_ATTACKED	那個手下攻擊過了。	
+VO_HERO_01ai_Garrosh_ERROR_NEED_MANA	我沒有足夠的法力。	
+VO_HERO_01ai_Garrosh_ERROR_NEED_WEAPON	我需要武器。	
+VO_HERO_01ai_Garrosh_ERROR_PLAY	我不能打這張牌。	
+VO_HERO_01ai_Garrosh_ERROR_STEALTH	我不能指定潛行的手下。	
+VO_HERO_01ai_Garrosh_ERROR_TARGET	那不是有效的目標。	
+VO_HERO_01ai_Garrosh_ERROR_TAUNT	必須先攻擊有嘲諷的手下。	
+VO_HERO_01ai_Garrosh_FIRE_FESTIVAL	點燃火堆！	
+VO_HERO_01ai_Garrosh_FIRE_FESTIVAL_FIREWORKS_RANK_ONE	太驚人了。	
+VO_HERO_01ai_Garrosh_FIRE_FESTIVAL_FIREWORKS_RANK_THREE	太驚人了。	
+VO_HERO_01ai_Garrosh_FIRE_FESTIVAL_FIREWORKS_RANK_TWO	太驚人了。	
+VO_HERO_01ai_Garrosh_FROST_FESTIVAL_FIREWORKS_RANK_ONE	太驚人了。	
+VO_HERO_01ai_Garrosh_FROST_FESTIVAL_FIREWORKS_RANK_THREE	太驚人了。	
+VO_HERO_01ai_Garrosh_FROST_FESTIVAL_FIREWORKS_RANK_TWO	太驚人了。	
+VO_HERO_01ai_Garrosh_HAPPY_NEW_YEAR	新年快樂！	
+VO_HERO_01ai_Garrosh_PIRATE_DAY	呀迪哈迪哈～咿哈！	
+VO_HERO_01ai_Garrosh_Sorry	這真是不幸。	
+VO_HERO_01ai_Garrosh_Time	我必須選擇！	
+VO_HERO_01ai_Male_Orc_Emote_Attack_01	我獨自獵殺。	
+VO_HERO_01ai_Male_Orc_Emote_Greetings_01	你好啊，旅行者。	
+VO_HERO_01ai_Male_Orc_Emote_MIRROR_GREETINGS_01	你好！	
+VO_HERO_01ai_Male_Orc_Emote_MIRROR_START_01	那就來吧！	
+VO_HERO_01ai_Male_Orc_Emote_Oops_01	原本不是要這樣做的。	
+VO_HERO_01ai_Male_Orc_Emote_Picked_01	這把弓會是很好的武器。	
+VO_HERO_01ai_Male_Orc_Emote_Start_01	狩獵開始了！	
+VO_HERO_01ai_Male_Orc_Emote_Thanks_01	謝謝。	
+VO_HERO_01ai_Male_Orc_Emote_Threaten_01	我會獵殺你！	
+VO_HERO_01ai_Male_Orc_Emote_Well_Played_01	玩得不錯。	
+VO_HERO_01ai_Male_Orc_Emote_Wow_01	太驚人了。	
+VO_HERO_01aj_Denathrius_Venthyr_Emote_Attack_01	跪下！	
+VO_HERO_01aj_Denathrius_Venthyr_Emote_Greetings_01	呦呵！	
+VO_HERO_01aj_Denathrius_Venthyr_Emote_MIRROR_GREETINGS_01	你也是！	
+VO_HERO_01aj_Denathrius_Venthyr_Emote_MIRROR_START_01	為了你好，這最好快一點。	
+VO_HERO_01aj_Denathrius_Venthyr_Emote_Oops_01	那一定只是幻覺。	
+VO_HERO_01aj_Denathrius_Venthyr_Emote_Picked_01	這片毫無章法的荒地瀰漫著罪孽的氣息！	
+VO_HERO_01aj_Denathrius_Venthyr_Emote_Start_01	我來了，讓贖罪開始吧。	
+VO_HERO_01aj_Denathrius_Venthyr_Emote_Thanks_01	致上我最誠摯的感謝。	
+VO_HERO_01aj_Denathrius_Venthyr_Emote_Threaten_01	你不過只是風中的塵埃！	
+VO_HERO_01aj_Denathrius_Venthyr_Emote_Well_Played_01	真是一場刺激的決鬥！	
+VO_HERO_01aj_Denathrius_Venthyr_Emote_Wow_01	真是出色的表現！	
+VO_HERO_01ak_ETC_Tauren_Emote_Attack_01	搖滾吧！	
+VO_HERO_01ak_ETC_Tauren_Emote_Greetings_01	我一直都很喜歡和粉絲見面。	
+VO_HERO_01ak_ETC_Tauren_Emote_MIRROR_GREETINGS_01	我就是自己最忠實的粉絲！	
+VO_HERO_01ak_ETC_Tauren_Emote_MIRROR_START_01	讓這片沙漠一起搖滾，直達地核！	
+VO_HERO_01ak_ETC_Tauren_Emote_Oops_01	彈錯了！	
+VO_HERO_01ak_ETC_Tauren_Emote_Picked_01	是時候讓我的傳說鄉村組曲登場了！	
+VO_HERO_01ak_ETC_Tauren_Emote_Start_01	荒蕪之地！我要聽到你們的尖叫聲！哇哇哇！	
+VO_HERO_01ak_ETC_Tauren_Emote_Thanks_01	老兄，非常感謝你。	
+VO_HERO_01ak_ETC_Tauren_Emote_Threaten_01	面對搖滾的力量！	
+VO_HERO_01ak_ETC_Tauren_Emote_Well_Played_01	你可以和最厲害的音樂家一起玩搖滾。	
+VO_HERO_01ak_ETC_Tauren_Emote_Wow_01	這是荒蕪之地限定！	
+VO_HERO_01al_Garrosh_Orc_Emote_Attack_01	退下！	
+VO_HERO_01al_Garrosh_Orc_Emote_Greetings_01	大酋長向你問好。	
+VO_HERO_01al_Garrosh_Orc_Emote_MIRROR_GREETINGS_01	你竟敢自稱大酋長?!	
+VO_HERO_01al_Garrosh_Orc_Emote_MIRROR_START_01	掌握部落的人可不是你。	
+VO_HERO_01al_Garrosh_Orc_Emote_Oops_01	至少有點笑果。	
+VO_HERO_01al_Garrosh_Orc_Emote_Picked_01	我們會將戰場染紅！	
+VO_HERO_01al_Garrosh_Orc_Emote_Start_01	我就是部落！	
+VO_HERO_01al_Garrosh_Orc_Emote_Thanks_01	我聽過許多講述你的慷慨的故事。	
+VO_HERO_01al_Garrosh_Orc_Emote_Threaten_01	你既脆弱又軟弱，我會徹底擊碎你。	
+VO_HERO_01al_Garrosh_Orc_Emote_Well_Played_01	抬頭挺胸！你打得很好。	
+VO_HERO_01al_Garrosh_Orc_Emote_Wow_01	真不敢相信！	
+VO_HERO_01am_Garrosh_Orc_Emote_Attack_01	你只是條雜魚！	
+VO_HERO_01am_Garrosh_Orc_Emote_Greetings_01	我渴望戰鬥！	
+VO_HERO_01am_Garrosh_Orc_Emote_MIRROR_GREETINGS_01	我來滿足你的渴望。	
+VO_HERO_01am_Garrosh_Orc_Emote_MIRROR_START_01	我挑戰你進行榮譽決鬥！	
+VO_HERO_01am_Garrosh_Orc_Emote_Oops_01	可恥。	
+VO_HERO_01am_Garrosh_Orc_Emote_Picked_01	我們會踐踏任何擋路的人。	
+VO_HERO_01am_Garrosh_Orc_Emote_Start_01	你膽敢挑戰大酋長？	
+VO_HERO_01am_Garrosh_Orc_Emote_Thanks_01	謝謝你的貢獻。	
+VO_HERO_01am_Garrosh_Orc_Emote_Threaten_01	我會砍倒所有擋路的人。	
+VO_HERO_01am_Garrosh_Orc_Emote_Well_Played_01	哈！一場值得大酋長迎戰的戰鬥。	
+VO_HERO_01am_Garrosh_Orc_Emote_Wow_01	我也開始期待了！	
 VO_HERO_01d_Male_Orc_Attack_01	為了瑪格哈！	
 VO_HERO_01d_Male_Orc_Greetings_01	Mok'rah。	
 VO_HERO_01d_Male_Orc_MIRROR_GREETINGS_01	你好，朋友。	
@@ -2398,6 +2476,39 @@ VO_HERO_02an_Male_Mogu_Emote_Thanks_01	你很慷慨，相當明智。
 VO_HERO_02an_Male_Mogu_Emote_Threaten_01	我會用翠玉閃電烤熟你！	
 VO_HERO_02an_Male_Mogu_Emote_Well_Played_01	讓魔像指引你。	
 VO_HERO_02an_Male_Mogu_Emote_Wow_01	就連我都印象深刻。	
+VO_HERO_02ao_Inzah_Vulpera_Emote_Attack_01	這是悲傷的音樂！	
+VO_HERO_02ao_Inzah_Vulpera_Emote_Greetings_01	讓你動起來、跳起來！	
+VO_HERO_02ao_Inzah_Vulpera_Emote_MIRROR_GREETINGS_01	我的靈魂感受到了音樂！	
+VO_HERO_02ao_Inzah_Vulpera_Emote_MIRROR_START_01	一起跳舞，直到太陽升起！	
+VO_HERO_02ao_Inzah_Vulpera_Emote_Oops_01	出錯了？我可不這麼認為！	
+VO_HERO_02ao_Inzah_Vulpera_Emote_Picked_01	任何樂器都能演奏出曠世傑作！	
+VO_HERO_02ao_Inzah_Vulpera_Emote_Start_01	有誰想要跳土風舞嗎？	
+VO_HERO_02ao_Inzah_Vulpera_Emote_Thanks_01	謝謝你帶來的美好氛圍。	
+VO_HERO_02ao_Inzah_Vulpera_Emote_Threaten_01	你把氣氛搞砸了！	
+VO_HERO_02ao_Inzah_Vulpera_Emote_Well_Played_01	你整個人充滿了能量！	
+VO_HERO_02ao_Inzah_Vulpera_Emote_Wow_01	嗚─咿！	
+VO_HERO_02ap_Thrall_Orc_Emote_Attack_01	勝利或死亡！	
+VO_HERO_02ap_Thrall_Orc_Emote_Greetings_01	願眾靈指引你。	
+VO_HERO_02ap_Thrall_Orc_Emote_MIRROR_GREETINGS_01	他們一直都在。	
+VO_HERO_02ap_Thrall_Orc_Emote_MIRROR_START_01	那就心懷榮耀而戰。	
+VO_HERO_02ap_Thrall_Orc_Emote_Oops_01	心意最重要。	
+VO_HERO_02ap_Thrall_Orc_Emote_Picked_01	我就是元素之怒。	
+VO_HERO_02ap_Thrall_Orc_Emote_Start_01	我為部落的榮譽而戰！	
+VO_HERO_02ap_Thrall_Orc_Emote_Thanks_01	謝謝你，朋友。	
+VO_HERO_02ap_Thrall_Orc_Emote_Threaten_01	大地會吞噬我的敵人。	
+VO_HERO_02ap_Thrall_Orc_Emote_Well_Played_01	這比我所想的還更有挑戰性。	
+VO_HERO_02ap_Thrall_Orc_Emote_Wow_01	厲害。	
+VO_HERO_02aq_Thrall_Orc_Emote_Attack_01	震地！	
+VO_HERO_02aq_Thrall_Orc_Emote_Greetings_01	幸會，朋友。	
+VO_HERO_02aq_Thrall_Orc_Emote_MIRROR_GREETINGS_01	你好啊。	
+VO_HERO_02aq_Thrall_Orc_Emote_MIRROR_START_01	魂靈與岩石。	
+VO_HERO_02aq_Thrall_Orc_Emote_Oops_01	和元素不太同調。	
+VO_HERO_02aq_Thrall_Orc_Emote_Picked_01	你準備好看我行動了嗎？	
+VO_HERO_02aq_Thrall_Orc_Emote_Start_01	鮮血與雷霆。	
+VO_HERO_02aq_Thrall_Orc_Emote_Thanks_01	也許我們有一天能成為盟友。	
+VO_HERO_02aq_Thrall_Orc_Emote_Threaten_01	你的命運到此完結。	
+VO_HERO_02aq_Thrall_Orc_Emote_Well_Played_01	和你戰鬥很榮幸。	
+VO_HERO_02aq_Thrall_Orc_Emote_Wow_01	太神奇了！	
 VO_HERO_02b_Male_Troll_Concede_01	你表現不錯，這場我輸了。	
 VO_HERO_02b_Male_Troll_ERROR_FULL_MINIONS_02	我的手下太多了！	
 VO_HERO_02b_Male_Troll_ERROR_GENERIC_02	不行，那是沒有辦法的。	
@@ -2973,6 +3084,28 @@ VO_HERO_03ag_Female_NightElf_Emote_Threaten_01	你會支離破碎，無人聞問
 VO_HERO_03ag_Female_NightElf_Emote_Well_Played_01	你簡直和典獄長一樣厲害。	
 VO_HERO_03ag_Female_NightElf_Emote_Wow_01	這我沒有預料到。	
 VO_HERO_03ag_Maiev_Emote_Attack_01	給我坐好！	
+VO_HERO_03ah_Scabbs_Gnome_Emote_Attack_01	燒成碎塊！	
+VO_HERO_03ah_Scabbs_Gnome_Emote_Greetings_01	你喜歡什麼口味？	
+VO_HERO_03ah_Scabbs_Gnome_Emote_MIRROR_GREETINGS_01	勝利的滋味！喔還有牛排。	
+VO_HERO_03ah_Scabbs_Gnome_Emote_MIRROR_START_01	別擔心！我不挑食！	
+VO_HERO_03ah_Scabbs_Gnome_Emote_Oops_01	啊，嘴裡會有噁心的味道…	
+VO_HERO_03ah_Scabbs_Gnome_Emote_Picked_01	坐好，我來弄吃的給你！	
+VO_HERO_03ah_Scabbs_Gnome_Emote_Start_01	我喜歡的戰鬥風格和我喜歡的食物一樣，要夠硬派。	
+VO_HERO_03ah_Scabbs_Gnome_Emote_Thanks_01	噢，你真是貼心。	
+VO_HERO_03ah_Scabbs_Gnome_Emote_Threaten_01	站得太近是會燒傷的。	
+VO_HERO_03ah_Scabbs_Gnome_Emote_Well_Played_01	你是荒蕪之地最棒的主廚！	
+VO_HERO_03ah_Scabbs_Gnome_Emote_Wow_01	風味十足！ 	
+VO_HERO_03ai_Valeera_BloodElf_Emote_Attack_01	小心你頭上！	
+VO_HERO_03ai_Valeera_BloodElf_Emote_Greetings_01	你好啊。準備好戰鬥了嗎？	
+VO_HERO_03ai_Valeera_BloodElf_Emote_MIRROR_GREETINGS_01	等你很久了。	
+VO_HERO_03ai_Valeera_BloodElf_Emote_MIRROR_START_01	而且我每次都會贏！	
+VO_HERO_03ai_Valeera_BloodElf_Emote_Oops_01	揮空了。	
+VO_HERO_03ai_Valeera_BloodElf_Emote_Picked_01	我會告訴他們，什麼是真正的戰鬥。	
+VO_HERO_03ai_Valeera_BloodElf_Emote_Start_01	只要有好架可打，我來者不拒。	
+VO_HERO_03ai_Valeera_BloodElf_Emote_Thanks_01	謝啦！	
+VO_HERO_03ai_Valeera_BloodElf_Emote_Threaten_01	別讓我再灌你一次！	
+VO_HERO_03ai_Valeera_BloodElf_Emote_Well_Played_01	你是一個可敬的對手。	
+VO_HERO_03ai_Valeera_BloodElf_Emote_Wow_01	真是鏗鏘有力！	
 VO_HERO_03d_Female_BloodElf_Greetings_01	你是來聊天的嗎？	
 VO_HERO_03d_Female_BloodElf_MIRROR_GREETINGS_01	你還真了解我。	
 VO_HERO_03d_Female_BloodElf_MIRROR_START_01	我也是。	
@@ -3486,6 +3619,83 @@ VO_HERO_04ai_Nozdormu_FIRE_FESTIVAL_FIREWORKS_RANK_TWO	我的時光之沙啊！
 VO_HERO_04ai_Nozdormu_FROST_FESTIVAL_FIREWORKS_RANK_ONE	我的時光之沙啊！	
 VO_HERO_04ai_Nozdormu_FROST_FESTIVAL_FIREWORKS_RANK_THREE	我的時光之沙啊！	
 VO_HERO_04ai_Nozdormu_FROST_FESTIVAL_FIREWORKS_RANK_TWO	我的時光之沙啊！	
+VO_HERO_04aj_Leeroy_Concede	之後有空再來一場吧。	
+VO_HERO_04aj_Leeroy_ERROR_FULL_MINIONS	沒空位了。	
+VO_HERO_04aj_Leeroy_ERROR_GENERIC	不行喔。	
+VO_HERO_04aj_Leeroy_ERROR_HAND_FULL	我的手牌太多了。	
+VO_HERO_04aj_Leeroy_ERROR_I_ATTACKED	我沒辦法再攻擊一次。	
+VO_HERO_04aj_Leeroy_ERROR_MINION_ATTACKED	那手下還不能攻擊。	
+VO_HERO_04aj_Leeroy_ERROR_NEED_MANA	法力不足。	
+VO_HERO_04aj_Leeroy_ERROR_NEED_WEAPON	我需要武器。	
+VO_HERO_04aj_Leeroy_ERROR_PLAY	我不能打這張牌。	
+VO_HERO_04aj_Leeroy_ERROR_STEALTH	哼，那手下潛行了。	
+VO_HERO_04aj_Leeroy_ERROR_SUMMON_SICKNESS	它還沒準備好。	
+VO_HERO_04aj_Leeroy_ERROR_TARGET	沒辦法指定那個目標。	
+VO_HERO_04aj_Leeroy_ERROR_TAUNT	有另一個傢伙在嘲諷我！	
+VO_HERO_04aj_Leeroy_FIRE_FESTIVAL	哇，火焰節來了！可以好好放肆一下！	
+VO_HERO_04aj_Leeroy_FIRE_FESTIVAL_FIREWORKS_RANK_ONE	哇喔！	
+VO_HERO_04aj_Leeroy_FIRE_FESTIVAL_FIREWORKS_RANK_THREE	哇喔！	
+VO_HERO_04aj_Leeroy_FIRE_FESTIVAL_FIREWORKS_RANK_TWO	哇喔！	
+VO_HERO_04aj_Leeroy_FROST_FESTIVAL_FIREWORKS_RANK_ONE	哇喔！	
+VO_HERO_04aj_Leeroy_FROST_FESTIVAL_FIREWORKS_RANK_THREE	哇喔！	
+VO_HERO_04aj_Leeroy_FROST_FESTIVAL_FIREWORKS_RANK_TWO	哇喔！	
+VO_HERO_04aj_Leeroy_HAPPY_HALLOWEEN	萬鬼節也擋不住李洛伊！	
+VO_HERO_04aj_Leeroy_HAPPY_HOLIDAYS	夥伴，讓我們好好享受假期吧！	
+VO_HERO_04aj_Leeroy_HAPPY_NEW_YEAR	新年快樂！	
+VO_HERO_04aj_Leeroy_HAPPY_NEW_YEAR_LUNAR	新春愉快！	
+VO_HERO_04aj_Leeroy_HAPPY_NOBLEGARDEN	數到三：來啊，一…貴族花園節快樂！	
+VO_HERO_04aj_Leeroy_LowCards	我快沒有牌了。	
+VO_HERO_04aj_Leeroy_NoCards	牌全都沒了！	
+VO_HERO_04aj_Leeroy_PIRATE_DAY	呀啊，我今天特別有衝勁！	
+VO_HERO_04aj_Leeroy_Sorry	很抱歉。	
+VO_HERO_04aj_Leeroy_Thinking_01	嗯…	
+VO_HERO_04aj_Leeroy_Thinking_02	讓我想一下…	
+VO_HERO_04aj_Leeroy_Thinking_03	怪了，為什麼我要考慮這麼多？	
+VO_HERO_04aj_Leeroy_Time	快沒時間了！	
+VO_HERO_04aj_Male_Human_Emote_Attack_01	給我走開！	
+VO_HERO_04aj_Male_Human_Emote_Greetings_01	你好嗎？	
+VO_HERO_04aj_Male_Human_Emote_MIRROR_GREETINGS_01	嘿。	
+VO_HERO_04aj_Male_Human_Emote_MIRROR_START_01	你說誰是小雞？	
+VO_HERO_04aj_Male_Human_Emote_Oops_01	糟糕！	
+VO_HERO_04aj_Male_Human_Emote_Picked_01	著裝登場囉。	
+VO_HERO_04aj_Male_Human_Emote_Start_01	過來這裡，小雞。	
+VO_HERO_04aj_Male_Human_Emote_Thanks_01	多謝你。	
+VO_HERO_04aj_Male_Human_Emote_Threaten_01	你算什麼東西，一隻小雞？	
+VO_HERO_04aj_Male_Human_Emote_Well_Played_01	你的動作熟練又優雅。	
+VO_HERO_04aj_Male_Human_Emote_Wow_01	哇喔！	
+VO_HERO_04ak_Uther_Human_Emote_Attack_01	別擋路！	
+VO_HERO_04ak_Uther_Human_Emote_Greetings_01	你好啊，開拓者。	
+VO_HERO_04ak_Uther_Human_Emote_MIRROR_GREETINGS_01	你好！	
+VO_HERO_04ak_Uther_Human_Emote_MIRROR_START_01	你不是第一個，也不會是最後一個。	
+VO_HERO_04ak_Uther_Human_Emote_Oops_01	人都會犯錯。	
+VO_HERO_04ak_Uther_Human_Emote_Picked_01	還有很多土地正在等待勇士。	
+VO_HERO_04ak_Uther_Human_Emote_Start_01	鼓舞你再擊垮你。	
+VO_HERO_04ak_Uther_Human_Emote_Thanks_01	我由衷感謝。	
+VO_HERO_04ak_Uther_Human_Emote_Threaten_01	我會砍倒你。	
+VO_HERO_04ak_Uther_Human_Emote_Well_Played_01	你看起來對戰場很有經驗。	
+VO_HERO_04ak_Uther_Human_Emote_Wow_01	我會好好印在腦中的。	
+VO_HERO_04al_Uther_Human_Emote_Attack_01	開戰!	
+VO_HERO_04al_Uther_Human_Emote_Greetings_01	你好，士兵。	
+VO_HERO_04al_Uther_Human_Emote_MIRROR_GREETINGS_01	我們向戰爭前行。	
+VO_HERO_04al_Uther_Human_Emote_MIRROR_START_01	從頭到腳都包了！	
+VO_HERO_04al_Uther_Human_Emote_Oops_01	還有很多要學習的。	
+VO_HERO_04al_Uther_Human_Emote_Picked_01	我擁有超越艾澤拉斯的力量。	
+VO_HERO_04al_Uther_Human_Emote_Start_01	以水晶鎔鑄、以聖光淬鍛。	
+VO_HERO_04al_Uther_Human_Emote_Thanks_01	你人真好。	
+VO_HERO_04al_Uther_Human_Emote_Threaten_01	不公不義者將承受我的怒火。	
+VO_HERO_04al_Uther_Human_Emote_Well_Played_01	你真是個強韌的人。	
+VO_HERO_04al_Uther_Human_Emote_Wow_01	了不起！	
+VO_HERO_04am_Uther_Human_Emote_Attack_01	倒下吧！	
+VO_HERO_04am_Uther_Human_Emote_Greetings_01	正義降臨。	
+VO_HERO_04am_Uther_Human_Emote_MIRROR_GREETINGS_01	正義真的來了。	
+VO_HERO_04am_Uther_Human_Emote_MIRROR_START_01	懲戒降於敵人。	
+VO_HERO_04am_Uther_Human_Emote_Oops_01	真討厭。	
+VO_HERO_04am_Uther_Human_Emote_Picked_01	讓我們為所需之人帶來聖光！	
+VO_HERO_04am_Uther_Human_Emote_Start_01	榮耀歸於聯盟！	
+VO_HERO_04am_Uther_Human_Emote_Thanks_01	我不會忘記你的好意。	
+VO_HERO_04am_Uther_Human_Emote_Threaten_01	我這一生揍過無數個像你一樣的人。	
+VO_HERO_04am_Uther_Human_Emote_Well_Played_01	我已經好幾年沒有過這樣的挑戰了。	
+VO_HERO_04am_Uther_Human_Emote_Wow_01	真厲害！	
 VO_HERO_04b_Male_Human_START_Illidan_01	我跟你可是不相上下。	
 VO_HERO_04b_Male_Human_START_Jaina_01	對不起，珍娜。	
 VO_HERO_04b_Male_Human_START_Sylvanas_01	風行者，我們即將面臨黑暗的命運。	
@@ -3928,6 +4138,17 @@ VO_HERO_05ae_StepfatherLor'themar_FIRE_FESTIVAL_FIREWORKS_RANK_TWO	老大的鬍�
 VO_HERO_05ae_StepfatherLor'themar_FROST_FESTIVAL_FIREWORKS_RANK_ONE	老大的鬍子啊！	
 VO_HERO_05ae_StepfatherLor'themar_FROST_FESTIVAL_FIREWORKS_RANK_THREE	老大的鬍子啊！	
 VO_HERO_05ae_StepfatherLor'themar_FROST_FESTIVAL_FIREWORKS_RANK_TWO	老大的鬍子啊！	
+VO_HERO_05af_Alleria_BloodElf_Emote_Attack_01	乖乖站好。	
+VO_HERO_05af_Alleria_BloodElf_Emote_Greetings_01	歡迎你一起驅牛！	
+VO_HERO_05af_Alleria_BloodElf_Emote_MIRROR_GREETINGS_01	讓我們一起趕牛吧。	
+VO_HERO_05af_Alleria_BloodElf_Emote_MIRROR_START_01	但會是你的最後一場。	
+VO_HERO_05af_Alleria_BloodElf_Emote_Oops_01	那是個失誤。	
+VO_HERO_05af_Alleria_BloodElf_Emote_Picked_01	我天生就吃這行飯。	
+VO_HERO_05af_Alleria_BloodElf_Emote_Start_01	這不是我的第一場競技秀。	
+VO_HERO_05af_Alleria_BloodElf_Emote_Thanks_01	誠心感謝你。	
+VO_HERO_05af_Alleria_BloodElf_Emote_Threaten_01	我會讓你回到該去的地方。	
+VO_HERO_05af_Alleria_BloodElf_Emote_Well_Played_01	你在這方面很拿手。	
+VO_HERO_05af_Alleria_BloodElf_Emote_Wow_01	難道我的眼睛欺騙了我？	
 VO_HERO_05b_Female_Undead_Concede_01	我受的苦已經夠多…	
 VO_HERO_05b_Female_Undead_ERROR_FULL_MINIONS_02	我的手下太多了。	
 VO_HERO_05b_Female_Undead_ERROR_GENERIC_02	我辦不到。	
@@ -4479,6 +4700,62 @@ VO_HERO_06ah_Male_OldGod_Emote_Threaten_01	你的勇氣微不足道。
 VO_HERO_06ah_Male_OldGod_Emote_Time_01	時間正在消逝。	
 VO_HERO_06ah_Male_OldGod_Emote_Well_Played_01	我看到了…你的力量。	
 VO_HERO_06ah_Male_OldGod_Emote_WOW_01	眼見…但難以置信。	
+VO_HERO_06ai_Male_Drust_Emote_Attack_01	全力攻擊！	
+VO_HERO_06ai_Male_Drust_Emote_Concede_01	生死循環…永不終結。	
+VO_HERO_06ai_Male_Drust_Emote_Death_01	*慘叫*	
+VO_HERO_06ai_Male_Drust_Emote_ERROR_FULL_MINIONS_01	戰場已經滿了。	
+VO_HERO_06ai_Male_Drust_Emote_ERROR_GENERIC_01	那不可能。	
+VO_HERO_06ai_Male_Drust_Emote_ERROR_HAND_FULL_01	我的手牌滿了。	
+VO_HERO_06ai_Male_Drust_Emote_ERROR_I_ATTACKED_01	我不能攻擊兩次。	
+VO_HERO_06ai_Male_Drust_Emote_ERROR_MINION_ATTACKED_01	這個手下無法再攻擊了！	
+VO_HERO_06ai_Male_Drust_Emote_ERROR_NEED_MANA_01	我需要更多法力。	
+VO_HERO_06ai_Male_Drust_Emote_ERROR_NEED_WEAPON_01	我需要武器。	
+VO_HERO_06ai_Male_Drust_Emote_ERROR_PLAY_01	我辦不到。	
+VO_HERO_06ai_Male_Drust_Emote_ERROR_STEALTH_01	那個手下潛行了。	
+VO_HERO_06ai_Male_Drust_Emote_ERROR_SUMMON_SICKNESS_01	有耐心一點。	
+VO_HERO_06ai_Male_Drust_Emote_ERROR_TARGET_01	我必須找個新的目標。	
+VO_HERO_06ai_Male_Drust_Emote_ERROR_TAUNT_01	他們在嘲諷我。	
+VO_HERO_06ai_Male_Drust_Emote_FIRE_FESTIVAL_01	願火焰帶來新生。	
+VO_HERO_06ai_Male_Drust_Emote_Greetings_01	你好啊，內陸人。	
+VO_HERO_06ai_Male_Drust_Emote_HAPPY_HALLOWEEN_01	別小看萬鬼節的森林。	
+VO_HERO_06ai_Male_Drust_Emote_HAPPY_HOLIDAYS_01	別把飾品掛在我身上。	
+VO_HERO_06ai_Male_Drust_Emote_HAPPY_NEW_YEAR_01	新年快樂！	
+VO_HERO_06ai_Male_Drust_Emote_HAPPY_NEW_YEAR_LUNAR_01	新春愉快！	
+VO_HERO_06ai_Male_Drust_Emote_HAPPY_NOBLEGARDEN_01	貴族花園節快樂，循環再次重複。	
+VO_HERO_06ai_Male_Drust_Emote_LowCards_01	我的卡牌快用光了。	
+VO_HERO_06ai_Male_Drust_Emote_MIRROR_GREETINGS_01	我不是內陸人。	
+VO_HERO_06ai_Male_Drust_Emote_MIRROR_START_01	我前來學習。	
+VO_HERO_06ai_Male_Drust_Emote_NoCards_01	我的牌堆一片荒涼。	
+VO_HERO_06ai_Male_Drust_Emote_Oops_01	判斷出錯了。	
+VO_HERO_06ai_Male_Drust_Emote_Picked_01	我是平衡的守護者、循環的看守者。	
+VO_HERO_06ai_Male_Drust_Emote_PIRATE_DAY_01	願你的船堅固無比。	
+VO_HERO_06ai_Male_Drust_Emote_Sorry_01	很遺憾。	
+VO_HERO_06ai_Male_Drust_Emote_Start_01	我的智慧只分享給勇敢的人。	
+VO_HERO_06ai_Male_Drust_Emote_Thanks_01	謝謝你。	
+VO_HERO_06ai_Male_Drust_Emote_Thinking_01	嗯…	
+VO_HERO_06ai_Male_Drust_Emote_Thinking_02	我想想…	
+VO_HERO_06ai_Male_Drust_Emote_Thinking_03	怎麼做才是對的？	
+VO_HERO_06ai_Male_Drust_Emote_Threaten_01	招惹熊可是不明智的行為。	
+VO_HERO_06ai_Male_Drust_Emote_Time_01	我也許老了，但我並不慢。	
+VO_HERO_06ai_Male_Drust_Emote_Well_Played_01	你的根基很扎實。	
+VO_HERO_06ai_Male_Drust_Emote_WOW_01	真是前所未見！	
+VO_HERO_06ai_Ulfar_FIRE_FESTIVAL_FIREWORKS_RANK_ONE	VO_HERO_06ai_Male_Drust_Emote_WOW_01	
+VO_HERO_06ai_Ulfar_FIRE_FESTIVAL_FIREWORKS_RANK_THREE	VO_HERO_06ai_Male_Drust_Emote_WOW_01	
+VO_HERO_06ai_Ulfar_FIRE_FESTIVAL_FIREWORKS_RANK_TWO	VO_HERO_06ai_Male_Drust_Emote_WOW_01	
+VO_HERO_06ai_Ulfar_FROST_FESTIVAL_FIREWORKS_RANK_ONE	VO_HERO_06ai_Male_Drust_Emote_WOW_01	
+VO_HERO_06ai_Ulfar_FROST_FESTIVAL_FIREWORKS_RANK_THREE	VO_HERO_06ai_Male_Drust_Emote_WOW_01	
+VO_HERO_06ai_Ulfar_FROST_FESTIVAL_FIREWORKS_RANK_TWO	VO_HERO_06ai_Male_Drust_Emote_WOW_01	
+VO_HERO_06aj_Guff_Tauren_Emote_Attack_01	給我過來！	
+VO_HERO_06aj_Guff_Tauren_Emote_Greetings_01	咿─哈！	
+VO_HERO_06aj_Guff_Tauren_Emote_MIRROR_GREETINGS_01	就是這樣，夥伴！	
+VO_HERO_06aj_Guff_Tauren_Emote_MIRROR_START_01	這座城鎮對我們來說夠大了！	
+VO_HERO_06aj_Guff_Tauren_Emote_Oops_01	噢厚厚！太尷尬了！ 	
+VO_HERO_06aj_Guff_Tauren_Emote_Picked_01	很高興能認識你！	
+VO_HERO_06aj_Guff_Tauren_Emote_Start_01	噢，你好啊，夥伴！	
+VO_HERO_06aj_Guff_Tauren_Emote_Thanks_01	你人真好！	
+VO_HERO_06aj_Guff_Tauren_Emote_Threaten_01	你再不停下來，我要生氣了！	
+VO_HERO_06aj_Guff_Tauren_Emote_Well_Played_01	你是我最愛的對手。 	
+VO_HERO_06aj_Guff_Tauren_Emote_Wow_01	了不起！	
 VO_HERO_06e_Male_NightElf_Attack_01	大自然的敵人，小心了！	
 VO_HERO_06e_Male_NightElf_Greetings_01	聆聽大自然的低語。	
 VO_HERO_06e_Male_NightElf_MIRROR_GREETINGS_01	你的確很擅長聆聽。	
@@ -5078,6 +5355,50 @@ VO_HERO_07ah_Male_OldGod_Emote_Thanks_01	謝謝。
 VO_HERO_07ah_Male_OldGod_Emote_Threaten_01	惡有惡報。	
 VO_HERO_07ah_Male_OldGod_Emote_Well_Played_01	讓他們畏懼你。	
 VO_HERO_07ah_Male_OldGod_Emote_Wow_01	混沌統治一切！	
+VO_HERO_07ai_MechaJaraxxus_Demon_Emote_Attack_01	鑽探和殺戮！	
+VO_HERO_07ai_MechaJaraxxus_Demon_Emote_Greetings_01	萬事俱備！	
+VO_HERO_07ai_MechaJaraxxus_Demon_Emote_MIRROR_GREETINGS_01	嗯，大部分是金屬。 	
+VO_HERO_07ai_MechaJaraxxus_Demon_Emote_MIRROR_START_01	歡迎來到混戰行動。	
+VO_HERO_07ai_MechaJaraxxus_Demon_Emote_Oops_01	弱點已確定。	
+VO_HERO_07ai_MechaJaraxxus_Demon_Emote_Picked_01	艾澤萊晶岩之力在我的血液裡流動！	
+VO_HERO_07ai_MechaJaraxxus_Demon_Emote_Start_01	你面對的是終極挖掘機！	
+VO_HERO_07ai_MechaJaraxxus_Demon_Emote_Thanks_01	你的幫助很有效。	
+VO_HERO_07ai_MechaJaraxxus_Demon_Emote_Threaten_01	我的鑽頭對凡人也有效。	
+VO_HERO_07ai_MechaJaraxxus_Demon_Emote_Well_Played_01	這個互動有正面效果。	
+VO_HERO_07ai_MechaJaraxxus_Demon_Emote_Wow_01	和我預想的不一樣。	
+VO_HERO_07aj_Rafaam_Ethereal_Emote_Attack_01	這是你自找的！	
+VO_HERO_07aj_Rafaam_Ethereal_Emote_Greetings_01	卑賤的鄉親們，大家好！	
+VO_HERO_07aj_Rafaam_Ethereal_Emote_MIRROR_GREETINGS_01	你說誰卑賤?!	
+VO_HERO_07aj_Rafaam_Ethereal_Emote_MIRROR_START_01	我…我也是拉法姆！	
+VO_HERO_07aj_Rafaam_Ethereal_Emote_Oops_01	不准退錢。	
+VO_HERO_07aj_Rafaam_Ethereal_Emote_Picked_01	我的商品來源？別問那麼多。	
+VO_HERO_07aj_Rafaam_Ethereal_Emote_Start_01	我是拉法姆，終極銷售員！	
+VO_HERO_07aj_Rafaam_Ethereal_Emote_Thanks_01	謝謝你！	
+VO_HERO_07aj_Rafaam_Ethereal_Emote_Threaten_01	弄壞了就要買！	
+VO_HERO_07aj_Rafaam_Ethereal_Emote_Well_Played_01	你還真會談生意。	
+VO_HERO_07aj_Rafaam_Ethereal_Emote_Wow_01	厲害！	
+VO_HERO_07ak_Guldan_Orc_Emote_Attack_01	絕望吧！	
+VO_HERO_07ak_Guldan_Orc_Emote_Greetings_01	你好啊。	
+VO_HERO_07ak_Guldan_Orc_Emote_MIRROR_GREETINGS_01	哈囉。	
+VO_HERO_07ak_Guldan_Orc_Emote_MIRROR_START_01	就和預期的一樣。	
+VO_HERO_07ak_Guldan_Orc_Emote_Oops_01	這我沒有預料到。	
+VO_HERO_07ak_Guldan_Orc_Emote_Picked_01	我們敵人的苦難即將到來。	
+VO_HERO_07ak_Guldan_Orc_Emote_Start_01	我的計畫就要有成果了。	
+VO_HERO_07ak_Guldan_Orc_Emote_Thanks_01	我由衷感謝你。	
+VO_HERO_07ak_Guldan_Orc_Emote_Threaten_01	你的痛苦才剛剛開始。	
+VO_HERO_07ak_Guldan_Orc_Emote_Well_Played_01	你擁有強大的力量。	
+VO_HERO_07ak_Guldan_Orc_Emote_Wow_01	歎為觀止！	
+VO_HERO_07al_Guldan_Orc_Emote_Attack_01	掙扎吧！ *享受語氣*	
+VO_HERO_07al_Guldan_Orc_Emote_Greetings_01	你好啊。想來筆交易嗎？	
+VO_HERO_07al_Guldan_Orc_Emote_MIRROR_GREETINGS_01	我已經做完了。	
+VO_HERO_07al_Guldan_Orc_Emote_MIRROR_START_01	我們拭目以待。	
+VO_HERO_07al_Guldan_Orc_Emote_Oops_01	計畫不是這樣的。	
+VO_HERO_07al_Guldan_Orc_Emote_Picked_01	我的力量能迎來勝利。你打算用什麼作交換？	
+VO_HERO_07al_Guldan_Orc_Emote_Start_01	我是黑暗的化身。有種就來挑戰我。	
+VO_HERO_07al_Guldan_Orc_Emote_Thanks_01	是該表達一下謝意。	
+VO_HERO_07al_Guldan_Orc_Emote_Threaten_01	我要放乾你的血。	
+VO_HERO_07al_Guldan_Orc_Emote_Well_Played_01	看來你比外表聰明嘛。	
+VO_HERO_07al_Guldan_Orc_Emote_Wow_01	真了不起！	
 VO_Hero_07d_Male_OldGod_Attack_02	*吼聲*	
 VO_Hero_07d_Male_OldGod_Concede_01	繼續…沉睡…	
 VO_Hero_07d_Male_OldGod_Death_02	結…束了…	
@@ -5674,7 +5995,7 @@ VO_HERO_08am_Female_Kobold_Emote_ERROR_TARGET_01	沒辦法指定那個目標。
 VO_HERO_08am_Female_Kobold_Emote_ERROR_TAUNT_01	有另一個傢伙在嘲諷我。	
 VO_HERO_08am_Female_Kobold_Emote_FIRE_FESTIVAL_01	火焰節？別讓蠟燭熄滅了！	
 VO_HERO_08am_Female_Kobold_Emote_Greetings_01	哇喔，嗨！	
-VO_HERO_08am_Female_Kobold_Emote_HAPPY_HALLOWEEN_01	嚇！萬鬼節快樂！	
+VO_HERO_08am_Female_Kobold_Emote_HAPPY_HALLOWEEN_01	哈！萬鬼節快樂！	
 VO_HERO_08am_Female_Kobold_Emote_HAPPY_HOLIDAYS_01	冬幕節快樂！要來打場雪仗嗎？	
 VO_HERO_08am_Female_Kobold_Emote_HAPPY_NEW_YEAR_01	新年快樂！	
 VO_HERO_08am_Female_Kobold_Emote_HAPPY_NEW_YEAR_LUNAR_01	新春愉快！	
@@ -5747,19 +6068,51 @@ VO_HERO_08ao_Female_Dragon_Emote_Well_Played_01	真是驚人的操作。
 VO_HERO_08ao_Female_Dragon_Emote_Wow_01	太讓人啟發了！	
 VO_HERO_08ap_Male_Human_Emote_Greetings_01	我會好好指引你。	
 VO_HERO_08ap_Male_Human_Emote_MIRROR_START_01	那就該行動了。	
-VO_HERO_08ap_Male_Human_Emote_Oops_01	大家都會犯錯	
+VO_HERO_08ap_Male_Human_Emote_Oops_01	人都會犯錯。	
 VO_HERO_08ap_Male_Human_Emote_Picked_01	命運即將揭曉。	
 VO_HERO_08ap_Male_Human_Emote_Start_01	你的時間不多了。	
 VO_HERO_08ap_Male_Human_Emote_Thanks_01	我會報答你的	
 VO_HERO_08ap_Male_Human_Emote_Threaten_01	無知就是你喪命的原因！	
 VO_HERO_08ap_Male_Human_Emote_Well_Played_01	精彩的勝利	
 VO_HERO_08ap_Male_Human_Emote_Wow_01	我完全沒料到	
-VO_HERO_08ap_ShipmasterMedivh_FIRE_FESTIVAL_FIREWORKS_RANK_ONE	我完全沒料到	
-VO_HERO_08ap_ShipmasterMedivh_FIRE_FESTIVAL_FIREWORKS_RANK_THREE	我完全沒料到	
-VO_HERO_08ap_ShipmasterMedivh_FIRE_FESTIVAL_FIREWORKS_RANK_TWO	我完全沒料到	
-VO_HERO_08ap_ShipmasterMedivh_FROST_FESTIVAL_FIREWORKS_RANK_ONE	我完全沒料到	
-VO_HERO_08ap_ShipmasterMedivh_FROST_FESTIVAL_FIREWORKS_RANK_THREE	我完全沒料到	
-VO_HERO_08ap_ShipmasterMedivh_FROST_FESTIVAL_FIREWORKS_RANK_TWO	我完全沒料到	
+VO_HERO_08aq_08aq_Jaina_Human_Emote_Attack_01	進攻！	
+VO_HERO_08aq_08aq_Jaina_Human_Emote_Greetings_01	這是我的榮幸。	
+VO_HERO_08aq_08aq_Jaina_Human_Emote_MIRROR_GREETINGS_01	是我的才對！哈。	
+VO_HERO_08aq_08aq_Jaina_Human_Emote_MIRROR_START_01	管好你自己。	
+VO_HERO_08aq_08aq_Jaina_Human_Emote_Oops_01	噢，我出錯了…	
+VO_HERO_08aq_08aq_Jaina_Human_Emote_Picked_01	我也可以潛行。	
+VO_HERO_08aq_08aq_Jaina_Human_Emote_Start_01	你要小心點。	
+VO_HERO_08aq_08aq_Jaina_Human_Emote_Thanks_01	謝謝你。	
+VO_HERO_08aq_08aq_Jaina_Human_Emote_Threaten_01	我會殺死你！	
+VO_HERO_08aq_08aq_Jaina_Human_Emote_Well_Played_01	玩得不錯。	
+VO_HERO_08aq_08aq_Jaina_Human_Emote_Wow_01	真厲害。	
+VO_HERO_08aq_Jaina_Concede	這場你贏了。	
+VO_HERO_08aq_Jaina_ERROR_FULL_MINIONS	我的手下太多了！	
+VO_HERO_08aq_Jaina_ERROR_GENERIC	我不能這麼做。	
+VO_HERO_08aq_Jaina_ERROR_HAND_FULL	我的手牌已經滿了！	
+VO_HERO_08aq_Jaina_ERROR_I_ATTACKED	我已經攻擊過了。	
+VO_HERO_08aq_Jaina_ERROR_MINION_ATTACKED	那個手下已經攻擊過了。	
+VO_HERO_08aq_Jaina_ERROR_NEED_MANA	我沒有足夠的法力。	
+VO_HERO_08aq_Jaina_ERROR_NEED_WEAPON	我需要武器。	
+VO_HERO_08aq_Jaina_ERROR_PLAY	我不能打這張牌。	
+VO_HERO_08aq_Jaina_ERROR_STEALTH	我不能指定潛行的手下。	
+VO_HERO_08aq_Jaina_ERROR_TARGET	那不是有效的目標。	
+VO_HERO_08aq_Jaina_ERROR_TAUNT	有嘲諷的手下擋住我了。	
+VO_HERO_08aq_Jaina_HAPPY_NEW_YEAR	新年快樂！	
+VO_HERO_08aq_Jaina_PIRATE_DAY	啊嘿！	
+VO_HERO_08aq_Jaina_Sorry	對不起。	
+VO_HERO_08aq_Jaina_Time	時間快不夠了！	
+VO_HERO_08ar_Saraad_Ethereal_Emote_Attack_01	你該蓋牌了！	
+VO_HERO_08ar_Saraad_Ethereal_Emote_Greetings_01	我來幫你發牌。	
+VO_HERO_08ar_Saraad_Ethereal_Emote_MIRROR_GREETINGS_01	我可以自己發牌。	
+VO_HERO_08ar_Saraad_Ethereal_Emote_MIRROR_START_01	我不是來玩鬧的。	
+VO_HERO_08ar_Saraad_Ethereal_Emote_Oops_01	沒有爛牌，只有不會玩的人。	
+VO_HERO_08ar_Saraad_Ethereal_Emote_Picked_01	你的命運就在卡牌之中，而我是那個荷官。	
+VO_HERO_08ar_Saraad_Ethereal_Emote_Start_01	讓賽局開始吧！	
+VO_HERO_08ar_Saraad_Ethereal_Emote_Thanks_01	莊家感謝你。	
+VO_HERO_08ar_Saraad_Ethereal_Emote_Threaten_01	我會讓你沒牌可打。	
+VO_HERO_08ar_Saraad_Ethereal_Emote_Well_Played_01	你是天生的賭徒。	
+VO_HERO_08ar_Saraad_Ethereal_Emote_Wow_01	真稀奇！	
 VO_HERO_08b_HAPPY_NEW_YEAR_53	新年快樂！	
 VO_Hero_08e_Male_Lich_Concede_01	算你贏了。	
 VO_Hero_08e_Male_Lich_ERROR_FULL_MINIONS_01	詛咒神教容不下更多教徒了！	
@@ -6381,6 +6734,65 @@ VO_HERO_09ah_InvestigatorXyrella_FIRE_FESTIVAL_FIREWORKS_RANK_TWO	太神秘了�
 VO_HERO_09ah_InvestigatorXyrella_FROST_FESTIVAL_FIREWORKS_RANK_ONE	太神秘了！	
 VO_HERO_09ah_InvestigatorXyrella_FROST_FESTIVAL_FIREWORKS_RANK_THREE	太神秘了！	
 VO_HERO_09ah_InvestigatorXyrella_FROST_FESTIVAL_FIREWORKS_RANK_TWO	太神秘了！	
+VO_HERO_09ai_Hedanis_BloodElf_Emote_Attack_01	遜咖！	
+VO_HERO_09ai_Hedanis_BloodElf_Emote_Greetings_01	噢，能夠來這裡我很榮幸。	
+VO_HERO_09ai_Hedanis_BloodElf_Emote_MIRROR_GREETINGS_01	喔！呃，這裡是哪裡？	
+VO_HERO_09ai_Hedanis_BloodElf_Emote_MIRROR_START_01	我衷心希望你不要唱。 	
+VO_HERO_09ai_Hedanis_BloodElf_Emote_Oops_01	哈哈！走音了！	
+VO_HERO_09ai_Hedanis_BloodElf_Emote_Picked_01	想聆聽一點旋律嗎？	
+VO_HERO_09ai_Hedanis_BloodElf_Emote_Start_01	讓我為你唱首歌！	
+VO_HERO_09ai_Hedanis_BloodElf_Emote_Thanks_01	我很感動。	
+VO_HERO_09ai_Hedanis_BloodElf_Emote_Threaten_01	我，不接受點歌！	
+VO_HERO_09ai_Hedanis_BloodElf_Emote_Well_Played_01	你贏得了我的簽名。	
+VO_HERO_09ai_Hedanis_BloodElf_Emote_Wow_01	我得承認，我印象深刻。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Attack_01	這是你自找的！	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Concede_01	我必須撤退。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Death_01	*死亡*	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_ERROR_FULL_MINIONS_01	沒有空間了。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_ERROR_GENERIC_01	我辦不到。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_ERROR_HAND_FULL_01	我拿不了那麼多！	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_ERROR_I_ATTACKED_01	我需要休息一下。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_ERROR_MINION_ATTACKED_01	他已經攻擊過了。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_ERROR_NEED_MANA_01	我需要更多法力。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_ERROR_NEED_WEAPON_01	我需要武器。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_ERROR_PLAY_01	我不能打這張牌。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_ERROR_STEALTH_01	對方潛伏在陰影之中。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_ERROR_SUMMON_SICKNESS_01	那個手下還沒準備好。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_ERROR_TARGET_01	我沒辦法指定那個目標。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_ERROR_TAUNT_01	嘲諷阻礙著我的前行。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_FIRE_FESTIVAL_01	希望之火熊熊燃燒！	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Greetings_01	你好嗎？	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_HAPPY_HALLOWEEN_01	提高警覺，現在是萬鬼節。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_HAPPY_HOLIDAYS_01	祝你佳節愉快。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_HAPPY_NEW_YEAR_01	新春愉快！	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_HAPPY_NEW_YEAR_LUNAR_01	祝你今年萬事如意。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_HAPPY_NOBLEGARDEN_01	貴族花園節快樂！	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_LowCards_01	只剩幾張牌了。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_MIRROR_GREETINGS_01	棒呆了。那你呢？	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_MIRROR_START_01	而真理中蘊藏著強大的力量。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_NoCards_01	我的牌堆用盡了。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Oops_01	重大失誤。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Picked_01	我身負的重擔你無法想像。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_PIRATE_DAY_01	盯緊你的幸運幣，海盜節到了。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Sorry_01	我很抱歉。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Start_01	聖光會為我指引真理。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Start_Aranna_01	*嘆氣*又要姊妹鬩牆了。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Start_Kurtrus_01	我還有很多事要向你學習。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Start_Reska!_01	你的工作到此為止。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Thanks_01	請收下我的謝意。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Thinking_01_01	我必須權衡利弊…	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Thinking_02_01	該怎麼做呢…	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Thinking_03_01	我之前研究過這種情況…	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Threaten_01	你對和平造成威脅，我便為你迎來戰爭。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Time_01	該行動了。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Trigger_BottledLightbugs_01	你解放了，小傢伙。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Trigger_HolySpringwater_01	水滋養了生命。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Trigger_Serenity_01	一路平安。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Trigger_SwarmofLightbugs_01	就像夜空中的星星。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Trigger_TheStarsAlign_01	我從未見過如此繁星。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Trigger_TramHeist_01	我會負責任地使用這些的。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Well_Played_01	你真是個令人敬畏的對手。	
+VO_HERO_09aj_EliseStarseeker_NightElf_Emote_WOW_01	真是高深莫測！	
 VO_HERO_09b_Female_Troll_Concede_01	你贏了。這場你註定會贏。	
 VO_HERO_09b_Female_Troll_ERROR_FULL_MINIONS_02	我的牌桌已經滿了！	
 VO_HERO_09b_Female_Troll_ERROR_GENERIC_02	那是不可能的。	
@@ -6899,10 +7311,10 @@ VO_HERO_10ac_FelblazeIllidan_HAPPY_HOLIDAYS_01	背叛者沒有假期。
 VO_HERO_10ac_FelblazeIllidan_HAPPY_NEW_YEAR_01	新春愉快！	
 VO_HERO_10ac_FelblazeIllidan_HAPPY_NEW_YEAR_LUNAR_01	新春愉快！	
 VO_HERO_10ac_FelblazeIllidan_HAPPY_NOBLEGARDEN_01	搜尋蛋也是獵殺惡魔訓練的一部分。	
-VO_HERO_10ac_FelblazeIllidan_LowCards_01	剩沒多少張牌了…	
+VO_HERO_10ac_FelblazeIllidan_LowCards	剩沒多少張牌了…	
 VO_HERO_10ac_FelblazeIllidan_MIRROR_GREETINGS_01	沒錯，因為你來了。	
 VO_HERO_10ac_FelblazeIllidan_MIRROR_START_01	你竟敢跟我說話？	
-VO_HERO_10ac_FelblazeIllidan_NoCards_01	我沒有牌了！	
+VO_HERO_10ac_FelblazeIllidan_NoCards	我沒有牌了！	
 VO_HERO_10ac_FelblazeIllidan_Oops_01	出錯了嗎？	
 VO_HERO_10ac_FelblazeIllidan_Picked_01	過去我被囚禁在黑暗中。	
 VO_HERO_10ac_FelblazeIllidan_PIRATE_DAY_01	快登上背叛者號，航向背叛之海！	
@@ -6969,6 +7381,56 @@ VO_HERO_10ae_Male_Beast_Emote_Thanks_01	你值得…我向你道謝。
 VO_HERO_10ae_Male_Beast_Emote_Threaten_01	我會把你…撕成兩半。	
 VO_HERO_10ae_Male_Beast_Emote_Well_Played_01	你打起來…就像著了魔。	
 VO_HERO_10ae_Male_Beast_Emote_Wow_01	出乎意料…前所未見…	
+VO_HERO_10af_Illidan_FIRE_FESTIVAL_FIREWORKS_RANK_ONE	真是個討海人。	
+VO_HERO_10af_Illidan_FIRE_FESTIVAL_FIREWORKS_RANK_THREE	真是個討海人。	
+VO_HERO_10af_Illidan_FIRE_FESTIVAL_FIREWORKS_RANK_TWO	真是個討海人。	
+VO_HERO_10af_Illidan_FROST_FESTIVAL_FIREWORKS_RANK_ONE	真是個討海人。	
+VO_HERO_10af_Illidan_FROST_FESTIVAL_FIREWORKS_RANK_THREE	真是個討海人。	
+VO_HERO_10af_Illidan_FROST_FESTIVAL_FIREWORKS_RANK_TWO	真是個討海人。	
+VO_HERO_10af_Male_NightElf_Emote_Attack_01	注意！	
+VO_HERO_10af_Male_NightElf_Emote_Greetings_01	Ahoy！	
+VO_HERO_10af_Male_NightElf_Emote_MIRROR_GREETINGS_01	唷呴呴！	
+VO_HERO_10af_Male_NightElf_Emote_MIRROR_START_01	那你該閉嘴了。	
+VO_HERO_10af_Male_NightElf_Emote_Oops_01	天啊。	
+VO_HERO_10af_Male_NightElf_Emote_Picked_01	啟航！	
+VO_HERO_10af_Male_NightElf_Emote_Start_01	死人不會說話。	
+VO_HERO_10af_Male_NightElf_Emote_Thanks_01	謝啦，朋友。	
+VO_HERO_10af_Male_NightElf_Emote_Threaten_01	呀啊！你還沒準備好。	
+VO_HERO_10af_Male_NightElf_Emote_Well_Played_01	你很會航海。	
+VO_HERO_10af_Male_NightElf_Emote_Wow_01	真是個討海人。	
+VO_HERO_10ag_Kurtrus_NightElf_Emote_Attack_01	太慢了！	
+VO_HERO_10ag_Kurtrus_NightElf_Emote_Greetings_01	你好，冒險者。	
+VO_HERO_10ag_Kurtrus_NightElf_Emote_MIRROR_GREETINGS_01	你好，陌生人。	
+VO_HERO_10ag_Kurtrus_NightElf_Emote_MIRROR_START_01	還有誰能打敗我？	
+VO_HERO_10ag_Kurtrus_NightElf_Emote_Oops_01	犯錯才能從中學習。	
+VO_HERO_10ag_Kurtrus_NightElf_Emote_Picked_01	睜大眼睛看仔細，不要錯過我的下一步。	
+VO_HERO_10ag_Kurtrus_NightElf_Emote_Start_01	相信我，你不會想和我打一架的。	
+VO_HERO_10ag_Kurtrus_NightElf_Emote_Thanks_01	夥伴，你服務得很好。	
+VO_HERO_10ag_Kurtrus_NightElf_Emote_Threaten_01	朋友，讓我好好…指導你。	
+VO_HERO_10ag_Kurtrus_NightElf_Emote_Well_Played_01	你很有潛力。	
+VO_HERO_10ag_Kurtrus_NightElf_Emote_Wow_01	喜聞樂見！	
+VO_HERO_10ah_Illidan_NightElf_Emote_Attack_01	黑暗在呼喚。	
+VO_HERO_10ah_Illidan_NightElf_Emote_Greetings_01	看看是誰來了。	
+VO_HERO_10ah_Illidan_NightElf_Emote_MIRROR_GREETINGS_01	看到我你開不開心啊？	
+VO_HERO_10ah_Illidan_NightElf_Emote_MIRROR_START_01	你並未看見我的到來。	
+VO_HERO_10ah_Illidan_NightElf_Emote_Oops_01	冒著不明智的風險。	
+VO_HERO_10ah_Illidan_NightElf_Emote_Picked_01	背叛者…其實我才是受背叛的那一個。	
+VO_HERO_10ah_Illidan_NightElf_Emote_Start_01	我失明的雙眼可以看見他人所不能見。	
+VO_HERO_10ah_Illidan_NightElf_Emote_Thanks_01	看來我欠你一次。	
+VO_HERO_10ah_Illidan_NightElf_Emote_Threaten_01	此生此世，你都無法超越我。	
+VO_HERO_10ah_Illidan_NightElf_Emote_Well_Played_01	你會是個很好的伊利達瑞。	
+VO_HERO_10ah_Illidan_NightElf_Emote_Wow_01	我完全沒有想到。	
+VO_HERO_10ai_Illidan_NightElf_Emote_Attack_01	你敢？	
+VO_HERO_10ai_Illidan_NightElf_Emote_Greetings_01	*嘆氣* 哈囉。	
+VO_HERO_10ai_Illidan_NightElf_Emote_MIRROR_GREETINGS_01	嗯。	
+VO_HERO_10ai_Illidan_NightElf_Emote_MIRROR_START_01	你的命運已定。	
+VO_HERO_10ai_Illidan_NightElf_Emote_Oops_01	小孩子的把戲！	
+VO_HERO_10ai_Illidan_NightElf_Emote_Picked_01	準備好開始狩獵了嗎？	
+VO_HERO_10ai_Illidan_NightElf_Emote_Start_01	我的命運，由我決定。	
+VO_HERO_10ai_Illidan_NightElf_Emote_Thanks_01	你的行為舉止令人欽佩。	
+VO_HERO_10ai_Illidan_NightElf_Emote_Threaten_01	或許結束以後，我應該把你的頭顱帶走。	
+VO_HERO_10ai_Illidan_NightElf_Emote_Well_Played_01	惡魔們害怕你是明智的選擇。	
+VO_HERO_10ai_Illidan_NightElf_Emote_Wow_01	太震驚了！	
 VO_HERO_10c_Male_NightElf_Attack_01	小孩子的把戲！	
 VO_HERO_10c_Male_NightElf_Greetings_01	狩獵到此結束。	
 VO_HERO_10c_Male_NightElf_MIRROR_GREETINGS_01	如你所願。	
@@ -7643,6 +8105,51 @@ VO_HERO_11k_Male_Undead_Emote_Thanks_01	我欠你一份人情。
 VO_HERO_11k_Male_Undead_Emote_Threaten_01	我會在觀眾的歡呼聲中，收割你的靈魂。	
 VO_HERO_11k_Male_Undead_Emote_Well_Played_01	千古難得一見的戰鬥。	
 VO_HERO_11k_Male_Undead_Emote_Wow_01	不錯嘛。	
+VO_HERO_11l_Female_Sanlayn_Emote_Attack_01	嚐一口就好！	
+VO_HERO_11l_Female_Sanlayn_Emote_Concede_01	還…真是不幸。	
+VO_HERO_11l_Female_Sanlayn_Emote_Death_01	*慘叫*	
+VO_HERO_11l_Female_Sanlayn_Emote_ERROR_FULL_MINIONS_01	手下太多了。	
+VO_HERO_11l_Female_Sanlayn_Emote_ERROR_GENERIC_01	我辦不到。	
+VO_HERO_11l_Female_Sanlayn_Emote_ERROR_HAND_FULL_01	我拿不了更多牌了。	
+VO_HERO_11l_Female_Sanlayn_Emote_ERROR_I_ATTACKED_01	我不能連咬兩次。	
+VO_HERO_11l_Female_Sanlayn_Emote_ERROR_MINION_ATTACKED_01	那個手下已經攻擊過了。	
+VO_HERO_11l_Female_Sanlayn_Emote_ERROR_NEED_MANA_01	我需要更多法力。	
+VO_HERO_11l_Female_Sanlayn_Emote_ERROR_NEED_WEAPON_01	我需要武器。	
+VO_HERO_11l_Female_Sanlayn_Emote_ERROR_PLAY_01	我不能打這張牌	
+VO_HERO_11l_Female_Sanlayn_Emote_ERROR_STEALTH_01	敵人已經潛行了。	
+VO_HERO_11l_Female_Sanlayn_Emote_ERROR_SUMMON_SICKNESS_01	那個手下需要一點時間。	
+VO_HERO_11l_Female_Sanlayn_Emote_ERROR_TARGET_01	我沒辦法指定那個目標。	
+VO_HERO_11l_Female_Sanlayn_Emote_ERROR_TAUNT_01	我被嘲諷了。	
+VO_HERO_11l_Female_Sanlayn_Emote_FIRE_FESTIVAL_01	火焰節到了。	
+VO_HERO_11l_Female_Sanlayn_Emote_Greetings_01	體驗我的飢渴！	
+VO_HERO_11l_Female_Sanlayn_Emote_HAPPY_HALLOWEEN_01	你的一生會終結在萬鬼節。	
+VO_HERO_11l_Female_Sanlayn_Emote_HAPPY_HOLIDAYS_01	冬幕節會讓你全身冰冷。	
+VO_HERO_11l_Female_Sanlayn_Emote_HAPPY_NEW_YEAR_01	新年快樂！	
+VO_HERO_11l_Female_Sanlayn_Emote_HAPPY_NEW_YEAR_LUNAR_01	新春愉快！	
+VO_HERO_11l_Female_Sanlayn_Emote_HAPPY_NOBLEGARDEN_01	貴族花園節替我帶來新的獵物。	
+VO_HERO_11l_Female_Sanlayn_Emote_LowCards_01	我快要沒有牌了。	
+VO_HERO_11l_Female_Sanlayn_Emote_MIRROR_GREETINGS_01	那要嚐一口嗎？	
+VO_HERO_11l_Female_Sanlayn_Emote_MIRROR_START_01	相信我，我懂。	
+VO_HERO_11l_Female_Sanlayn_Emote_NoCards_01	我的卡牌全沒了。	
+VO_HERO_11l_Female_Sanlayn_Emote_Oops_01	呃…這決定不太明智。	
+VO_HERO_11l_Female_Sanlayn_Emote_Picked_01	煞婪一族是巫妖王的永恆士兵。	
+VO_HERO_11l_Female_Sanlayn_Emote_PIRATE_DAY_01	呀啊。	
+VO_HERO_11l_Female_Sanlayn_Emote_Sorry_01	對不起。	
+VO_HERO_11l_Female_Sanlayn_Emote_Start_01	死亡並非解脫之道。	
+VO_HERO_11l_Female_Sanlayn_Emote_Thanks_01	我要謝謝你。	
+VO_HERO_11l_Female_Sanlayn_Emote_Thinking_01	要怎麼懲罰他們？	
+VO_HERO_11l_Female_Sanlayn_Emote_Thinking_02	真有趣…	
+VO_HERO_11l_Female_Sanlayn_Emote_Thinking_03	我想想…	
+VO_HERO_11l_Female_Sanlayn_Emote_Threaten_01	我要把你吸到一滴不剩！	
+VO_HERO_11l_Female_Sanlayn_Emote_Time_01	動起來！	
+VO_HERO_11l_Female_Sanlayn_Emote_Well_Played_01	你真是熱血沸騰	
+VO_HERO_11l_Female_Sanlayn_Emote_WOW_01	不可思議！	
+VO_HERO_11l_Queen Lana'thel_FIRE_FESTIVAL_FIREWORKS_RANK_ONE	不可思議！	
+VO_HERO_11l_Queen Lana'thel_FIRE_FESTIVAL_FIREWORKS_RANK_THREE	不可思議！	
+VO_HERO_11l_Queen Lana'thel_FIRE_FESTIVAL_FIREWORKS_RANK_TWO	不可思議！	
+VO_HERO_11l_Queen Lana'thel_FROST_FESTIVAL_FIREWORKS_RANK_ONE	不可思議！	
+VO_HERO_11l_Queen Lana'thel_FROST_FESTIVAL_FIREWORKS_RANK_THREE	不可思議！	
+VO_HERO_11l_Queen Lana'thel_FROST_FESTIVAL_FIREWORKS_RANK_TWO	不可思議！	
 VO_HERO_11m_FrostbringerArthas_FIRE_FESTIVAL_FIREWORKS_RANK_ONE	太冷酷了。	
 VO_HERO_11m_FrostbringerArthas_FIRE_FESTIVAL_FIREWORKS_RANK_THREE	太冷酷了。	
 VO_HERO_11m_FrostbringerArthas_FIRE_FESTIVAL_FIREWORKS_RANK_TWO	太冷酷了。	
@@ -7677,6 +8184,73 @@ VO_HERO_11n_ZombieQueenScarlet_FIRE_FESTIVAL_FIREWORKS_RANK_TWO	我從來沒看�
 VO_HERO_11n_ZombieQueenScarlet_FROST_FESTIVAL_FIREWORKS_RANK_ONE	我從來沒看過那種東西。	
 VO_HERO_11n_ZombieQueenScarlet_FROST_FESTIVAL_FIREWORKS_RANK_THREE	我從來沒看過那種東西。	
 VO_HERO_11n_ZombieQueenScarlet_FROST_FESTIVAL_FIREWORKS_RANK_TWO	我從來沒看過那種東西。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Attack_01	亂七八糟！	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Concede_01	我和你沒完沒了！	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Death_01	*死亡*	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_ERROR_FULL_MINIONS_01	沒位子了啦。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_ERROR_GENERIC_01	我不能那樣做。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_ERROR_HAND_FULL_01	我的手牌滿了。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_ERROR_I_ATTACKED_01	我已經攻擊過了。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_ERROR_MINION_ATTACKED_01	那個手下已經攻擊過了。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_ERROR_NEED_MANA_01	我需要更多法力。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_ERROR_NEED_WEAPON_01	我需要武器。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_ERROR_PLAY_01	不能打那張。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_ERROR_STEALTH_01	那個膽小鬼躲進陰影裡了。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_ERROR_SUMMON_SICKNESS_01	那個手下還不能攻擊。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_ERROR_TARGET_01	沒辦法指定目標。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_ERROR_TAUNT_01	有嘲諷手下在擋路。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_FIRE_FESTIVAL_01	全燒了，我眼睛也不會眨一下。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Greetings_01	你好啊，夥伴。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_HAPPY_HALLOWEEN_01	我對扮裝沒有興趣。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_HAPPY_HOLIDAYS_01	節慶不是你們偷懶的藉口。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_HAPPY_NEW_YEAR_01	新的一年，新的機會。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_HAPPY_NEW_YEAR_LUNAR_01	新的一年，新的機會。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_HAPPY_NOBLEGARDEN_01	這座花園一點也不高貴。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_LowCards_01	我快要沒有牌了！	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_MIRROR_GREETINGS_01	你好。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_MIRROR_START_01	我不為任何人做事。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_NoCards_01	我沒有牌了！	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Oops_01	噢，你真可憐。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Picked_01	待在我身邊，你最好臉皮厚一點…或是乾脆不要臉。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_PIRATE_DAY_01	這才是我想過的節日！	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Sorry_01	不好意思。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Start_01	你！回去工作！ 	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Thanks_01	算我欠你一次。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Thinking_01_01	讓我想想。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Thinking_02_01	嗯…	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Thinking_03_01	我正在思考。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Threaten_01	我會像他們丟下我爸爸一樣丟下你！	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Time_01	我最好快點。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Trigger_CorpseFarm_01	站起來，你們這些懶骨頭！	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Trigger_CropRotation_01	地精通通有，一分鐘後農場集合。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Trigger_FistfulOfCorpses_01	快走啊，快點！	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Trigger_GraveyardShift_01	你們會工作到死，死了再繼續工作。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Trigger_HornOfWinter_01	那是回到工作崗位的聲音！	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Trigger_ReapWhatYouSow_01	我要發大財了！	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_Well_Played_01	你會是個很好的食屍鬼。	
+VO_HERO_11o_ReskathePitBoss_Forsaken_Emote_WOW_01	這也太神奇了！	
+VO_HERO_11p_LichKing_Undead_Emote_Attack_01	跪下！	
+VO_HERO_11p_LichKing_Undead_Emote_Greetings_01	你得到了帝王的關注。	
+VO_HERO_11p_LichKing_Undead_Emote_MIRROR_GREETINGS_01	王就在這裡。	
+VO_HERO_11p_LichKing_Undead_Emote_MIRROR_START_01	我不會逃離。	
+VO_HERO_11p_LichKing_Undead_Emote_Oops_01	太可惜了。	
+VO_HERO_11p_LichKing_Undead_Emote_Picked_01	僕從們，過來，我們還有很多東西需要毀滅。	
+VO_HERO_11p_LichKing_Undead_Emote_Start_01	沒有人能逃離我的怒火。	
+VO_HERO_11p_LichKing_Undead_Emote_Thanks_01	你得到了王的恩寵。	
+VO_HERO_11p_LichKing_Undead_Emote_Threaten_01	我就是冰冷死亡的化身。	
+VO_HERO_11p_LichKing_Undead_Emote_Well_Played_01	你幾乎逼出了我的極限。	
+VO_HERO_11p_LichKing_Undead_Emote_Wow_01	怎麼可能！	
+VO_HERO_11q_LichKing_Undead_Emote_Attack_01	閉嘴！	
+VO_HERO_11q_LichKing_Undead_Emote_Greetings_01	死亡到來。	
+VO_HERO_11q_LichKing_Undead_Emote_MIRROR_GREETINGS_01	要面對死亡的是你。	
+VO_HERO_11q_LichKing_Undead_Emote_MIRROR_START_01	寒風可沒辦法對抗風暴。	
+VO_HERO_11q_LichKing_Undead_Emote_Oops_01	失敗的回音會在永恆大廳裡迴盪。	
+VO_HERO_11q_LichKing_Undead_Emote_Picked_01	準備好面對這場屠殺了嗎？	
+VO_HERO_11q_LichKing_Undead_Emote_Start_01	黑暗伴隨著寒風而來。	
+VO_HERO_11q_LichKing_Undead_Emote_Thanks_01	我的感謝之情…是永恆的。	
+VO_HERO_11q_LichKing_Undead_Emote_Threaten_01	我會摧毀你的家園。	
+VO_HERO_11q_LichKing_Undead_Emote_Well_Played_01	讓這場戰鬥證明你的力量。	
+VO_HERO_11q_LichKing_Undead_Emote_Wow_01	怎麼會這樣？	
 VO_HERO_12_HAPPY_NEW_YEAR_20	新年快樂！	
 VO_HERO_13_HAPPY_NEW_YEAR_20	新年快樂！	
 VO_HERO_14_HAPPY_NEW_YEAR_20	新年快樂！	
@@ -8349,6 +8923,23 @@ VO_WON_092h_Male_Elemental_Emote_TRIGGER_LightningStorm_01	我就是風暴！
 VO_WON_092h_Male_Elemental_Emote_TRIGGER_TotallyTotems_01	圖騰！圖騰！	
 VO_WON_092h_Male_Elemental_Emote_Well_Played_01	你有著颶風般的力量。	
 VO_WON_092h_Male_Elemental_Emote_WOW_01	你簡直是風暴之子！	
+VO_WW_0700_RenoJackson_Human_Emote_Attack_01	一擊必殺！	
+VO_WW_0700_RenoJackson_Human_Emote_Death_01	*死亡*	
+VO_WW_0700_RenoJackson_Human_Emote_Greetings_01	你好啊，夥伴！	
+VO_WW_0700_RenoJackson_Human_Emote_MIRROR_GREETINGS_01	這座城鎮需要我，永遠不嫌多！	
+VO_WW_0700_RenoJackson_Human_Emote_Oops_01	呃…這跟我想的不一樣…	
+VO_WW_0700_RenoJackson_Human_Emote_Play_01	要對決嗎？小心，你的對手可是我！	
+VO_WW_0700_RenoJackson_Human_Emote_Sorry_01	哎呀…呃…我很抱歉！	
+VO_WW_0700_RenoJackson_Human_Emote_Thanks_01	噢，謝謝，這是身為英雄份內的工作。	
+VO_WW_0700_RenoJackson_Human_Emote_Threaten_01	舉手投降！	
+VO_WW_0700_RenoJackson_Human_Emote_Trigger_AmphibianElixir_01	呃，看來那些青蛙一定很可愛。	
+VO_WW_0700_RenoJackson_Human_Emote_Trigger_FantheHammer_01	碰！碰碰！碰碰碰！	
+VO_WW_0700_RenoJackson_Human_Emote_Trigger_Hydrate_01	呼！我快渴死了。	
+VO_WW_0700_RenoJackson_Human_Emote_Trigger_SneakySnakes_01	我愛死這些小害蟲了！	
+VO_WW_0700_RenoJackson_Human_Emote_Trigger_SplittingSunbeam_01	接招！再來一招！	
+VO_WW_0700_RenoJackson_Human_Emote_Trigger_TramHeist_01	伊莉絲？搶劫？我可不能錯過這個。	
+VO_WW_0700_RenoJackson_Human_Emote_Well_Played_01	我自己都沒辦法做得這麼好。	
+VO_WW_0700_RenoJackson_Human_Emote_Wow_01	不可置信！	
 VO_YOD_009_Male_Human_Concede_01	呃，你贏了。	
 VO_YOD_009_Male_Human_ERROR_FULL_MINIONS_02	這裡太擠了啦！	
 VO_YOD_009_Male_Human_Greetings_01	我要噱翻啦！	

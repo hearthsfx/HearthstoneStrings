@@ -93,6 +93,7 @@ GAMEPLAY_DISCONNECT_BODY_RESET	Spiel abgeschlossen und gespeichert! Verbindung z
 GAMEPLAY_DISCONNECT_HEADER	Verbindung unterbrochen	
 GAMEPLAY_DISCOVER_JUGGERNAUT	Wählt einen feindlichen Kapitän ...	
 GAMEPLAY_DISCOVER_MYSTERY	Was Euer Gegner wohl gewählt hat?	
+GAMEPLAY_DISCOVER_OVERRIDE_AUDIENCE_CHOICE	Wählt eine Karte für ALLE Spieler aus	
 GAMEPLAY_DISCOVER_OVERRIDE_EXPLORER_RETRAINING	Neue Heldenfähigkeit wählen	
 GAMEPLAY_DISCOVER_OVERRIDE_FRIENDLY_SMITH	Mit +2/+2 hinzufügen	
 GAMEPLAY_DISCOVER_OVERRIDE_HIRING_REPLACEMENTS	Ersetzen durch	
@@ -307,6 +308,7 @@ GAMEPLAY_PlayErrors_REQ_TARGET_IS_NON_MERC	[PH] That is not a Non-Mercenary
 GAMEPLAY_PlayErrors_REQ_TARGET_IS_NON_TITAN	Ihr könnt keinen Titanen als Ziel wählen.	
 GAMEPLAY_PlayErrors_REQ_TARGET_MAGNET	Es gibt einen Diener, den Ihr als Ziel wählen müsst.	
 GAMEPLAY_PlayErrors_REQ_TARGET_MAX_ATTACK	Wählt einen Charakter mit max. {0} Angriff aus.	
+GAMEPLAY_PlayErrors_REQ_TARGET_MAX_COST	Wählt einen Diener mit einem Preis von max. {0} aus.	
 GAMEPLAY_PlayErrors_REQ_TARGET_MIN_ATTACK	Wählt einen Charakter mit mind. {0} Angriff aus.	
 GAMEPLAY_PlayErrors_REQ_TARGET_MUST_HAVE_TAG	Wählt ein anderes Ziel.	
 GAMEPLAY_PlayErrors_REQ_TARGET_NON_TRIPLED_MINION	Kann nicht auf goldene Diener angewendet werden.	
