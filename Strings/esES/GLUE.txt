@@ -1104,11 +1104,12 @@ GLUE_GAME_MODE_DOWNLOAD_BUTTON_NAME	Descarga
 GLUE_GAME_MODE_DOWNLOAD_CONFIRMATION_AVAILABLE_SIZE	Espacio disponible: {0}	{0}=Storage space available on device (E.g. 7.5 GB)
 GLUE_GAME_MODE_DOWNLOAD_CONFIRMATION_DESCRIPTION	¿Quieres descargar {0}?	{0}=Name of the module we are downloading (E.g. Solo Adventure)
 GLUE_GAME_MODE_DOWNLOAD_CONFIRMATION_DOWNLOAD_SIZE	Tamaño: {0}	{0}=Size of the module to download (E.g. 215 MB)
+GLUE_GAME_MODE_DOWNLOAD_DOWNLOADING	{0} / {1}	{0}=Downloaded size (e.g. 23 MB) {1}=Total size to download (e.g. 128 MB)
 GLUE_GAME_MODE_DOWNLOAD_QUEUED	En cola	
 GLUE_GAME_MODE_LOCKED_APPRENTICE_COMPLETION_REQUIRED	¡Completa el mapa de aprendiz para desbloquear {0}!	
 GLUE_GAME_MODE_LOCKED_DOWNLOAD_REQUIRED	{0}: bloqueado; se necesita una descarga	
 GLUE_GAME_MODE_LOCKED_HEADER	Desbloquea a {0} avanzando en el mapa de aprendiz	
-GLUE_GAME_MODE_MODULE_DOWNLOADED	{0}: descargado	
+GLUE_GAME_MODE_MODULE_DOWNLOADED	Descarga completada: <color=#E2C4A9>{0}</color>	{0}=Name of gamemode that has just complete downloading
 GLUE_GAME_MODE_NEW_MODE_POPUP_HEADER	¡Nuevo modo!	
 GLUE_GAME_MODE_NEW_MODE_UNLOCKED_POPUP_HEADER	Nuevo modo desbloqueado:	
 GLUE_GAME_MODE_OUT_OF_SPACE_MESSAGE	Necesitas {0} de espacio libre en tu dispositivo para continuar.	{0}=Size of the module to download (E.g. 215 MB)
@@ -1272,10 +1273,10 @@ GLUE_KARA_PROLOGUE_LOADING	Esperando un cuervo mensajero...
 GLUE_LEAGUE_PROMOTE_SELF_CONFIRMATION_CANCEL	Cancelar	
 GLUE_LEAGUE_PROMOTE_SELF_CONFIRMATION_CONFIRM	Saltar	
 GLUE_LEAGUE_PROMOTE_SELF_CONFIRMATION_DESCRIPTION	Si pasas directamente al rango 25, no solo te enfrentarás a oponentes más difíciles,\n¡también te perderás las recompensas que hay por el camino!	
-GLUE_LEAGUE_PROMOTE_SELF_CONFIRMATION_DESCRIPTION_NEW	Te quedarás sin las recompensas de aprendiz restantes y te enfrentarás a oponentes más fuertes, pero ¡desbloquearás inmediatamente todas las clases, todos los modos y un mazo prestado!	
+GLUE_LEAGUE_PROMOTE_SELF_CONFIRMATION_DESCRIPTION_NEW	Te quedarás sin las recompensas de aprendiz restantes y te enfrentarás a oponentes más fuertes, pero ¡desbloquearás inmediatamente todas las clases, modos y mazos prestados! Esto es irreversible.	
 GLUE_LEAGUE_PROMOTE_SELF_CONFIRMATION_TITLE	¿Seguro?	
 GLUE_LEAGUE_PROMOTE_SELF_UNCLAIMED_REWARDS_ERROR_DESCRIPTION	Debes obtener todas las recompensas desbloqueadas antes de omitir el mapa de aprendiz.	
-GLUE_LEAGUE_PROMOTE_SELF_UNCLAIMED_REWARDS_ERROR_TITLE	¡Tienes recompensas sin recoger!	
+GLUE_LEAGUE_PROMOTE_SELF_UNCLAIMED_REWARDS_ERROR_TITLE	¡Hay recompensas sin recoger!	
 GLUE_LEGENDARY_QUEST_REROLL_BODY	¿Deseas abandonar la misión y obtener una normal? Si esta misión es parte de una cadena, entonces se abandonará toda la cadena.	
 GLUE_LEGENDARY_QUEST_REROLL_TITLE	¿Cambiar?	
 GLUE_LET_LOADING_BAR_TASK_1	Practicando golpes bajos	
@@ -1821,6 +1822,7 @@ GLUE_MOBILE_STORE_PAYMENT_INFO_DETAILS_APPLE	Las compras dentro de la aplicació
 GLUE_MOBILE_STORE_PAYMENT_INFO_URL_DETAILS	Toca «{0}» para saber más acerca de la probabilidad de obtención de cartas y objetos cosméticos, las mecánicas de los sobres de cartas y los datos de pago.	
 GLUE_MOBILE_TOOLTIP_BUTTON_STORE_DESC	Compra objetos con oro, runas o dinero.	
 GLUE_MODE_BUTTON_DISABLED_SCROLL_TEXT	No disponible\n\n\ntemporalmente	
+GLUE_MOREINFO_HEADER	Todos los detalles	
 GLUE_MY_COLLECTION	Mi colección	
 GLUE_MY_COLLECTION_PHONE	Mi colección	
 GLUE_NAXX_LOADING_BAR_TASK_1	Practicando risa malvada	
@@ -1965,6 +1967,12 @@ GLUE_PROGRESSION_APPRENTICE_DECK_POPUP_SUBTITLE	¡Hay un montón de formas de ju
 GLUE_PROGRESSION_APPRENTICE_JOURNAL_POPUP_DESC	Este es tu diario. ¡Registra tu progreso y gana PE para obtener recompensas!	
 GLUE_PROGRESSION_APPRENTICE_JOURNAL_POPUP_SUBTITLE	¡Saludos, aprendiz!	
 GLUE_PROGRESSION_APPRENTICE_JOURNAL_POPUP_TITLE	Acerca del diario	
+GLUE_PROGRESSION_APPRENTICE_JOURNAL_RETURN_BODY1	Hemos añadido unas cuantas novedades en tu ausencia. Ahora, en lugar de los rangos de aprendiz, hay un nuevo mapa de aprendiz y una guía de la taberna, con lo que la progresión inicial será más sencilla, rápida ¡y más gratificante!	
+GLUE_PROGRESSION_APPRENTICE_JOURNAL_RETURN_BODY1_TITLE	¡Te damos la bienvenida de nuevo al hogar!	
+GLUE_PROGRESSION_APPRENTICE_JOURNAL_RETURN_BODY2	Como ya habías empezado a progresar como aprendiz, te hemos puesto inicialmente en el nivel 15 del mapa de aprendiz, ¡y tienes todas las clases desbloqueadas!	
+GLUE_PROGRESSION_APPRENTICE_JOURNAL_RETURN_BODY3	Podrás volver a acceder al mapa de recompensas, las misiones y los logros cuando hayas completado el mapa de aprendiz y la guía de la taberna. Tu progreso no se perderá.\n\n<b>Si no quieres esperar, puedes omitir el modo aprendiz en cualquier momento en el menú del juego.</b> 	
+GLUE_PROGRESSION_APPRENTICE_JOURNAL_RETURN_BODY3_BUTTON	Me parece bien	
+GLUE_PROGRESSION_APPRENTICE_JOURNAL_RETURN_HEADER	Actualización de progresión	
 GLUE_PROGRESSION_APPRENTICE_LOANER_TITLE	Desbloquear mazos prestados	
 GLUE_PROGRESSION_APPRENTICE_MODE_TITLE	Desbloquear {0}	0=mode name
 GLUE_PROGRESSION_APPRENTICE_REWARD_SCROLL_MODE	¡Modo desbloqueado!	
@@ -2323,6 +2331,10 @@ GLUE_SET_ROTATION_EVEN_YEAR	Año de la Hidra
 GLUE_SET_ROTATION_ODD_YEAR	Año del Lobo	
 GLUE_SHOP_ARCANE_ORBS	Orbes Arcanos	
 GLUE_SHOP_BOOSTER_SKU_BUTTON	{0} |4(sobre,sobres)	
+GLUE_SHOP_BUY_ANOTHER	¿Quieres comprar otra?	
+GLUE_SHOP_CARD_ALREADY_OWNED_COPIES	copias	
+GLUE_SHOP_CARD_ALREADY_OWNED_COPY	copia	
+GLUE_SHOP_CARD_ALREADY_OWNED_WARNING	Ya tienes {0} {1} de {3} {2}. ¿Seguro que quieres hacer la compra?	{0}=quantity, {1}=copy/copies, {2}=premium, {3}=card name
 GLUE_SHOP_CARD_INCLUDED_FREE	Esta carta se concede por otros medios. No se puede desencantar ni crear.	
 GLUE_SHOP_CARD_INCLUDED_TITLE	No se puede crear	
 GLUE_SHOP_CLOSED_ALERT_HEADER	Tienda cerrada	
@@ -2334,6 +2346,7 @@ GLUE_SHOP_GET_MORE_RUNESTONES_HEADER	¡Te faltan runas!
 GLUE_SHOP_GOLD_PURCHASE_WARNING	¿Seguro que quieres comprar {0}? Esta acción no se puede deshacer.	
 GLUE_SHOP_GOLD_PURCHASE_WARNING_HEADER	Confirmar	
 GLUE_SHOP_LANDING_ADVENTURE_BANNER	AVENTURA	
+GLUE_SHOP_MULTIPLE_DUPLICATES_IN_BUNDLE_WARNING	 Ya tienes varios artículos de este pack. ¿Seguro que quieres hacer la compra?	
 GLUE_SHOP_NOT_ENOUGH_RUNESTONES	Not enough Runestones	
 GLUE_SHOP_PATH_OF_ARTHAS_BLOOD	Fortalécete con el poder de la sangre	
 GLUE_SHOP_PATH_OF_ARTHAS_FROST	Arrasa con el frío de la escarcha	
@@ -2460,9 +2473,9 @@ GLUE_STORE_AUTH_ZERO_COST_SUCCESS_HEADLINE	¡Acceso concedido!
 GLUE_STORE_AUTH_ZERO_COST_WAITING	Entrando en la necrópolis por primera vez	
 GLUE_STORE_BATTLEBASH_INFO_POPUP	Hay un número determinado de recompensas de varios niveles. Se garantiza una recompensa por cada partida. Una vez que se gana una recompensa, se elimina del repertorio de premios general.\n\nPulsa «Más» para conocer la probabilidad de aparición esperada en total y otros detalles.	
 GLUE_STORE_BATTLEBASH_SHOPBUTTON	¡A martillar!	
-GLUE_STORE_BATTLEGROUNDS_PASS_FLAVOR_TEXT	¡Desbloquea todos los objetos hasta tu nivel actual en el mapa de Campos de batalla!	
-GLUE_STORE_BATTLEGROUNDS_PASS_FLAVOR_TEXT_CHINA_DISCLAIMER	¡Consigue todos los objetos hasta tu nivel actual en el mapa de Campos de batalla! Debido al límite de tiempo de juego para menores, es posible que estos no puedan obtener todas las recompensas de misiones.	
-GLUE_STORE_BATTLEGROUNDS_PASS_PREPURCHASE_FLAVOR_TEXT	¡Este pase está disponible en enero!	
+GLUE_STORE_BATTLEGROUNDS_PASS_FLAVOR_TEXT	<b>¡Desbloquea todos los objetos hasta tu nivel en el mapa de Campos de batalla!</b>	
+GLUE_STORE_BATTLEGROUNDS_PASS_FLAVOR_TEXT_CHINA_DISCLAIMER	<b>¡Consigue todos los objetos hasta tu nivel en el mapa de Campos de batalla! Debido al límite de tiempo de juego para menores, es posible que estos no puedan obtener todas las recompensas de misiones.</b>	
+GLUE_STORE_BATTLEGROUNDS_PASS_PREPURCHASE_FLAVOR_TEXT	<b>¡Este pase está disponible en enero!</b>	
 GLUE_STORE_BG_PASS_PREORDER_DATE	¡Disponible\nen enero!	
 GLUE_STORE_BNET_BALANCE	Saldo de Blizzard	
 GLUE_STORE_BONUS_PACKS	¡Obtén {0} |4(sobre extra,sobres extras) por un tiempo limitado!	0 = number of bonus packs
@@ -2602,8 +2615,10 @@ GLUE_STORE_PAYMENT_INFO_DETAILS	AVISO: Ten en cuenta que cualquier incidencia o 
 GLUE_STORE_PAYMENT_INFO_HEADLINE	Información del producto	
 GLUE_STORE_PAYMENT_INFO_URL_DETAILS	Pulsa «{0}» para saber más acerca de la carta y la probabilidad de obtención de objetos cosméticos, las mecánicas de los sobres de cartas y los detalles de pago.	
 GLUE_STORE_PRE_PURCHASE_HAS_ENDED	La compra anticipada de este producto ya no está disponible.	
+GLUE_STORE_PREMIUM_VARIATION_NAME_DIAMOND	Diamante	
 GLUE_STORE_PREMIUM_VARIATION_NAME_GOLDEN	Dorada	
 GLUE_STORE_PREMIUM_VARIATION_NAME_NORMAL	Normal	
+GLUE_STORE_PREMIUM_VARIATION_NAME_SIGNATURE	Distintiva	
 GLUE_STORE_PREORDER	¡PRECOMPRA!	
 GLUE_STORE_PREORDER_APRIL	¡Disponible en\nabril*!	
 GLUE_STORE_PREORDER_DUST_APRIL	¡Sobres disponibles\nen abril*!	
@@ -2742,8 +2757,8 @@ GLUE_STORE_SUMMARY_TAX_DISCLAIMER	IVA incluido.
 GLUE_STORE_SUMMARY_TAX_DISCLAIMER_USD	Más impuestos aplicables.	
 GLUE_STORE_SUMMARY_TOS_AGREEMENT	Al hacer clic en "{0}", reconoce que ha leído y aceptado las Condiciones de Venta. El botón "{1}" le permitirá cambiar su método de pago por defecto o leer las Condiciones de Venta.	0=GLUE_STORE_SUMMARY_PAY_NOW_TEXT,1=GLUE_STORE_TERMS_OF_SALE_BUTTON_TEXT
 GLUE_STORE_SUMMARY_TOS_AGREEMENT_EU	Al hacer clic en "{0}", acepta las Condiciones de Venta y el envío inmediato del pedido. Una vez iniciado el proceso de envío, perderá el derecho de desistimiento. El botón "{1}" le permitirá cambiar su método de pago por defecto o leer las Condiciones de Venta.	0=GLUE_STORE_SUMMARY_PAY_NOW_TEXT,1=GLUE_STORE_TERMS_OF_SALE_BUTTON_TEXT
-GLUE_STORE_TAVERN_PASS_FLAVOR_TEXT	¡Desbloquea todos los objetos hasta tu nivel en el mapa de recompensas!	
-GLUE_STORE_TAVERN_PASS_FLAVOR_TEXT_CHINA_DISCLAIMER	¡Consigue todos los objetos hasta tu nivel en el mapa de recompensas! Debido al límite de tiempo de juego para menores, es posible que estos no puedan obtener todas las recompensas de misiones.	
+GLUE_STORE_TAVERN_PASS_FLAVOR_TEXT	<b>¡Desbloquea todos los objetos hasta tu nivel en el mapa de recompensas!</b>	
+GLUE_STORE_TAVERN_PASS_FLAVOR_TEXT_CHINA_DISCLAIMER	<b>¡Consigue todos los objetos hasta tu nivel en el mapa de recompensas! Debido al límite de tiempo de juego para menores, es posible que estos no puedan obtener todas las recompensas de misiones.</b>	
 GLUE_STORE_TAVERN_PASS_HEADLINE_TEXT	El pase de taberna incluye recompensas desbloqueables* como:	
 GLUE_STORE_TAVERN_PASS_SUBHEADER_TEXT	¡Hazte con el pase para conseguir PE y ganar todavía más recompensas!	
 GLUE_STORE_TERMS_OF_SALE_BUTTON_TEXT	?	
@@ -2756,9 +2771,9 @@ GLUE_STORE_TRL_PREORDER_DATE	¡Disponible a mediados de diciembre*!
 GLUE_STORE_TRL_PREORDER_DUST_DATE	卡牌包可以在十二月中旬\n打开！	
 GLUE_STORE_ULD_PREORDER_DATE	¡Disponible en agosto*!	
 GLUE_STORE_ULD_PREORDER_DUST_DATE	卡牌包可以在八月打开！	
-GLUE_STORE_UNAVAILABLE_REASON_MISSING_ASSETS	Descarga el modo para desbloquear esta tienda.	
+GLUE_STORE_UNAVAILABLE_REASON_MISSING_ASSETS	Descarga el modo {0} para desbloquear esta tienda.	{0}=Name of gamemode's items being displayed in shop
 GLUE_STORE_UNAVAILABLE_REASON_TITLE_LOCKED	Bloqueado	
-GLUE_STORE_UNAVAILABLE_REASON_TUTORIAL	Completa el tutorial para desbloquear esta tienda.	
+GLUE_STORE_UNAVAILABLE_REASON_TUTORIAL	Completa el tutorial de {0} para desbloquear esta tienda.	{0}=Name of gamemode's items being displayed in shop
 GLUE_STORE_UNAVAILABLE_REASON_UNKNOWN	Ahora no hay ningún objeto \nVuelve más tarde	
 GLUE_STORE_UPDATING_CURRENCY_BALANCE	Estamos actualizando tu saldo. Vuelve a intentarlo más tarde.	
 GLUE_STORE_VALUE_MULTIPLY	¡Valor x{0}!	0=multiplier
@@ -2825,7 +2840,9 @@ GLUE_TEMPORARY_ACCOUNT_DIALOG_HEADER_02	¿Quieres crear una cuenta?
 GLUE_TEMPORARY_ACCOUNT_DIALOG_HEADER_03	¿Ya es hora de crear una cuenta?	
 GLUE_TEMPORARY_ACCOUNT_FRIENDS_LIST_BODY	¡Hearthstone es más divertido con amigos!\n(Se necesita una cuenta)	
 GLUE_TEMPORARY_ACCOUNT_FRIENDS_LIST_HEADER	Juega con tus amigos	
-GLUE_TEMPORARY_ACCOUNT_GAME_MENU_BODY	• Protege tu colección\n• Guarda tu progreso en el juego\n• Desbloquea un sobre gratis\n• Chatea y juega con amigos\n• Personaliza tu nombre\n• Juega en otras plataformas	
+GLUE_TEMPORARY_ACCOUNT_GAME_MENU_BODY	¿Por qué inscribirte?	
+GLUE_TEMPORARY_ACCOUNT_GAME_MENU_SIGN_UP_TOOLTIP	• Protege tu colección\n• Guarda tu progreso en el juego\n• Desbloquea un sobre gratis\n• Chatea y juega con amigos\n• Personaliza tu nombre\n• Juega en otras plataformas	
+GLUE_TEMPORARY_ACCOUNT_GAME_MENU_SIGN_UP_TOOLTIP_HEADER	Inscribirse	
 GLUE_TEMPORARY_ACCOUNT_SIGN_UP	Inscribirse	
 GLUE_TEMPORARY_ACCOUNT_SKIP	Saltar	
 GLUE_TEMPORARY_ACCOUNT_SKIP_BODY	¡Sin problema! Ve cuando quieras a la configuración para acceder.	
@@ -3043,6 +3060,8 @@ GLUE_TIP_BACON_24	Cuando subas al nivel 2, 4 o 6, se añadirá un esbirro más a
 GLUE_TIP_BACON_25	Los efectos de fin de turno de los esbirros se activan en orden de izquierda a derecha.	
 GLUE_TIP_BACON_26	Los hechizos de la taberna son cartas que se pueden comprar para activar un efecto que ocurre una sola vez.	
 GLUE_TIP_BACON_27	A diferencia de los esbirros, los hechizos de la taberna no se pueden vender ni triplicar.	
+GLUE_TIP_BACON_28	Elige una misión en el turno 4 y complétala: ¡ganarás una recompensa que cambiará las tornas!	
+GLUE_TIP_BACON_29	La dificultad de las misiones puede variar según la recompensa que hayas elegido o el héroe con el que juegues.	
 GLUE_TIP_BACON_3	Cuando ganas un combate, tu héroe y tus esbirros infligen un daño equivalente a su nivel.	
 GLUE_TIP_BACON_4	El coste de mejorar la taberna disminuye en (1) de oro en cada turno.	
 GLUE_TIP_BACON_5	Solo hay siete copias de los esbirros de nivel 6.\nCuando se compran, ¡se acaban para todos!	
@@ -3183,7 +3202,11 @@ GLUE_TOOLTIP_BOOSTER_CURRENCY_HEADER	Orbes Arcanos
 GLUE_TOOLTIP_BUTTON_ADVENTURE_DESC	Vive aventuras épicas o practica contra la IA.	
 GLUE_TOOLTIP_BUTTON_ADVENTURE_HEADLINE	Aventuras	
 GLUE_TOOLTIP_BUTTON_BACON_DESC	¡Enfréntate a 7 oponentes! ¿Quién saldrá triunfante?	
+GLUE_TOOLTIP_BUTTON_BACON_DESC_DOWNLOAD_MANAGER	Puedes gestionar las descargas en la opción Descargas del menú del juego	
+GLUE_TOOLTIP_BUTTON_BACON_DESC_DOWNLOAD_REQUIRED	Hace falta descargarlo para acceder. Requiere {0}.	{0}=Size of the module to download (E.g. 215 MB)
+GLUE_TOOLTIP_BUTTON_BACON_DESC_DOWNLOADING	Se está descargando Campos de batalla.	
 GLUE_TOOLTIP_BUTTON_BACON_DESC_EARLY_ACCESS	En estos momentos solo se puede entrar en Campos de batalla con acceso anticipado.\nPuedes conseguirlo con cualquier precompra de El Descenso de los Dragones en la tienda.	
+GLUE_TOOLTIP_BUTTON_BACON_DESC_LOCKED	¡Completa el mapa de aprendiz para desbloquearlo!	
 GLUE_TOOLTIP_BUTTON_BACON_HEADLINE	Campos de batalla	
 GLUE_TOOLTIP_BUTTON_COLLECTION_DESC	Consulta tus cartas o elabora un mazo.	
 GLUE_TOOLTIP_BUTTON_COLLECTION_HEADLINE	Mi colección	
@@ -3194,7 +3217,7 @@ GLUE_TOOLTIP_BUTTON_FORGE_HEADLINE	La Arena
 GLUE_TOOLTIP_BUTTON_FORGE_NOT_UNLOCKED	Bloqueada hasta que alcances el nivel 10 con todas las clases.	
 GLUE_TOOLTIP_BUTTON_GAME_MODES_DESC	Prueba distintas formas de jugar.	
 GLUE_TOOLTIP_BUTTON_GAME_MODES_HEADLINE	Modos de juego	
-GLUE_TOOLTIP_BUTTON_GAME_MODES_LOCKED_DESC	Completa el tutorial del modo tradicional de Hearthstone para acceder a los modos adicionales.	
+GLUE_TOOLTIP_BUTTON_GAME_MODES_LOCKED_DESC	¡Completa el mapa de aprendiz para acceder a todos los modos!	
 GLUE_TOOLTIP_BUTTON_JOURNAL_DESC	¡Misiones, logros, recompensas y mucho más!	
 GLUE_TOOLTIP_BUTTON_JOURNAL_HEADLINE	Diario	
 GLUE_TOOLTIP_BUTTON_MERCENARIES_DESC	¡Forma un grupo de mercenarios y sube de nivel luchando por el botín y la gloria!	
@@ -3207,7 +3230,7 @@ GLUE_TOOLTIP_BUTTON_STORE_DESC	Compra objetos con oro, runas o dinero.
 GLUE_TOOLTIP_BUTTON_STORE_HEADLINE	Tienda	
 GLUE_TOOLTIP_BUTTON_TAVERN_BRAWL_DESC	Juega un nuevo desafío cada semana.	
 GLUE_TOOLTIP_BUTTON_TAVERN_BRAWL_HEADLINE	Pelea de taberna	
-GLUE_TOOLTIP_BUTTON_TAVERN_BRAWL_NOT_UNLOCKED	¡Vence a todas las clases y desbloquéalas para acceder a la pelea de taberna y a otros modos!	
+GLUE_TOOLTIP_BUTTON_TAVERN_BRAWL_NOT_UNLOCKED	¡Sigue subiendo de nivel en el mapa de aprendiz para desbloquearlo!	
 GLUE_TOOLTIP_BUTTON_TRADITIONAL_DESC	La experiencia de Hearthstone de toda la vida.	
 GLUE_TOOLTIP_BUTTON_TRADITIONAL_HEADLINE	Hearthstone	
 GLUE_TOOLTIP_DESCRIPTION_ALL_STANDARD_CARDS	Contiene las cartas más recientes. Se puede usar en los formatos estándar y salvaje.	

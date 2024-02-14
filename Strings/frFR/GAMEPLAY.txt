@@ -55,6 +55,10 @@ GAMEPLAY_BACON_TEXT_EMOTE_THANKS	Merci
 GAMEPLAY_BACON_TEXT_EMOTE_THREATEN	!!!	
 GAMEPLAY_BACON_TEXT_EMOTE_WELL_PLAYED	Bien joué	
 GAMEPLAY_BACON_TEXT_EMOTE_WOW	Admirable	
+GAMEPLAY_BACON_TOOLTIP_BUDDIES_BODY	Obtenez un serviteur spécial propre à votre héros ou héroïne. Son coût est réduit à chaque tour.	
+GAMEPLAY_BACON_TOOLTIP_BUDDIES_HEADER	Compagnons de route	
+GAMEPLAY_BACON_TOOLTIP_QUEST_BODY	Choisissez une quête et accomplissez-la afin d’obtenir une récompense !	
+GAMEPLAY_BACON_TOOLTIP_QUEST_HEADER	Quêtes	
 GAMEPLAY_BACON_TRIPLE_BODY_TUTORIAL	Quand vous avez 3 copies d’un même serviteur, elles se combinent en une copie dorée plus puissante.\n\nJouez-la pour obtenir une récompense !	
 GAMEPLAY_BACON_TRIPLE_BUTTON_TUTORIAL	Combiner	
 GAMEPLAY_BACON_TRIPLE_TITLE_TUTORIAL	Amélioration en triple	
@@ -263,6 +267,7 @@ GAMEPLAY_PlayErrors_REQ_MAX_SECRETS	Vous pouvez avoir uniquement {0} |4(secret,s
 GAMEPLAY_PlayErrors_REQ_MINIMUM_CORPSES	Pas assez de cadavres	
 GAMEPLAY_PlayErrors_REQ_MINIMUM_CORPSES_CLASS	Les cadavres sont uniquement utilisables par les chevaliers de la mort	
 GAMEPLAY_PlayErrors_REQ_MINIMUM_ENEMY_MINIONS	L’adversaire doit avoir au moins {0} |4(serviteur,serviteurs)	
+GAMEPLAY_PlayErrors_REQ_MINIMUM_NON_GOLDEN_ENEMY_MINIONS	Il doit y avoir au moins {0} |4(serviteur non doré,serviteurs non dorés) dans la taverne	
 GAMEPLAY_PlayErrors_REQ_MINIMUM_TAVERN_TIER_LEVEL_TO_PLAY	Votre niveau de taverne doit être au moins égal à _{0} pour jouer cette carte.	
 GAMEPLAY_PlayErrors_REQ_MINIMUM_TOTAL_MINIONS	Il doit y avoir au moins {0} |4(serviteur,serviteurs) sur le champ de bataille	
 GAMEPLAY_PlayErrors_REQ_MINION_CAP	Vous ne pouvez pas avoir davantage de serviteurs	

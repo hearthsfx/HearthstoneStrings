@@ -55,6 +55,10 @@ GAMEPLAY_BACON_TEXT_EMOTE_THANKS	Dzięki
 GAMEPLAY_BACON_TEXT_EMOTE_THREATEN	!!!	
 GAMEPLAY_BACON_TEXT_EMOTE_WELL_PLAYED	Nieźle	
 GAMEPLAY_BACON_TEXT_EMOTE_WOW	Wow	
+GAMEPLAY_BACON_TOOLTIP_BUDDIES_BODY	Zdobądź wyjątkowego stronnika, unikalnego dla twojego bohatera. Z każdą turą jest tańszy.	
+GAMEPLAY_BACON_TOOLTIP_BUDDIES_HEADER	Towarzysze	
+GAMEPLAY_BACON_TOOLTIP_QUEST_BODY	Wybierz zadanie i ukończ je, aby otrzymać nagrodę!	
+GAMEPLAY_BACON_TOOLTIP_QUEST_HEADER	Zadania	
 GAMEPLAY_BACON_TRIPLE_BODY_TUTORIAL	Jeśli masz 3 kopie danego stronnika, zamieni się on w potężną, złotą kopię tego stronnika.\n\nZagraj go, a otrzymasz nagrodę!	
 GAMEPLAY_BACON_TRIPLE_BUTTON_TUTORIAL	Połącz	
 GAMEPLAY_BACON_TRIPLE_TITLE_TUTORIAL	Trójkowe ulepszenie!	
@@ -263,6 +267,7 @@ GAMEPLAY_PlayErrors_REQ_MAX_SECRETS	Możesz mieć maksymalnie {0} |4(sekret,sekr
 GAMEPLAY_PlayErrors_REQ_MINIMUM_CORPSES	Za mało Trupów	
 GAMEPLAY_PlayErrors_REQ_MINIMUM_CORPSES_CLASS	Tylko rycerze śmierci mogą używać Trupów	
 GAMEPLAY_PlayErrors_REQ_MINIMUM_ENEMY_MINIONS	Wróg musi mieć co najmniej {0} |4(stronnika,stronników,stronników)	
+GAMEPLAY_PlayErrors_REQ_MINIMUM_NON_GOLDEN_ENEMY_MINIONS	W Karczmie musi być co najmniej {0} |4(niezłoty stronnik,niezłotych stronników,niezłotych stronników)	
 GAMEPLAY_PlayErrors_REQ_MINIMUM_TAVERN_TIER_LEVEL_TO_PLAY	Wymagany jest przynajmniej {0}. poziom Karczmy, aby zagrać tę kartę.	
 GAMEPLAY_PlayErrors_REQ_MINIMUM_TOTAL_MINIONS	Na polu bitwy musi być co najmniej {0} |4(stronnik,stronników,stronników)	
 GAMEPLAY_PlayErrors_REQ_MINION_CAP	Nie możesz mieć więcej stronników	

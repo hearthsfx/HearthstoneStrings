@@ -1855,6 +1855,17 @@ VO_HERO_01am_Garrosh_Orc_Emote_Thanks_01	Aprecio o tributo.
 VO_HERO_01am_Garrosh_Orc_Emote_Threaten_01	Fique no meu caminho, e eu te partirei no meio.	
 VO_HERO_01am_Garrosh_Orc_Emote_Well_Played_01	Rá! Uma batalha digna de um chefe guerreiro.	
 VO_HERO_01am_Garrosh_Orc_Emote_Wow_01	Agora me animei!	
+VO_HERO_01an_Deathwing_Dragon_Emote_Attack_01	Queimem até virar brasa!	
+VO_HERO_01an_Deathwing_Dragon_Emote_Greetings_01	Boas-vindas ao fim dos dias.	
+VO_HERO_01an_Deathwing_Dragon_Emote_MIRROR_GREETINGS_01	Algo a comemorar.	
+VO_HERO_01an_Deathwing_Dragon_Emote_MIRROR_START_01	E deixar nada além de cinzas por onde passarmos!	
+VO_HERO_01an_Deathwing_Dragon_Emote_Oops_01	O fogo purifica todos os erros.	
+VO_HERO_01an_Deathwing_Dragon_Emote_Picked_01	A Revoada Dragônica Negra vai trazer um ano de destruição!	
+VO_HERO_01an_Deathwing_Dragon_Emote_Start_01	Vamos recobrir a terra em chamas!	
+VO_HERO_01an_Deathwing_Dragon_Emote_Thanks_01	Eu vejo seu valor.	
+VO_HERO_01an_Deathwing_Dragon_Emote_Threaten_01	Você ousa impedir a comemoração de um dragão?!	
+VO_HERO_01an_Deathwing_Dragon_Emote_Well_Played_01	Sua persistência fulgura eterna.	
+VO_HERO_01an_Deathwing_Dragon_Emote_Wow_01	Tanto poder!	
 VO_HERO_01d_Male_Orc_Attack_01	Pelos Mag'har!	
 VO_HERO_01d_Male_Orc_Greetings_01	Mok'rah.	
 VO_HERO_01d_Male_Orc_MIRROR_GREETINGS_01	Vejo que é um dos meus...	
@@ -2505,7 +2516,7 @@ VO_HERO_02ao_Inzah_Vulpera_Emote_MIRROR_START_01	Vai todo mundo dançar até o s
 VO_HERO_02ao_Inzah_Vulpera_Emote_Oops_01	Errar? Eu não!	
 VO_HERO_02ao_Inzah_Vulpera_Emote_Picked_01	Qualquer instrumento pode soar uma obra-prima!	
 VO_HERO_02ao_Inzah_Vulpera_Emote_Start_01	Quem quer dançar quadrilha?	
-VO_HERO_02ao_Inzah_Vulpera_Emote_Thanks_01	Vale pelas boas vibrações.	
+VO_HERO_02ao_Inzah_Vulpera_Emote_Thanks_01	Valeu pelas boas vibrações.	
 VO_HERO_02ao_Inzah_Vulpera_Emote_Threaten_01	Você tá estragando o clima!	
 VO_HERO_02ao_Inzah_Vulpera_Emote_Well_Played_01	Você tem uma energia toda sua!	
 VO_HERO_02ao_Inzah_Vulpera_Emote_Wow_01	Uuuuwiii!	
@@ -2531,6 +2542,60 @@ VO_HERO_02aq_Thrall_Orc_Emote_Thanks_01	Quem sabe não seremos aliados um dia.
 VO_HERO_02aq_Thrall_Orc_Emote_Threaten_01	Sua sina se encerra aqui.	
 VO_HERO_02aq_Thrall_Orc_Emote_Well_Played_01	Foi uma honra enfrentar você.	
 VO_HERO_02aq_Thrall_Orc_Emote_Wow_01	Que incrível!	
+VO_HERO_02ar_Disidra_Disidra_FIRE_FESTIVAL_FIREWORKS_RANK_ONE	Espetacular!	
+VO_HERO_02ar_Disidra_Disidra_FIRE_FESTIVAL_FIREWORKS_RANK_THREE	Espetacular!	
+VO_HERO_02ar_Disidra_Disidra_FIRE_FESTIVAL_FIREWORKS_RANK_TWO	Espetacular!	
+VO_HERO_02ar_Disidra_Disidra_FROST_FESTIVAL_FIREWORKS_RANK_ONE	Espetacular!	
+VO_HERO_02ar_Disidra_Disidra_FROST_FESTIVAL_FIREWORKS_RANK_THREE	Espetacular!	
+VO_HERO_02ar_Disidra_Disidra_FROST_FESTIVAL_FIREWORKS_RANK_TWO	Espetacular!	
+VO_HERO_02ar_Disidra_Draenei_Emote_Attack_01	Conhece seu lugar.	
+VO_HERO_02ar_Disidra_Draenei_Emote_Concede_01	Já causaste estrago suficiente!	
+VO_HERO_02ar_Disidra_Draenei_Emote_Death_01	<Morte>	
+VO_HERO_02ar_Disidra_Draenei_Emote_ERROR_FULL_MINIONS_01	Não há espaço.	
+VO_HERO_02ar_Disidra_Draenei_Emote_ERROR_GENERIC_01	Eu não posso fazer isso.	
+VO_HERO_02ar_Disidra_Draenei_Emote_ERROR_HAND_FULL_01	Minha mão está cheia!	
+VO_HERO_02ar_Disidra_Draenei_Emote_ERROR_I_ATTACKED_01	Eu já ataquei.	
+VO_HERO_02ar_Disidra_Draenei_Emote_ERROR_MINION_ATTACKED_01	Esse lacaio já atacou.	
+VO_HERO_02ar_Disidra_Draenei_Emote_ERROR_NEED_MANA_01	Preciso de mais mana.	
+VO_HERO_02ar_Disidra_Draenei_Emote_ERROR_NEED_WEAPON_01	Eu preciso de uma arma.	
+VO_HERO_02ar_Disidra_Draenei_Emote_ERROR_PLAY_01	Não dá para fazer isso.	
+VO_HERO_02ar_Disidra_Draenei_Emote_ERROR_STEALTH_01	Está furtivo.	
+VO_HERO_02ar_Disidra_Draenei_Emote_ERROR_SUMMON_SICKNESS_01	Espere um turno para o lacaio se preparar.	
+VO_HERO_02ar_Disidra_Draenei_Emote_ERROR_TARGET_01	Não consigo mirar nisso.	
+VO_HERO_02ar_Disidra_Draenei_Emote_ERROR_TAUNT_01	O inimigo tem provocar.	
+VO_HERO_02ar_Disidra_Draenei_Emote_FIRE_FESTIVAL_01	Meus totens ardem brilhantes.	
+VO_HERO_02ar_Disidra_Draenei_Emote_Greetings_01	Krona ki cristorr!	
+VO_HERO_02ar_Disidra_Draenei_Emote_HAPPY_HALLOWEEN_01	Deveria esculpir uma abóbora!	
+VO_HERO_02ar_Disidra_Draenei_Emote_HAPPY_HOLIDAYS_01	É hora de comemorar!	
+VO_HERO_02ar_Disidra_Draenei_Emote_HAPPY_NEW_YEAR_01	Feliz ano novo!	
+VO_HERO_02ar_Disidra_Draenei_Emote_HAPPY_NEW_YEAR_LUNAR_01	Feliz ano novo!	
+VO_HERO_02ar_Disidra_Draenei_Emote_HAPPY_NOBLEGARDEN_01	Ocultei alguns ovos.	
+VO_HERO_02ar_Disidra_Draenei_Emote_LowCards_01	Estou quase sem cards.	
+VO_HERO_02ar_Disidra_Draenei_Emote_MIRROR_GREETINGS_01	Glória eterna para ti.	
+VO_HERO_02ar_Disidra_Draenei_Emote_MIRROR_START_01	São os seus totens contra os meus.	
+VO_HERO_02ar_Disidra_Draenei_Emote_NoCards_01	Não tenho mais cards.	
+VO_HERO_02ar_Disidra_Draenei_Emote_Oops_01	Hm, que desperdício.	
+VO_HERO_02ar_Disidra_Draenei_Emote_Picked_01	Pintar essas coisas toma muito tempo.	
+VO_HERO_02ar_Disidra_Draenei_Emote_PIRATE_DAY_01	Totens, zarpar, arrgh!	
+VO_HERO_02ar_Disidra_Draenei_Emote_Sorry_01	Sinto muito.	
+VO_HERO_02ar_Disidra_Draenei_Emote_Start_01	Sou criadora e destruidora.	
+VO_HERO_02ar_Disidra_Draenei_Emote_Start_Rafaam_01	Hora da revanche.	
+VO_HERO_02ar_Disidra_Draenei_Emote_Start_Scarlet_01	Mantém teus carniçais longe dos meus totens.	
+VO_HERO_02ar_Disidra_Draenei_Emote_Start_Thrall_01	Mostrarei a você a maestria elemental.	
+VO_HERO_02ar_Disidra_Draenei_Emote_Thanks_01	Muito obrigada.	
+VO_HERO_02ar_Disidra_Draenei_Emote_Thinking_01_01	Só os toques finais…	
+VO_HERO_02ar_Disidra_Draenei_Emote_Thinking_02_01	Que tinta devo usar?	
+VO_HERO_02ar_Disidra_Draenei_Emote_Thinking_03_01	Onde é que eu deixei aquele totem...?	
+VO_HERO_02ar_Disidra_Draenei_Emote_Threaten_01	Não subestima meus instrumentos de guerra.	
+VO_HERO_02ar_Disidra_Draenei_Emote_Time_01	Tenho que encerrar isso logo.	
+VO_HERO_02ar_Disidra_Draenei_Emote_Trigger_Conductivity_01	Isso vai ser bom.	
+VO_HERO_02ar_Disidra_Draenei_Emote_Trigger_RunicCarvings_01	Quanta finesse.	
+VO_HERO_02ar_Disidra_Draenei_Emote_Trigger_TotemicEvidence_01	Tu me pareces ter culpa.	
+VO_HERO_02ar_Disidra_Draenei_Emote_Trigger_TotemicMight_01	Nossa força é invisível!	
+VO_HERO_02ar_Disidra_Draenei_Emote_Trigger_TotemicSurge_01	Esses totens batem forte!	
+VO_HERO_02ar_Disidra_Draenei_Emote_Trigger_TrustyCompanion_01	Nunca lutamos a sós.	
+VO_HERO_02ar_Disidra_Draenei_Emote_Well_Played_01	Você é um par perfeito para meus totens.	
+VO_HERO_02ar_Disidra_Draenei_Emote_WOW_01	Espetacular!	
 VO_HERO_02b_Male_Troll_Concede_01	Você luta bem. Para mim, termina aqui!	
 VO_HERO_02b_Male_Troll_ERROR_FULL_MINIONS_02	Eu tenho lacaios demais.	
 VO_HERO_02b_Male_Troll_ERROR_GENERIC_02	Não. Não tem como.	
@@ -3134,11 +3199,56 @@ VO_HERO_03aj_Edwin_Human_Emote_MIRROR_GREETINGS_01	Por que eu não devolvo o fav
 VO_HERO_03aj_Edwin_Human_Emote_MIRROR_START_01	Você quer me roubar? Que tolice!	
 VO_HERO_03aj_Edwin_Human_Emote_Oops_01	Um raro vacilo.	
 VO_HERO_03aj_Edwin_Human_Emote_Picked_01	Os nobres pagarão caro, de um jeito ou de outro.	
-VO_HERO_03aj_Edwin_Human_Emote_Start_01	Ninguém pode desafiar a Irmandade!	
+VO_HERO_03aj_Edwin_Human_Emote_Start_01	Pare aí! É um assalto!	
 VO_HERO_03aj_Edwin_Human_Emote_Thanks_01	Agradeço a dica.	
 VO_HERO_03aj_Edwin_Human_Emote_Threaten_01	Sua riqueza não salvará você aqui!	
 VO_HERO_03aj_Edwin_Human_Emote_Well_Played_01	Você deveria entrar para a Irmandade.	
 VO_HERO_03aj_Edwin_Human_Emote_Wow_01	Isso não teve preço!	
+VO_HERO_03ak_Patches_Demon_Emote_Attack_01	Sim, sem-olho.	
+VO_HERO_03ak_Patches_Demon_Emote_Concede_01	Abandonar navio!	
+VO_HERO_03ak_Patches_Demon_Emote_Death_01	<morte>	
+VO_HERO_03ak_Patches_Demon_Emote_ERROR_FULL_MINIONS_01	A tripulação tá lotada.	
+VO_HERO_03ak_Patches_Demon_Emote_ERROR_GENERIC_01	Não posso fazer isso.	
+VO_HERO_03ak_Patches_Demon_Emote_ERROR_HAND_FULL_01	Esse card foi lançado ao mar!	
+VO_HERO_03ak_Patches_Demon_Emote_ERROR_I_ATTACKED_01	Preciso duma folga.	
+VO_HERO_03ak_Patches_Demon_Emote_ERROR_MINION_ATTACKED_01	Esse lacaio já atacou.	
+VO_HERO_03ak_Patches_Demon_Emote_ERROR_NEED_MANA_01	Preciso de mana.	
+VO_HERO_03ak_Patches_Demon_Emote_ERROR_NEED_WEAPON_01	Cadê meu alfanje?	
+VO_HERO_03ak_Patches_Demon_Emote_ERROR_PLAY_01	Eu não posso jogar isso.	
+VO_HERO_03ak_Patches_Demon_Emote_ERROR_STEALTH_01	Está furtivo.	
+VO_HERO_03ak_Patches_Demon_Emote_ERROR_SUMMON_SICKNESS_01	Ainda não pode atacar.	
+VO_HERO_03ak_Patches_Demon_Emote_ERROR_TARGET_01	Não posso mirar nisso.	
+VO_HERO_03ak_Patches_Demon_Emote_ERROR_TAUNT_01	Cuidado, provocar à vista!	
+VO_HERO_03ak_Patches_Demon_Emote_FIRE_FESTIVAL_01	Lá vai bomba!	
+VO_HERO_03ak_Patches_Demon_Emote_Greetings_01	Io-hô!	
+VO_HERO_03ak_Patches_Demon_Emote_HAPPY_HALLOWEEN_01	O vento traz friagem.	
+VO_HERO_03ak_Patches_Demon_Emote_HAPPY_HOLIDAYS_01	Tem presentes prontos para a pilhagem.	
+VO_HERO_03ak_Patches_Demon_Emote_HAPPY_NEW_YEAR_01	Vamos fazer a dancinha do ano-novo.	
+VO_HERO_03ak_Patches_Demon_Emote_HAPPY_NEW_YEAR_LUNAR_01	Vamos fazer a dancinha do ano-novo.	
+VO_HERO_03ak_Patches_Demon_Emote_HAPPY_NOBLEGARDEN_01	Zarpar para os ovos!	
+VO_HERO_03ak_Patches_Demon_Emote_LowCards_01	Estou com poucos cards.	
+VO_HERO_03ak_Patches_Demon_Emote_MIRROR_GREETINGS_01	Io-hô, marujada!	
+VO_HERO_03ak_Patches_Demon_Emote_MIRROR_START_01	Tem cerrrteza?	
+VO_HERO_03ak_Patches_Demon_Emote_NoCards_01	Meu deck tá vazio.	
+VO_HERO_03ak_Patches_Demon_Emote_Oops_01	A bússola tá doida.	
+VO_HERO_03ak_Patches_Demon_Emote_Picked_01	Selar escotilhas, vamos zarpar!	
+VO_HERO_03ak_Patches_Demon_Emote_PIRATE_DAY_01	É Dia dos Piratas! Parrrla!	
+VO_HERO_03ak_Patches_Demon_Emote_Sorry_01	Desculpa.	
+VO_HERO_03ak_Patches_Demon_Emote_Start_01	Eu que mando no convés!	
+VO_HERO_03ak_Patches_Demon_Emote_Thanks_01	Obrigaaado.	
+VO_HERO_03ak_Patches_Demon_Emote_Thinking_01_01	Alguém tem mapa?	
+VO_HERO_03ak_Patches_Demon_Emote_Thinking_02_01	Que rota?	
+VO_HERO_03ak_Patches_Demon_Emote_Thinking_03_01	Hmm...	
+VO_HERO_03ak_Patches_Demon_Emote_Threaten_01	Anda na prancha!	
+VO_HERO_03ak_Patches_Demon_Emote_Time_01	Acender pavio!	
+VO_HERO_03ak_Patches_Demon_Emote_Well_Played_01	Uma manobra sagaz.	
+VO_HERO_03ak_Patches_Demon_Emote_WOW_01	Tubarões me lambam!	
+VO_HERO_03ak_Patches_Patches_FIRE_FESTIVAL_FIREWORKS_RANK_ONE	Tubarões me lambam!	
+VO_HERO_03ak_Patches_Patches_FIRE_FESTIVAL_FIREWORKS_RANK_THREE	Tubarões me lambam!	
+VO_HERO_03ak_Patches_Patches_FIRE_FESTIVAL_FIREWORKS_RANK_TWO	Tubarões me lambam!	
+VO_HERO_03ak_Patches_Patches_FROST_FESTIVAL_FIREWORKS_RANK_ONE	Tubarões me lambam!	
+VO_HERO_03ak_Patches_Patches_FROST_FESTIVAL_FIREWORKS_RANK_THREE	Tubarões me lambam!	
+VO_HERO_03ak_Patches_Patches_FROST_FESTIVAL_FIREWORKS_RANK_TWO	Tubarões me lambam!	
 VO_HERO_03d_Female_BloodElf_Greetings_01	Veio bater um papo?	
 VO_HERO_03d_Female_BloodElf_MIRROR_GREETINGS_01	Você me conhece tão bem...	
 VO_HERO_03d_Female_BloodElf_MIRROR_START_01	Eu também. 	
@@ -3702,7 +3812,7 @@ VO_HERO_04ak_Uther_Human_Emote_MIRROR_GREETINGS_01	Salve!
 VO_HERO_04ak_Uther_Human_Emote_MIRROR_START_01	Você não é a primeira pessoa a tentar, nem será a última.	
 VO_HERO_04ak_Uther_Human_Emote_Oops_01	Todo mundo erra.	
 VO_HERO_04ak_Uther_Human_Emote_Picked_01	Tem terra de sobra para quem tiver coragem para reivindicar.	
-VO_HERO_04ak_Uther_Human_Emote_Start_01	Bota você para cima só para te derrubar.	
+VO_HERO_04ak_Uther_Human_Emote_Start_01	Boto você para cima só para te derrubar.	
 VO_HERO_04ak_Uther_Human_Emote_Thanks_01	Você tem minha gratidão.	
 VO_HERO_04ak_Uther_Human_Emote_Threaten_01	Vou derrubar você.	
 VO_HERO_04ak_Uther_Human_Emote_Well_Played_01	Parece que você tem experiência de campo de batalha.	
@@ -3740,6 +3850,65 @@ VO_HERO_04an_Liadrin_BloodElf_Emote_Thanks_01	Agradeço por isso.
 VO_HERO_04an_Liadrin_BloodElf_Emote_Threaten_01	Nenhum rufião vai ameaçar minha cidade!	
 VO_HERO_04an_Liadrin_BloodElf_Emote_Well_Played_01	Você ficaria bem com um distintivo.	
 VO_HERO_04an_Liadrin_BloodElf_Emote_Wow_01	Nem eu esperava por essa!	
+VO_HERO_04ao_SirFinley_Murloc_Emote_Attack_01	Hoje não!	
+VO_HERO_04ao_SirFinley_Murloc_Emote_Greetings_01	Boas-vindas à festa!	
+VO_HERO_04ao_SirFinley_Murloc_Emote_MIRROR_GREETINGS_01	Quer um balão?	
+VO_HERO_04ao_SirFinley_Murloc_Emote_MIRROR_START_01	Mas que excelente.	
+VO_HERO_04ao_SirFinley_Murloc_Emote_Oops_01	Isso esvaziou rápido.	
+VO_HERO_04ao_SirFinley_Murloc_Emote_Picked_01	Agradeço o convite.	
+VO_HERO_04ao_SirFinley_Murloc_Emote_Start_01	Isso é motivo para comemorar!	
+VO_HERO_04ao_SirFinley_Murloc_Emote_Thanks_01	Você é uma estrela!	
+VO_HERO_04ao_SirFinley_Murloc_Emote_Threaten_01	Não estoura minha bolha!	
+VO_HERO_04ao_SirFinley_Murloc_Emote_Well_Played_01	Feito com excelência.	
+VO_HERO_04ao_SirFinley_Murloc_Emote_Wow_01	Maravilhoso!	
+VO_HERO_04ap_Leeroy_Human_Emote_Attack_01	Atacar!	
+VO_HERO_04ap_Leeroy_Human_Emote_Concede_01	Pelo menos eu tenho frango.	
+VO_HERO_04ap_Leeroy_Human_Emote_Death_01	<Morte>	
+VO_HERO_04ap_Leeroy_Human_Emote_ERROR_FULL_MINIONS_01	O grupo está cheio.	
+VO_HERO_04ap_Leeroy_Human_Emote_ERROR_GENERIC_01	Não consigo.	
+VO_HERO_04ap_Leeroy_Human_Emote_ERROR_HAND_FULL_01	Minha mão está cheia.	
+VO_HERO_04ap_Leeroy_Human_Emote_ERROR_I_ATTACKED_01	Eu já ataquei.	
+VO_HERO_04ap_Leeroy_Human_Emote_ERROR_MINION_ATTACKED_01	Eles já atacaram.	
+VO_HERO_04ap_Leeroy_Human_Emote_ERROR_NEED_MANA_01	Preciso recuperar o meu mana.	
+VO_HERO_04ap_Leeroy_Human_Emote_ERROR_NEED_WEAPON_01	Me dá uma arma.	
+VO_HERO_04ap_Leeroy_Human_Emote_ERROR_PLAY_01	Eu não posso jogar isso.	
+VO_HERO_04ap_Leeroy_Human_Emote_ERROR_STEALTH_01	O amizade está furtivo.	
+VO_HERO_04ap_Leeroy_Human_Emote_ERROR_SUMMON_SICKNESS_01	Aquele lacaio ainda não está pronto.	
+VO_HERO_04ap_Leeroy_Human_Emote_ERROR_TARGET_01	Não posso mirar naquilo.	
+VO_HERO_04ap_Leeroy_Human_Emote_ERROR_TAUNT_01	Tenho que atacar o inimigo com provocar, amizade.	
+VO_HERO_04ap_Leeroy_Human_Emote_FIRE_FESTIVAL_01	Estou cheio de fogo para o Festival do Fogo!	
+VO_HERO_04ap_Leeroy_Human_Emote_Greetings_01	Saudações.	
+VO_HERO_04ap_Leeroy_Human_Emote_HAPPY_HALLOWEEN_01	É Noturnália, não Leeroy-se-acaba.	
+VO_HERO_04ap_Leeroy_Human_Emote_HAPPY_HOLIDAYS_01	Não dá para ficar parado nos feriados.	
+VO_HERO_04ap_Leeroy_Human_Emote_HAPPY_NEW_YEAR_01	Ano novo, mesmo eu.	
+VO_HERO_04ap_Leeroy_Human_Emote_HAPPY_NEW_YEAR_LUNAR_01	Ano novo, mesmo eu.	
+VO_HERO_04ap_Leeroy_Human_Emote_HAPPY_NOBLEGARDEN_01	Vamos caçar ovos!	
+VO_HERO_04ap_Leeroy_Human_Emote_HeroPower_01	Tente acompanhar.	
+VO_HERO_04ap_Leeroy_Human_Emote_HeroPower_02	Pegamos eles, pegamos eles.	
+VO_HERO_04ap_Leeroy_Human_Emote_HeroPower_03	Tem sempre lugar na minha guilda.	
+VO_HERO_04ap_Leeroy_Human_Emote_LowCards_01	Meu deck está quase vazio.	
+VO_HERO_04ap_Leeroy_Human_Emote_MIRROR_GREETINGS_01	Oi, bonitão.	
+VO_HERO_04ap_Leeroy_Human_Emote_MIRROR_START_01	Não, é mais: Leeeroyyyyyy Jennnnkinnnnsssss!	
+VO_HERO_04ap_Leeroy_Human_Emote_NoCards_01	Meu deck!	
+VO_HERO_04ap_Leeroy_Human_Emote_Oops_01	Não é culpa minha.	
+VO_HERO_04ap_Leeroy_Human_Emote_Picked_01	Me manda para onde tiver ação.	
+VO_HERO_04ap_Leeroy_Human_Emote_PIRATE_DAY_01	Só tenho olhos para o tesouro de dragão.	
+VO_HERO_04ap_Leeroy_Human_Emote_Sorry_01	Sinto muito.	
+VO_HERO_04ap_Leeroy_Human_Emote_Start_01	Leeeroyyyyyy Jennnnkinnnnsssss!	
+VO_HERO_04ap_Leeroy_Human_Emote_Thanks_01	Obrigado pela ajuda.	
+VO_HERO_04ap_Leeroy_Human_Emote_Thinking_01_01	Vamos fazer as contas...	
+VO_HERO_04ap_Leeroy_Human_Emote_Thinking_02_01	Que bordão eu vou usar?	
+VO_HERO_04ap_Leeroy_Human_Emote_Thinking_03_01	<Barulho de comer>	
+VO_HERO_04ap_Leeroy_Human_Emote_Threaten_01	Sai da minha frente.	
+VO_HERO_04ap_Leeroy_Human_Emote_Time_01	Tá na hora. Vamos nessa!	
+VO_HERO_04ap_Leeroy_Human_Emote_Well_Played_01	Nada mau, amizade.	
+VO_HERO_04ap_Leeroy_Human_Emote_WOW_01	É um em um bilhão.	
+VO_HERO_04ap_Leeroy_Leeroy_FIRE_FESTIVAL_FIREWORKS_RANK_ONE	É um em um bilhão.	
+VO_HERO_04ap_Leeroy_Leeroy_FIRE_FESTIVAL_FIREWORKS_RANK_THREE	É um em um bilhão.	
+VO_HERO_04ap_Leeroy_Leeroy_FIRE_FESTIVAL_FIREWORKS_RANK_TWO	É um em um bilhão.	
+VO_HERO_04ap_Leeroy_Leeroy_FROST_FESTIVAL_FIREWORKS_RANK_ONE	É um em um bilhão.	
+VO_HERO_04ap_Leeroy_Leeroy_FROST_FESTIVAL_FIREWORKS_RANK_THREE	É um em um bilhão.	
+VO_HERO_04ap_Leeroy_Leeroy_FROST_FESTIVAL_FIREWORKS_RANK_TWO	É um em um bilhão.	
 VO_HERO_04b_Male_Human_START_Illidan_01	Parece que somos páreo um para o outro.	
 VO_HERO_04b_Male_Human_START_Jaina_01	Eu sinto muito, Jaina.	
 VO_HERO_04b_Male_Human_START_Sylvanas_01	Um destino cruel está à nossa espera, Correventos.	
@@ -4204,6 +4373,17 @@ VO_HERO_05ag_Sylvanas_Undead_Emote_Thanks_01	Agradeço a ajuda.
 VO_HERO_05ag_Sylvanas_Undead_Emote_Threaten_01	Eu não erro.	
 VO_HERO_05ag_Sylvanas_Undead_Emote_Well_Played_01	Topo da tabela!	
 VO_HERO_05ag_Sylvanas_Undead_Emote_Wow_01	Um recorde foi batido!	
+VO_HERO_05ah_Huln_HighmountainTauren_Emote_Attack_01	Garranha!	
+VO_HERO_05ah_Huln_HighmountainTauren_Emote_Greetings_01	Oi, o que o vento trouxe?	
+VO_HERO_05ah_Huln_HighmountainTauren_Emote_MIRROR_GREETINGS_01	Vamos enfrentar as trevas.	
+VO_HERO_05ah_Huln_HighmountainTauren_Emote_MIRROR_START_01	Eu os sinto com tanta clareza.	
+VO_HERO_05ah_Huln_HighmountainTauren_Emote_Oops_01	Paz e paciência.	
+VO_HERO_05ah_Huln_HighmountainTauren_Emote_Picked_01	Já vi o céu queimar assim antes.	
+VO_HERO_05ah_Huln_HighmountainTauren_Emote_Start_01	A presença dos espíritos se fortalece!	
+VO_HERO_05ah_Huln_HighmountainTauren_Emote_Thanks_01	Que os espíritos te abençoem.	
+VO_HERO_05ah_Huln_HighmountainTauren_Emote_Threaten_01	Os deuses da natureza estão comigo.	
+VO_HERO_05ah_Huln_HighmountainTauren_Emote_Well_Played_01	Contarão lendas deste dia.	
+VO_HERO_05ah_Huln_HighmountainTauren_Emote_Wow_01	Por Cenarius!	
 VO_HERO_05b_Female_Undead_Concede_01	Eu já suportei demais...	
 VO_HERO_05b_Female_Undead_ERROR_FULL_MINIONS_02	Eu já tenho lacaios demais.	
 VO_HERO_05b_Female_Undead_ERROR_GENERIC_02	Não posso fazer isso. 	
@@ -4813,6 +4993,17 @@ VO_HERO_06aj_Guff_Tauren_Emote_Thanks_01	Mas é uma gentileza tão grande!
 VO_HERO_06aj_Guff_Tauren_Emote_Threaten_01	Se você não parar, eu vou ficar chateado!	
 VO_HERO_06aj_Guff_Tauren_Emote_Well_Played_01	Adoro enfrentar você! 	
 VO_HERO_06aj_Guff_Tauren_Emote_Wow_01	Impressionante!	
+VO_HERO_06am_Malfurion_NightElf_Emote_Attack_01	Nada de penetras.	
+VO_HERO_06am_Malfurion_NightElf_Emote_Greetings_01	Que festa louca.	
+VO_HERO_06am_Malfurion_NightElf_Emote_MIRROR_GREETINGS_01	Naturalmente.	
+VO_HERO_06am_Malfurion_NightElf_Emote_MIRROR_START_01	Seus sentidos se embotaram.	
+VO_HERO_06am_Malfurion_NightElf_Emote_Oops_01	Certamente haverá outra chance.	
+VO_HERO_06am_Malfurion_NightElf_Emote_Picked_01	O sol nasce para um dia especial.	
+VO_HERO_06am_Malfurion_NightElf_Emote_Start_01	Minha hora ainda não chegou.	
+VO_HERO_06am_Malfurion_NightElf_Emote_Thanks_01	Você me fez uma gentileza.	
+VO_HERO_06am_Malfurion_NightElf_Emote_Threaten_01	Tome cuidado.	
+VO_HERO_06am_Malfurion_NightElf_Emote_Well_Played_01	Você tem um dom natural.	
+VO_HERO_06am_Malfurion_NightElf_Emote_Wow_01	Como é possível?	
 VO_HERO_06e_Male_NightElf_Attack_01	Inimigos da natureza, cuidado!	
 VO_HERO_06e_Male_NightElf_Greetings_01	Estou ouvindo.	
 VO_HERO_06e_Male_NightElf_MIRROR_GREETINGS_01	Você sabe o que faz.	
@@ -5504,6 +5695,17 @@ VO_HERO_07am_Godfrey_Undead_Emote_Trigger_MortalCoil_01	Sua fraqueza era evident
 VO_HERO_07am_Godfrey_Undead_Emote_Trigger_MortalEradication_01	Feneça e morra!	
 VO_HERO_07am_Godfrey_Undead_Emote_Well_Played_01	Você luta com convicção.	
 VO_HERO_07am_Godfrey_Undead_Emote_WOW_01	Mas que belo truque.	
+VO_HERO_07an_Guldan_Orc_Emote_Attack_01	Desapareça.	
+VO_HERO_07an_Guldan_Orc_Emote_Greetings_01	Você quer alguma bebida?	
+VO_HERO_07an_Guldan_Orc_Emote_MIRROR_GREETINGS_01	Eu já consumi.	
+VO_HERO_07an_Guldan_Orc_Emote_MIRROR_START_01	Não lhe resta muito tempo.	
+VO_HERO_07an_Guldan_Orc_Emote_Oops_01	Essa deu errado!	
+VO_HERO_07an_Guldan_Orc_Emote_Picked_01	Eu vou, se for necessário.	
+VO_HERO_07an_Guldan_Orc_Emote_Start_01	Não tenho tempo para comemorar.	
+VO_HERO_07an_Guldan_Orc_Emote_Thanks_01	Um sinal do meu apreço.	
+VO_HERO_07an_Guldan_Orc_Emote_Threaten_01	Eu não estou no clima pra isso.	
+VO_HERO_07an_Guldan_Orc_Emote_Well_Played_01	Você cumpriu bem seu papel.	
+VO_HERO_07an_Guldan_Orc_Emote_Wow_01	Não pode ser!	
 VO_Hero_07d_Male_OldGod_Attack_02	<_estertor de ataque_>	
 VO_Hero_07d_Male_OldGod_Concede_01	Voltando... a... dormir...	
 VO_Hero_07d_Male_OldGod_Death_02	Assim termina...	
@@ -6233,7 +6435,7 @@ VO_HERO_08as_Jaina_Human_Emote_ERROR_STEALTH_01	Não posso mirar em lacaios furt
 VO_HERO_08as_Jaina_Human_Emote_ERROR_SUMMON_SICKNESS_01	Espere um turno para o lacaio se preparar.	
 VO_HERO_08as_Jaina_Human_Emote_ERROR_TARGET_01	Não consigo mirar naquilo.	
 VO_HERO_08as_Jaina_Human_Emote_ERROR_TAUNT_01	Estão me provocando.	
-VO_HERO_08as_Jaina_Human_Emote_FIRE_FESTIVAL_01	Se você chegar muito pert0, vai se queimar.	
+VO_HERO_08as_Jaina_Human_Emote_FIRE_FESTIVAL_01	Se você chegar muito perto, vai se queimar.	
 VO_HERO_08as_Jaina_Human_Emote_Greetings_01	Tem uma nova xerife na cidade.	
 VO_HERO_08as_Jaina_Human_Emote_HAPPY_HALLOWEEN_01	Viaje com cuidado, é Noturnália.	
 VO_HERO_08as_Jaina_Human_Emote_HAPPY_HOLIDAYS_01	Boas festas, tenho uma coisinha para você.	
@@ -6257,7 +6459,7 @@ VO_HERO_08as_Jaina_Human_Emote_Start_Mediv_01	É uma honra enfrentar magos do se
 VO_HERO_08as_Jaina_Human_Emote_Start_Thrall_01	Lamento, Thrall, mas vou ter que te prender.	
 VO_HERO_08as_Jaina_Human_Emote_Thanks_01	É muita gentileza.	
 VO_HERO_08as_Jaina_Human_Emote_Thinking_01_01	O que eu deveria lançar?	
-VO_HERO_08as_Jaina_Human_Emote_Thinking_02_01	O que fazer?...	
+VO_HERO_08as_Jaina_Human_Emote_Thinking_02_01	O que fazer?	
 VO_HERO_08as_Jaina_Human_Emote_Thinking_03_01	Talvez eu pudesse… não…	
 VO_HERO_08as_Jaina_Human_Emote_Threaten_01	Posso levar você com OU sem vida.	
 VO_HERO_08as_Jaina_Human_Emote_Time_01	Meu tempo está quase acabando.	
@@ -6269,6 +6471,34 @@ VO_HERO_08as_Jaina_Human_Emote_Trigger_ShootingStar_01	Mira nas estrelas!
 VO_HERO_08as_Jaina_Human_Emote_Trigger_SunsetVolley_01	Dedo no gatilho.	
 VO_HERO_08as_Jaina_Human_Emote_Well_Played_01	Você se vira bem.	
 VO_HERO_08as_Jaina_Human_Emote_WOW_01	Não creio nos meus olhos.	
+VO_Hero_08as_Jaina_Jaina_FIRE_FESTIVAL_FIREWORKS_RANK_ONE	Não creio nos meus olhos.	
+VO_Hero_08as_Jaina_Jaina_FIRE_FESTIVAL_FIREWORKS_RANK_THREE	Não creio nos meus olhos.	
+VO_Hero_08as_Jaina_Jaina_FIRE_FESTIVAL_FIREWORKS_RANK_TWO	Não creio nos meus olhos.	
+VO_Hero_08as_Jaina_Jaina_FROST_FESTIVAL_FIREWORKS_RANK_ONE	Não creio nos meus olhos.	
+VO_Hero_08as_Jaina_Jaina_FROST_FESTIVAL_FIREWORKS_RANK_THREE	Não creio nos meus olhos.	
+VO_Hero_08as_Jaina_Jaina_FROST_FESTIVAL_FIREWORKS_RANK_TWO	Não creio nos meus olhos.	
+VO_HERO_08at_Celeste_Dragon_Emote_Attack_01	Dance com um dragão!	
+VO_HERO_08at_Celeste_Dragon_Emote_Greetings_01	Oi, curtindo os festejos?	
+VO_HERO_08at_Celeste_Dragon_Emote_MIRROR_GREETINGS_01	É claro! São em minha honra!	
+VO_HERO_08at_Celeste_Dragon_Emote_MIRROR_START_01	Que o novo ano seja próspero!	
+VO_HERO_08at_Celeste_Dragon_Emote_Oops_01	Erros são oportunidades de aprendizado.	
+VO_HERO_08at_Celeste_Dragon_Emote_Picked_01	Este ano traz muitas bênçãos!	
+VO_HERO_08at_Celeste_Dragon_Emote_Start_01	Vamos comemorar um novo começo!	
+VO_HERO_08at_Celeste_Dragon_Emote_Thanks_01	Você tem minha gratidão eterna.	
+VO_HERO_08at_Celeste_Dragon_Emote_Threaten_01	Você não desgraçará este festival!	
+VO_HERO_08at_Celeste_Dragon_Emote_Well_Played_01	Você honrou seus ancestrais.	
+VO_HERO_08at_Celeste_Dragon_Emote_Wow_01	As estrelas se alinharam!	
+VO_HERO_08au_Medivh_Human_Emote_Attack_01	Cancelei seu convite!	
+VO_HERO_08au_Medivh_Human_Emote_Greetings_01	É a festa da década!	
+VO_HERO_08au_Medivh_Human_Emote_MIRROR_GREETINGS_01	Já estava esperando para ouvir isso há tanto tempo.	
+VO_HERO_08au_Medivh_Human_Emote_MIRROR_START_01	Acho que me contrataram duas vezes.	
+VO_HERO_08au_Medivh_Human_Emote_Oops_01	Pode botar a culpa no azar.	
+VO_HERO_08au_Medivh_Human_Emote_Picked_01	Estou lisonjeado, mas não surpreso.	
+VO_HERO_08au_Medivh_Human_Emote_Start_01	Apresentando seu Mestre de Cerimônias, eu!	
+VO_HERO_08au_Medivh_Human_Emote_Thanks_01	Hahaha, agradeço!	
+VO_HERO_08au_Medivh_Human_Emote_Threaten_01	Cuidado, ou não convido você para o after.	
+VO_HERO_08au_Medivh_Human_Emote_Well_Played_01	Você está criando uma bela reputação!	
+VO_HERO_08au_Medivh_Human_Emote_Wow_01	Mágico!	
 VO_HERO_08b_HAPPY_NEW_YEAR_53	Feliz ano novo!	
 VO_Hero_08e_Male_Lich_Concede_01	A vitória é sua.	
 VO_Hero_08e_Male_Lich_ERROR_FULL_MINIONS_01	Minha seita não pode recrutar mais!	
@@ -6949,6 +7179,17 @@ VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Trigger_TheStarsAlign_01	Nunca vi ta
 VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Trigger_TramHeist_01	Usarei isto com mais responsabilidade.	
 VO_HERO_09aj_EliseStarseeker_NightElf_Emote_Well_Played_01	Você luta de maneira formidável.	
 VO_HERO_09aj_EliseStarseeker_NightElf_Emote_WOW_01	Isso é inconcebível!	
+VO_HERO_09ak_Sally_Human_Emote_Attack_01	Arrependa-se!	
+VO_HERO_09ak_Sally_Human_Emote_Greetings_01	Você tem permissão para conversar comigo.	
+VO_HERO_09ak_Sally_Human_Emote_MIRROR_GREETINGS_01	Mas você não tem a minha permissão.	
+VO_HERO_09ak_Sally_Human_Emote_MIRROR_START_01	Você é uma impostora!	
+VO_HERO_09ak_Sally_Human_Emote_Oops_01	Não era para ter sido assim.	
+VO_HERO_09ak_Sally_Human_Emote_Picked_01	Vou iluminar a noite e revelar o mal que aqui espreita.	
+VO_HERO_09ak_Sally_Human_Emote_Start_01	Eu sou a luz que derrota a treva.	
+VO_HERO_09ak_Sally_Human_Emote_Thanks_01	Você conquistou meu apreço.	
+VO_HERO_09ak_Sally_Human_Emote_Threaten_01	Os corruptos serão punidos hoje.	
+VO_HERO_09ak_Sally_Human_Emote_Well_Played_01	Tenho integridade demais para não reconhecer seu talento.	
+VO_HERO_09ak_Sally_Human_Emote_Wow_01	Que interessante.	
 VO_HERO_09b_Female_Troll_Concede_01	Você venceu. Era teu destino.	
 VO_HERO_09b_Female_Troll_ERROR_FULL_MINIONS_02	Meu tabuleiro tá cheio!	
 VO_HERO_09b_Female_Troll_ERROR_GENERIC_02	Isso é impossível.	
@@ -7527,7 +7768,6 @@ VO_HERO_10ad_RavenlordKurtrus_FROST_FESTIVAL_FIREWORKS_RANK_ONE	Uma surpresa e t
 VO_HERO_10ad_RavenlordKurtrus_FROST_FESTIVAL_FIREWORKS_RANK_THREE	Uma surpresa e tanto.	
 VO_HERO_10ad_RavenlordKurtrus_FROST_FESTIVAL_FIREWORKS_RANK_TWO	Uma surpresa e tanto.	
 VO_HERO_10ae_Male_Beast_Emote_Attack_01	<_rosnado_>	
-VO_HERO_10ae_Male_Beast_Emote_Greetings_01	Saudações... Olá.	
 VO_HERO_10ae_Male_Beast_Emote_MIRROR_GREETINGS_01	Duas cabeças... é demais.	
 VO_HERO_10ae_Male_Beast_Emote_MIRROR_START_01	Então, se solta... <_uivo_>	
 VO_HERO_10ae_Male_Beast_Emote_Oops_01	Erros... são como grilhões.	
@@ -7537,6 +7777,7 @@ VO_HERO_10ae_Male_Beast_Emote_Thanks_01	Você angariou... minha gratidão.
 VO_HERO_10ae_Male_Beast_Emote_Threaten_01	Vou rasgar você... ao meio!	
 VO_HERO_10ae_Male_Beast_Emote_Well_Played_01	Você luta como... quem está possuído.	
 VO_HERO_10ae_Male_Beast_Emote_Wow_01	Inesperado... Inexplicável...	
+VO_HERO_10ae_Omen_Emote_Greetings_01	Então, se solta. / <uivo>	
 VO_HERO_10af_Illidan_FIRE_FESTIVAL_FIREWORKS_RANK_ONE	Cão sarnento!	
 VO_HERO_10af_Illidan_FIRE_FESTIVAL_FIREWORKS_RANK_THREE	Cão sarnento!	
 VO_HERO_10af_Illidan_FIRE_FESTIVAL_FIREWORKS_RANK_TWO	Cão sarnento!	
@@ -7598,6 +7839,57 @@ VO_HERO_10aj_Aranna_NightElf_Emote_Thanks_01	Eu agradeço, gentil viajante.
 VO_HERO_10aj_Aranna_NightElf_Emote_Threaten_01	Vou botar uma bem no meio dos olhos.	
 VO_HERO_10aj_Aranna_NightElf_Emote_Well_Played_01	Você é tiro certo mesmo!	
 VO_HERO_10aj_Aranna_NightElf_Emote_Wow_01	Uma exibição incrível!	
+VO_HERO_10ak_Kailene_BloodElf_Emote_Attack_01	Ofuscar!	
+VO_HERO_10ak_Kailene_BloodElf_Emote_Concede_01	Você me superou.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_Death_01	<morte>	
+VO_HERO_10ak_Kailene_BloodElf_Emote_ERROR_FULL_MINIONS_01	Não tem espaço.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_ERROR_GENERIC_01	Não posso fazer isso.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_ERROR_HAND_FULL_01	Minha mão está cheia!	
+VO_HERO_10ak_Kailene_BloodElf_Emote_ERROR_I_ATTACKED_01	Eu já ataquei.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_ERROR_MINION_ATTACKED_01	Esse lacaio já atacou.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_ERROR_NEED_MANA_01	Preciso de mais mana.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_ERROR_NEED_WEAPON_01	Isso exige uma arma.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_ERROR_PLAY_01	Eu não posso jogar isso.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_ERROR_STEALTH_01	Está furtivo.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_ERROR_SUMMON_SICKNESS_01	Aquele lacaio ainda não está pronto.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_ERROR_TARGET_01	Não posso mirar naquilo.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_ERROR_TAUNT_01	Tenho que atacar o inimigo com provocar.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_FIRE_FESTIVAL_01	Vamos iluminar a noite!	
+VO_HERO_10ak_Kailene_BloodElf_Emote_Greetings_01	Oi, você é fã?	
+VO_HERO_10ak_Kailene_BloodElf_Emote_HAPPY_HALLOWEEN_01	Agora, a Dança da Morte.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_HAPPY_HOLIDAYS_01	A próxima dança é inspirada pelo êxtase das festas.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_HAPPY_NEW_YEAR_01	Vamos dançar pelo novo ano!	
+VO_HERO_10ak_Kailene_BloodElf_Emote_HAPPY_NEW_YEAR_LUNAR_01	Vamos dançar pelo novo ano!	
+VO_HERO_10ak_Kailene_BloodElf_Emote_HAPPY_NOBLEGARDEN_01	Prepare-se para saltar!	
+VO_HERO_10ak_Kailene_BloodElf_Emote_LowCards_01	Estou ficando sem jogadas.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_MIRROR_GREETINGS_01	Estou mais para competição.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_MIRROR_START_01	Nem precisa repetir.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_NoCards_01	Estou sem cards!	
+VO_HERO_10ak_Kailene_BloodElf_Emote_Oops_01	Só fica de boa.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_Picked_01	Eu sempre ofereço um espetáculo!	
+VO_HERO_10ak_Kailene_BloodElf_Emote_PIRATE_DAY_01	Io ho ho.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_Sorry_01	Eu peço perdão.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_Start_01	Minha dança deslumbra, deleita e destrói.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_Start_DisidraStormglory_01	É sempre incrível conhecer colegas artistas.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_Start_Illidan_01	 Você é tão lúgubre.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_Start_LichKing_01	Você precisa de mais cor no seu figurino.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_Thanks_01	Muito, muito obrigada.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_Thinking_01_01	O que seria inesperado…?	
+VO_HERO_10ak_Kailene_BloodElf_Emote_Thinking_02_01	E agora…?	
+VO_HERO_10ak_Kailene_BloodElf_Emote_Thinking_03_01	Qual seria o melhor jeito…?	
+VO_HERO_10ak_Kailene_BloodElf_Emote_Threaten_01	Não tolero distrações.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_Time_01	Melhor se adiantar.	
+VO_HERO_10ak_Kailene_BloodElf_Emote_Well_Played_01	Muito bem jogado, de fato!	
+VO_HERO_10ak_Kailene_BloodElf_Emote_WOW_01	Que espetáculo!	
+VO_HERO_10ak_Kailene_BloodElf_Start_DisidraStormglory_01	É sempre incrível conhecer colegas artistas.	
+VO_HERO_10ak_Kailene_BloodElf_Start_Illidan_01	 Você é tão lúgubre.	
+VO_HERO_10ak_Kailene_BloodElf_Start_LichKing_01	Você precisa de mais cor no seu figurino.	
+VO_Hero_10ak_Kailene_Kailene_FIRE_FESTIVAL_FIREWORKS_RANK_ONE	Que espetáculo!	
+VO_Hero_10ak_Kailene_Kailene_FIRE_FESTIVAL_FIREWORKS_RANK_THREE	Que espetáculo!	
+VO_Hero_10ak_Kailene_Kailene_FIRE_FESTIVAL_FIREWORKS_RANK_TWO	Que espetáculo!	
+VO_Hero_10ak_Kailene_Kailene_FROST_FESTIVAL_FIREWORKS_RANK_ONE	Que espetáculo!	
+VO_Hero_10ak_Kailene_Kailene_FROST_FESTIVAL_FIREWORKS_RANK_THREE	Que espetáculo!	
+VO_Hero_10ak_Kailene_Kailene_FROST_FESTIVAL_FIREWORKS_RANK_TWO	Que espetáculo!	
 VO_HERO_10c_Male_NightElf_Attack_01	Moleza!	
 VO_HERO_10c_Male_NightElf_Greetings_01	Eu vou terminar minha caçada.	
 VO_HERO_10c_Male_NightElf_MIRROR_GREETINGS_01	Cuide logo disso.	
@@ -8303,6 +8595,7 @@ VO_HERO_11l_Female_Sanlayn_Emote_Picked_01	Os San'layn são os soldados imortais
 VO_HERO_11l_Female_Sanlayn_Emote_PIRATE_DAY_01	Arrrr.	
 VO_HERO_11l_Female_Sanlayn_Emote_Sorry_01	Sinto muito.	
 VO_HERO_11l_Female_Sanlayn_Emote_Start_01	A morte não oferece escapatória.	
+VO_HERO_11l_Female_Sanlayn_Emote_Start_Kael'thas_01	Agora eu sirvo a outro.	
 VO_HERO_11l_Female_Sanlayn_Emote_Start_TheLichKing_01	Eu não hesitarei, mestre.	
 VO_HERO_11l_Female_Sanlayn_Emote_Thanks_01	Você tem a minha gratidão.	
 VO_HERO_11l_Female_Sanlayn_Emote_Thinking_01	Como os punirei?	
@@ -8346,6 +8639,23 @@ VO_HERO_11n_Female_Undead_Emote_Thanks_01	Minha gratidão nunca morre.
 VO_HERO_11n_Female_Undead_Emote_Threaten_01	Vou ter que matar você de novo?	
 VO_HERO_11n_Female_Undead_Emote_Well_Played_01	Você dará um bom serviçal.	
 VO_HERO_11n_Female_Undead_Emote_Wow_01	Nunca vi isso antes.	
+VO_Hero_11n_SaiShadestorm_Sai_FIRE_FESTIVAL_FIREWORKS_RANK_ONE	Inacreditável!	
+VO_Hero_11n_SaiShadestorm_Sai_FIRE_FESTIVAL_FIREWORKS_RANK_THREE	Inacreditável!	
+VO_Hero_11n_SaiShadestorm_Sai_FIRE_FESTIVAL_FIREWORKS_RANK_TWO	Inacreditável!	
+VO_Hero_11n_SaiShadestorm_Sai_FROST_FESTIVAL_FIREWORKS_RANK_ONE	Inacreditável!	
+VO_Hero_11n_SaiShadestorm_Sai_FROST_FESTIVAL_FIREWORKS_RANK_THREE	Inacreditável!	
+VO_Hero_11n_SaiShadestorm_Sai_FROST_FESTIVAL_FIREWORKS_RANK_TWO	Inacreditável!	
+VO_HERO_11n_SaiShadestorm_Undead_Emote_Attack_01	Tente me acompanhar!	
+VO_HERO_11n_SaiShadestorm_Undead_Emote_Greetings_01	Nossa batalha será lendária!	
+VO_HERO_11n_SaiShadestorm_Undead_Emote_MIRROR_GREETINGS_01	Não vamos nos conter.	
+VO_HERO_11n_SaiShadestorm_Undead_Emote_MIRROR_START_01	Então se prepare para perdê-la.	
+VO_HERO_11n_SaiShadestorm_Undead_Emote_Oops_01	Tomara que os ancestrais não tenham visto isso…	
+VO_HERO_11n_SaiShadestorm_Undead_Emote_Picked_01	Vamos dar uma recepção calorosa aos nossos oponentes.	
+VO_HERO_11n_SaiShadestorm_Undead_Emote_Start_01	Colocarei minha honra em risco.	
+VO_HERO_11n_SaiShadestorm_Undead_Emote_Thanks_01	Meus mais profundos agradecimentos.	
+VO_HERO_11n_SaiShadestorm_Undead_Emote_Threaten_01	Você profana nossa tradição!	
+VO_HERO_11n_SaiShadestorm_Undead_Emote_Well_Played_01	Você se equipara até à minha força.	
+VO_HERO_11n_SaiShadestorm_Undead_Emote_Wow_01	Inacreditável!	
 VO_HERO_11n_ZombieQueenScarlet_FIRE_FESTIVAL_FIREWORKS_RANK_ONE	Nunca vi isso antes.	
 VO_HERO_11n_ZombieQueenScarlet_FIRE_FESTIVAL_FIREWORKS_RANK_THREE	Nunca vi isso antes.	
 VO_HERO_11n_ZombieQueenScarlet_FIRE_FESTIVAL_FIREWORKS_RANK_TWO	Nunca vi isso antes.	
@@ -9095,7 +9405,7 @@ VO_WW_0700_RenoJackson_Human_Emote_Attack_01	Só preciso de um tiro!
 VO_WW_0700_RenoJackson_Human_Emote_Death_01	<Morte>	
 VO_WW_0700_RenoJackson_Human_Emote_Greetings_01	Bão dia, camarada!	
 VO_WW_0700_RenoJackson_Human_Emote_MIRROR_GREETINGS_01	Essa cidade precisava de mais gente igual a mim!	
-VO_WW_0700_RenoJackson_Human_Emote_Oops_01	Aff, quando imaginei a cena, correu tudo diferente.	
+VO_WW_0700_RenoJackson_Human_Emote_Oops_01	Ehh, quando imaginei a cena, correu tudo diferente.	
 VO_WW_0700_RenoJackson_Human_Emote_Play_01	Tá procurando um duelo? Cuidado, é contra mim!	
 VO_WW_0700_RenoJackson_Human_Emote_Sorry_01	Opa... ah... desculpe!	
 VO_WW_0700_RenoJackson_Human_Emote_Thanks_01	Ah, valeu, foi só mais um dia de trabalho heroico.	
